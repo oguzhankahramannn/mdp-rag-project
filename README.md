@@ -6,6 +6,7 @@ Bu proje, MDP Group'a ait web sayfalarından [Jina.ai](https://jina.ai) aracıl�
 
 Kullanıcılar, sisteme hem **Streamlit** web arayüzü hem de **FastAPI** REST API'si hem de statik **HTML** chat widget'ı üzerinden soru sorabilir.
 
+```text
 MDP_RAG_Project/
 │
 ├── data/                       # Jina.ai ile toplanan ham metin verileri
@@ -34,9 +35,12 @@ MDP_RAG_Project/
 ├── requirements.txt            # Python bağımlılıkları
 ├── .env                        # API anahtarı (Git'e dahil edilmez)
 └── .gitignore                  # Versiyon kontrolünden hariç tutulan dosyalar
+```
 
 ## Teknoloji Yığını
-|---|---|---|
+
+| Bileşen | Teknoloji | Açıklama |
+| --- | --- | --- |
 | **Veri Toplama** | [Jina.ai](https://jina.ai) | MDP Group web sayfalarından metin çıkarma |
 | **Embedding Modeli** | `gemini-embedding-001` | Metin parçalarını vektöre dönüştürme |
 | **Vektör Veritabanı** | ChromaDB | Vektörlerin kalıcı olarak saklanması ve aranması |
@@ -46,17 +50,19 @@ MDP_RAG_Project/
 | **Web Arayüzü** | Streamlit | İnteraktif sohbet arayüzü |
 | **Chat Widget** | Vanilla HTML/CSS/JS | Harici sitelere gömülebilir chat bileşeni |
 | **Ortam Yönetimi** | python-dotenv | `.env` üzerinden API anahtarı yönetimi |
----
-##  Kurulum ve Çalıştırma
 
-###  Depoyu Klonla
+---
+
+## Kurulum ve Çalıştırma
+
+### Depoyu Klonla
 
 ```bash
-git clone https://github.com/<KULLANICI_ADI>/MDP_RAG_Project.git
+git clone [https://github.com/](https://github.com/)<KULLANICI_ADI>/MDP_RAG_Project.git
 cd MDP_RAG_Project
 ```
 
-###  Sanal Ortam Oluştur ve Aktifleştir
+### Sanal Ortam Oluştur ve Aktifleştir
 
 ```bash
 python -m venv venv
@@ -68,7 +74,7 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-###  Bağımlılıkları Yükle
+### Bağımlılıkları Yükle
 
 ```bash
 pip install -r requirements.txt
@@ -84,7 +90,7 @@ GOOGLE_API_KEY="BURAYA_KENDI_API_ANAHTARINIZI_YAZIN"
 
 > Not: API anahtarınızı [Google AI Studio](https://aistudio.google.com/apikey) üzerinden alabilirsiniz.
 
-###  Vektör Veritabanını Oluştur
+### Vektör Veritabanını Oluştur
 
 Bu adım, `data/` klasöründeki metin dosyalarını okuyarak ChromaDB vektör veritabanını oluşturur:
 
@@ -94,16 +100,16 @@ python create_db.py
 
 Başarılı çıktı:
 
-```
+```text
 1. 'data' klasöründeki metinler okunuyor...
 2. Metinler parçalanıyor... (Okunan belge sayısı: 14)
 3. Vektör veritabanı (Chroma) oluşturuluyor... (Toplam Parça: ...)
  Veritabanı başarıyla oluşturuldu!
 ```
 
-###  Uygulamayı Çalıştır
+### Uygulamayı Çalıştır
 
-#### Seçenek A Streamlit Arayüzü
+#### Seçenek A: Streamlit Arayüzü
 
 ```bash
 streamlit run app.py
@@ -111,7 +117,7 @@ streamlit run app.py
 
 Tarayıcınızda `http://localhost:8501` adresinde açılacaktır.
 
-#### Seçenek B FastAPI Sunucusu
+#### Seçenek B: FastAPI Sunucusu
 
 ```bash
 uvicorn api:app --reload
@@ -127,11 +133,11 @@ API `http://localhost:8000` adresinde çalışır. Swagger dokümantasyonuna `ht
 
 ---
 
-##  API Kullanımı
+## API Kullanımı
 
 ### Endpoint
 
-```
+```http
 POST /ask
 ```
 
@@ -159,8 +165,7 @@ curl -X POST http://localhost:8000/ask \
   -d '{"message": "MDP Group nedir?"}'
 ```
 
-
-##  Modül Açıklamaları
+## Modül Açıklamaları
 
 ### `create_db.py`
 - `data/` klasöründeki tüm metin dosyalarını `DirectoryLoader` ile yükler.
@@ -191,12 +196,12 @@ curl -X POST http://localhost:8000/ask \
 
 ---
 
-##  Veri Kaynakları
+## Veri Kaynakları
 
 Tüm veriler, MDP Group'un kurumsal web sitesinden [Jina.ai Reader](https://jina.ai) API'si kullanılarak çıkarılmış ve `data/` klasöründe `.txt` dosyaları olarak saklanmaktadır:
 
 | Dosya | İçerik |
-|---|---|
+| --- | --- |
 | `mdp_genel_bilgi.txt.txt` | Şirket hakkında genel bilgiler |
 | `kurumsal.txt.txt` | Kurumsal yapı ve organizasyon |
 | `mdp-danismanlik.txt.txt` | Danışmanlık hizmetleri |
@@ -214,7 +219,7 @@ Tüm veriler, MDP Group'un kurumsal web sitesinden [Jina.ai Reader](https://jina
 
 ---
 
-##  Önemli Notlar
+## Önemli Notlar
 
 - **API Anahtarı:** `.env` dosyasındaki `GOOGLE_API_KEY` değerini asla versiyon kontrolüne eklemeyin. `.gitignore` dosyası bunu zaten engellemektedir.
 - **Embedding Tutarlılığı:** `create_db.py` ve `rag_engine.py` dosyalarında aynı embedding modeli (`gemini-embedding-001`) kullanılmalıdır. Farklı modeller hatalı arama sonuçlarına neden olur.
@@ -223,14 +228,12 @@ Tüm veriler, MDP Group'un kurumsal web sitesinden [Jina.ai Reader](https://jina
 
 ---
 
-##  Lisans
+## Lisans
 
 Bu proje deneme amaçlı geliştirilmiştir.
 
-
-##  İletişim
+## İletişim
 
 Proje hakkında sorularınız için:
 
 - **E-posta:** oguzhankhrman@gmail.com
-
