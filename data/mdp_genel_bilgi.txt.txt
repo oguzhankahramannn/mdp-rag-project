@@ -1,0 +1,379 @@
+Title: MDP Group | SAP Consultancy & SAP-Integrated Solutions | 400+ References
+
+URL Source: https://mdpgroup.com/
+
+Markdown Content:
+# MDP Group | SAP Consultancy & SAP-Integrated Solutions | 400+ References
+
+[![Image 1: MDP Group](https://mdpgroup.com/wp-content/uploads/2020/03/l.png.webp)](https://mdpgroup.com/en "MDP Group")
+
+*   [Company](https://mdpgroup.com/#)
+    
+
+    *   [About Us](https://mdpgroup.com/en/corporate/)
+    *   [Academy](https://mdpgroup.com/en/mdp-academy/)
+    *   [Job Opportunities](https://mdpgroup.com/en/job-opportunities/)
+
+*   [Solutions](https://mdpgroup.com/#)
+    
+
+    *   [FI Add Ons for SAP](https://mdpgroup.com/#)
+        *   [Deposit Account and Foreign Currency Transaction Portal](https://mdpgroup.com/en/solutions/sap-deposit-account-and-foreign-currency-portal/)
+        *   [Direct Debit System](https://mdpgroup.com/en/solutions/sap-direct-debit-system/)
+        *   [e-Account Statement](https://mdpgroup.com/en/solutions/sap-extract-account-statement/)
+        *   [Expense Management](https://mdpgroup.com/en/solutions/sap-expense-management/)
+        *   [Provision Request Form](https://mdpgroup.com/en/solutions/sap-provision-request-form/)
+
+    *   [e-Solutions](https://mdpgroup.com/#)
+        *   [e-Invoice](https://mdpgroup.com/en/solutions/e-invoice/)
+        *   [e-Archive Invoice](https://mdpgroup.com/en/solutions/e-archive/)
+        *   [Peppol e-Invoice](https://mdpgroup.com/en/peppol-e-invoice/)
+        *   [e-Ledger](https://mdpgroup.com/en/solutions/e-ledger/)
+        *   [e-Delivery Note](https://mdpgroup.com/en/solutions/e-delivery-note/)
+        *   [e-Reconciliation](https://mdpgroup.com/en/solutions/e-reconciliation/)
+        *   [Incoming Invoice](https://mdpgroup.com/en/solutions/sap-incoming-invoice/)
+        *   [Leave Management](https://mdpgroup.com/en/solutions/sap-leave-management/)
+        *   [Travel Management](https://mdpgroup.com/en/solutions/sap-travel-management/)
+        *   [Organisation Chart](https://mdpgroup.com/en/solutions/sap-organization-management/)
+        *   [Salary Management](https://mdpgroup.com/en/solutions/sap-salary-management/)
+        *   [SAP SuccessFactors Integration](https://mdpgroup.com/en/solutions/sap-successfactors-integration/)
+
+    *   [SAP PO B2B Add-On](https://mdpgroup.com/#)
+        *   [Pre-packaged Mappings EDIFACT](https://mdpgroup.com/en/pre-packaged-mappings-edifact/)
+        *   [Pre-packaged Mappings ANSI X12](https://mdpgroup.com/en/pre-packaged-mappings-ansi-x12/)
+        *   [Prepackaged Mappings VDA](https://mdpgroup.com/en/pre-packaged-mappings-vda/)
+
+    *   [Custom Solutions & Services](https://mdpgroup.com/#)
+        *   [JetSRM Supplier Portal](https://mdpgroup.com/en/solutions/jetsrm-supplier-portal/)
+        *   [MIP – iPaaS](https://mdpgroup.com/en/solutions/mip-ipaas/)
+        *   [JetCRM B2B Customer Portal](https://mdpgroup.com/en/solutions/jetcrm-b2b-customer-portal/)
+        *   [MDP Firefighter Cockpit](https://mdpgroup.com/en/solutions/mdp-firefighter-cockpit/)
+        *   [MDP Custom Fiori Client](https://mdpgroup.com/en/solutions/sap-custom-fiori-client/)
+        *   [MDP Fiori Usage Tracker](https://mdpgroup.com/en/solutions/mdp-fiori-usage-tracker/)
+        *   [Inventory Tracking](https://mdpgroup.com/en/solutions/sap-inventory-tracking/)
+        *   [Continuous Improvement](https://mdpgroup.com/en/solutions/continuous-improvement-software/)
+        *   [Digital 5S](https://mdpgroup.com/en/solutions/digital-5s-software/)
+        *   [Employee Suggestion Management](https://mdpgroup.com/en/solutions/sap-suggestion-system/)
+        *   [Kaizen Software](https://mdpgroup.com/kaizen-software/)
+        *   [Occupational Health Safety](https://mdpgroup.com/en/solutions/sap-health-and-safety-solution/)
+        *   [Custom MDM](https://mdpgroup.com/en/solutions/sap-custom-mdm/)
+        *   [Information Management](https://mdpgroup.com/en/solutions/sap-information-management/)
+        *   [Mobile Collection](https://mdpgroup.com/en/solutions/sap-mobile-collection/)
+        *   [SAP PI/PO Monitoring](https://mdpgroup.com/en/sap-pi-po-monitoring/)
+
+    *   [IT Asset Management](https://mdpgroup.com/#)
+        *   [IT Asset Management Software](https://mdpgroup.com/en/solutions/it-asset-management-software/)
+        *   [Application Portfolio Management Software](https://mdpgroup.com/en/solutions/application-portfolio-management-software/)
+        *   [Hardware Asset Management Software](https://mdpgroup.com/en/solutions/hardware-asset-management-software/)
+        *   [IT Cost Management Software](https://mdpgroup.com/en/solutions/it-cost-management-software/)
+        *   [Integration Inventory Management Software](https://mdpgroup.com/en/integration-inventory-management-software/)
+
+*   [Consultancy](https://mdpgroup.com/en/consultancy/)
+    
+
+    *   [SAP AIF](https://mdpgroup.com/en/consultancy/sap-aif/)
+    *   [SAP ABAP](https://mdpgroup.com/en/consultancy/sap-abap/)
+    *   [SAP EDI](https://mdpgroup.com/en/consultancy/sap-edi/)
+    *   [SAP EWM](https://mdpgroup.com/en/consultancy/sap-ewm/)
+    *   [SAP Fiori](https://mdpgroup.com/en/consultancy/sap-fiori/)
+    *   [SAP GTS](https://mdpgroup.com/en/consultancy/sap-global-trade-services-gts/)
+    *   [SAP Integration Suite](https://mdpgroup.com/en/consultancy/sap-integration-suite/)
+    *   [SAP MFS](https://mdpgroup.com/en/consultancy/sap-mfs/)
+    *   [SAP MII](https://mdpgroup.com/en/consultancy/sap-mii/)
+    *   [SAP PI/PO](https://mdpgroup.com/en/consultancy/sap-pi-po/)
+    *   [SAP Signavio](https://mdpgroup.com/en/consultancy/sap-signavio/)
+    *   [SAP TM](https://mdpgroup.com/en/consultancy/sap-transportation-management-tm/)
+    *   [WMS](https://mdpgroup.com/en/consultancy/wms/)
+    *   [Azure Integration](https://mdpgroup.com/azure-integration-services-solutions/)
+
+*   [AI](https://mdpgroup.com/en/enterprise-artificial-intelligence-consulting/)
+*   [Blog](https://mdpgroup.com/en/blogs/)
+*   [Resources](https://mdpgroup.com/#)
+    
+
+    *   [White Papers](https://mdpgroup.com/en/whitepaper/)
+    *   [Events](https://mdpgroup.com/en/events/)
+    *   [Case Studies](https://mdpgroup.com/en/case-studies/)
+
+*   [References](https://mdpgroup.com/en/references/)
+*   [Contact Us](https://mdpgroup.com/en/contact-us/)
+
+*   [![Image 2: English](blob:http://localhost/d883beb4362fe84660fab16ca0c3a516)](https://mdpgroup.com/en/)
+*   [![Image 3: Türkçe](blob:http://localhost/7c24eb4a3e18324906b4e0adc59e084e)](https://mdpgroup.com/)
+*   [![Image 4: Deutsch](blob:http://localhost/f7175783fb143a77de78739839c9b35f)](https://mdpgroup.com/de/)
+
+*   [Corporate](https://mdpgroup.com/#)
+    *   [](javascript:;)
+    *   [About Us](https://mdpgroup.com/en/corporate/)
+    *   [MDP Academy](https://mdpgroup.com/en/mdp-academy/)
+    *   [Job Opportunities](https://mdpgroup.com/en/job-opportunities/)
+
+*   [Solutions](https://mdpgroup.com/#)
+    *   [](javascript:;)
+    *   [MIP – iPaaS](https://mdpgroup.com/en/solutions/mip-ipaas/)
+    *   [IT Asset Management Software – Loggle](https://mdpgroup.com/en/solutions/it-asset-management-software/)
+    *   [Organisation Chart](https://mdpgroup.com/en/solutions/sap-organization-management/)
+    *   [SAP SuccessFactors Integration](https://mdpgroup.com/en/solutions/sap-successfactors-integration/)
+    *   [Inventory Tracking](https://mdpgroup.com/en/solutions/sap-inventory-tracking/)
+    *   [Pre-packaged Mappings EDIFACT](https://mdpgroup.com/en/pre-packaged-mappings-edifact/)
+    *   [Pre-packaged Mappings ANSI X12](https://mdpgroup.com/en/pre-packaged-mappings-ansi-x12/)
+    *   [Pre-packaged Mappings VDA](https://mdpgroup.com/en/pre-packaged-mappings-vda/)
+    *   [Occupational Health Safety](https://mdpgroup.com/en/solutions/sap-health-and-safety-solution/)
+    *   [Custom MDM](https://mdpgroup.com/en/solutions/sap-custom-mdm/)
+    *   [Information Management](https://mdpgroup.com/en/solutions/sap-information-management/)
+    *   [Continuous Improvement Software](https://mdpgroup.com/en/solutions/continuous-improvement-software/)
+    *   [Employee Suggestion Management](https://mdpgroup.com/en/solutions/sap-suggestion-system/)
+    *   [Digital 5S Software](https://mdpgroup.com/en/solutions/digital-5s-software/)
+    *   [JetSRM Supplier Portal](https://mdpgroup.com/en/solutions/jetsrm-supplier-portal/)
+    *   [MDP Firefighter Cockpit](https://mdpgroup.com/en/solutions/mdp-firefighter-cockpit/)
+    *   [MDP Custom Fiori Client](https://mdpgroup.com/en/whitepaper/mdp-custom-fiori-client/)
+    *   [MDP Fiori Usage Tracker](https://mdpgroup.com/en/solutions/mdp-fiori-usage-tracker/)
+    *   [JetCRM B2B Customer Portal](https://mdpgroup.com/en/solutions/jetcrm-b2b-customer-portal/)
+    *   [Mobile Collection](https://mdpgroup.com/en/solutions/sap-mobile-collection/)
+    *   [MDP SAP AI Assistant](https://mdpgroup.com/en/?page_id=18082)
+
+*   [Consultancy](https://mdpgroup.com/#)
+    *   [](javascript:;)
+    *   [SAP PI/PO](https://mdpgroup.com/en/consultancy/sap-pi-po/)
+    *   [SAP Integration Suite](https://mdpgroup.com/en/consultancy/sap-integration-suite/)
+    *   [SAP EDI](https://mdpgroup.com/en/consultancy/sap-edi/)
+    *   [SAP ABAP](https://mdpgroup.com/en/consultancy/sap-abap/)
+    *   [SAP Fiori](https://mdpgroup.com/en/consultancy/sap-fiori/)
+    *   [SAP EWM](https://mdpgroup.com/en/consultancy/sap-ewm/)
+    *   [SAP MFS](https://mdpgroup.com/en/consultancy/sap-mfs/)
+    *   [SAP TM](https://mdpgroup.com/en/consultancy/sap-transportation-management-tm/)
+    *   [SAP GTS](https://mdpgroup.com/en/consultancy/sap-global-trade-services-gts/)
+    *   [SAP MII](https://mdpgroup.com/en/consultancy/sap-mii/)
+    *   [SAP Ariba](https://mdpgroup.com/en/consultancy/sap-ariba/)
+    *   [SAP Signavio](https://mdpgroup.com/en/consultancy/sap-signavio/)
+    *   [WMS](https://mdpgroup.com/en/consultancy/wms/)
+    *   [.NET Development](https://mdpgroup.com/en/dotnet-development-services/)
+
+*   [AI Consulting](https://mdpgroup.com/en/enterprise-artificial-intelligence-consulting/)
+*   [Resources](https://mdpgroup.com/#)
+    *   [](javascript:;)
+    *   [Blog](https://mdpgroup.com/en/blogs/)
+    *   [White Papers](https://mdpgroup.com/en/whitepaper/)
+    *   [Events](https://mdpgroup.com/en/events/)
+    *   [Case Studies](https://mdpgroup.com/en/case-studies/)
+
+*   [References](https://mdpgroup.com/en/references/)
+*   [Contact Us](https://mdpgroup.com/en/contact-us/)
+
+# MDP Group | SAP Consultancy & SAP-Integrated Solutions | 400+ References
+
+**Are you ready to migration from SAP PO to SAP Integration Suite?**
+
+[Learn More](https://mdpgroup.com/en/consultancy/sap-integration-suite/)
+
+**Quickly migration to Germany’s e-Invoice mandate with our SAP e-Invoice solutions.**
+
+[Learn More](https://mdpgroup.com/en/blog/germany-e-invoicing-sap-xrechnung/)
+
+**Create your integrations with AI effortlessly and monitor them in real time with full visibility.**
+
+[Learn More](https://usemip.com/)
+
+**Optimize your warehouse operations and increase efficiency with our SAP EWM consulting services.**
+
+[Learn More](https://mdpgroup.com/en/consultancy/sap-ewm/)
+
+**Easily manage all your supplier processes through SAP with jetSRM.**
+
+[Learn More](https://mdpgroup.com/en/solutions/jetsrm-supplier-portal/)
+
+**Manage your Continuous Improvement and Lean Manufacturing processes efficiently in a digital environment.**
+
+[Learn More](https://oneri.io/en/)
+
+**Integrate your transportation processes under a single SAP TM system and increase your efficiency.**
+
+[Learn More](https://mdpgroup.com/en/consultancy/sap-transportation-management-tm/)
+
+**Prepare and submit your e-declarations quickly and easily in appropriate formats via SAP.**
+
+[Learn More](https://mdpgroup.com/en/contact-us/)
+
+*   SAP TM Consultancy
+*   SAP e-Declaration Solution
+*   SAP Integration Suite Consultancy
+*   SAP e-Invoicing in Germany
+*   MDP Integration Platform
+*   SAP EWM Consultancy
+*   JetSRM Supplier Portal
+*   Continuous Improvement Software
+
+**We provide PEPPOL compliance for your e-invoicing processes in Belgium**
+
+[Learn More](https://mdpgroup.com/en/blog/e-invoicing-in-belgium-january-2026/)
+
+**Are you ready to migration from SAP PO to SAP Integration Suite?**
+
+[Learn More](https://mdpgroup.com/en/consultancy/sap-integration-suite/)
+
+**Quickly migration to Germany’s e-Invoice mandate with our SAP e-Invoice solutions.**
+
+[Learn More](https://mdpgroup.comhttps//mdpgroup.com/en/blog/germany-e-invoicing-sap-xrechnung/)
+
+**Easily manage all your supplier processes through SAP with jetSRM.**
+
+[Learn More](https://mdpgroup.comhttps//mdpgroup.com/en/solutions/jetsrm-supplier-portal/)
+
+**Optimize your warehouse operations and increase efficiency with our SAP EWM consulting services.**
+
+[Learn More](https://mdpgroup.comhttps//mdpgroup.com/en/consultancy/sap-ewm/)
+
+**Integrate your transportation processes under a single SAP TM system and increase your efficiency.**
+
+[Learn More](https://mdpgroup.comhttps//mdpgroup.com/en/consultancy/sap-transportation-management-tm/)
+
+**Create your integrations with AI effortlessly and monitor them in real time with full visibility.**
+
+[Learn More](https://mdpgroup.comhttps//usemip.com/)
+
+**Prepare and submit your e-declarations quickly and easily in appropriate formats via SAP.**
+
+[Learn More](https://mdpgroup.comhttps//mdpgroup.com/en/contact-us/)
+
+**Manage your Continuous Improvement and Lean Manufacturing processes efficiently in a digital environment.**
+
+[Learn More](https://oneri.io/en/)
+
+## **Brands**
+
+### **PeppolTR**
+
+PeppolTR is a reliable Peppol e-Invoice solution that enables you to send and receive e-invoices via the Peppol network in compliance with international standards.
+
+[Learn More](https://peppoltr.com/)
+
+### **JetSRM**
+
+JetSRM Supplier Portal is a Supplier Relationship Management (SRM) software integrated with SAP that enables businesses to perform their business processes with their suppliers faster, easier and more integrated.
+
+[Learn More](https://jetsrm.com/en/home-page/)
+
+### **MIP**
+
+MIP is an integration solution that enables companies to integrate on-premises, cloud and hybrid systems. MIP offers comprehensive functionality that makes it easy to create, deploy and manage integration processes and data flows across the entire organization.
+
+[Learn More](https://usemip.com/)
+
+### **oneri.io**
+
+oneri.io is an AI-enhanced Continuous Improvement solution that includes an employee suggestion system, kaizen, 5S and near-miss modules. oneri.io aims to support companies in their Continuous Improvement efforts.
+
+[Learn More](https://oneri.io/en)
+
+*   [![Image 5: PeppolTR logo](https://mdpgroup.com/wp-content/uploads/2025/07/PeppolTR-siyah-beyaz.png.webp)](javascript:;)
+*   [![Image 6: JetSRM logo](https://mdpgroup.com/wp-content/uploads/2025/03/jetsrm-logo-1.png.webp)](javascript:;)
+*   [![Image 7: MIP logo](https://mdpgroup.com/wp-content/uploads/2025/03/MIP-logo.png.webp)](javascript:;)
+*   [![Image 8: oneri.io logo](https://mdpgroup.com/wp-content/uploads/2025/03/oneri.io-logo.png.webp)](javascript:;)
+
+## **MDP**
+
+With The Numbers
+
+### 450+
+
+References
+
+[Learn More](https://mdpgroup.com/en/references/)
+
+### 1100+
+
+Completed projects
+
+[Learn More](https://mdpgroup.com/en/references/)
+
+### 12
+
+Different SAP module experience
+
+[Learn More](https://mdpgroup.com/en/consultancy/)
+
+### 120+
+
+Experienced employees
+
+[Learn More](https://mdpgroup.com/en/corporate/)
+
+## SAP Integrated Business Solutions
+
+Discover our products, each of which has complementary features to the standard functions of SAP, that we have developed exclusively for companies using SAP system.
+
+## MDP Fiori
+
+**Client**
+
+An Alternative Solution to SAP Fiori Client
+
+[Learn More](https://mdpgroup.com/en/solutions/sap-custom-fiori-client/)
+
+## Customer 
+
+**Portal**
+
+Customer Portal Suitable for Your Corporate Identity
+
+[Learn More](https://mdpgroup.com/en/solutions/jetcrm-b2b-customer-portal/)
+
+## Supplier 
+
+**Portal**
+
+Empower Your Communication With your Suppliers
+
+[Learn More](https://mdpgroup.com/en/solutions/jetsrm-supplier-portal/)
+
+## ITAM 
+
+**Solutions**
+
+All-in one IT Asset Management Software
+
+[Learn More](https://mdpgroup.com/en/solutions/it-asset-management-software/)
+
+## **Contact Us**
+
+Since 2013, we have successfully implemented more than 1100 projects for more than 450 businesses in 5 continents. Contact us to get information about our solution and consultancy services.
+
+*   [](https://www.facebook.com/digitalmdp/)
+*   [](http://www.instagram.com/digitalmdp)
+*   [](https://twitter.com/digitalmdp)
+*   [](https://www.linkedin.com/company/digitalmdp)
+*   [](https://open.spotify.com/show/3rgNqEflTRpStgCqZINSgY?si=92f04e141c264816)
+
+![Image 9: MDP Group](https://mdpgroup.com/wp-content/themes/mdpgroup/assets/img/logo.svg)
+
+*   [References](https://mdpgroup.com/en/references/)
+*   [Blogs](https://mdpgroup.com/en/blogs/)
+*   [Corporate](https://mdpgroup.com/en/corporate/)
+*   [Software Development](https://mdpgroup.com/en/software-development-services/)
+*   [SAP Support](https://mdpgroup.com/en/sap-support/)
+*   [SAP Consultancy](https://mdpgroup.com/en/consultancy/)
+*   [GDPR](https://mdpgroup.com/en/gdpr/)
+*   [Feedback](https://mdpgroup.com/en/feedback-and-complaints/)
+*   [Career](https://mdpgroup.com/en/?page_id=64)
+
+**E-Mail:**[info@mdpgroup.com](mailto:info@mdpgrup.com)
+
+**Istanbul Office**
+
+ Bayar Cd. Ş.M.F.Öngül Sk. No:3 Kadıköy
+
+ Turkey
+
+**Wollerau Office**
+
+ MDP Group AG Rosstrasse 53 8832 Wollerau
+
+ Switzerland
+
+ © 2026 MDP GROUP
+
+![Image 10: Peppol](https://mdpgroup.com/wp-content/uploads/2025/04/PEPPOL_WHITE.png.webp)![Image 11: SAP](https://mdpgroup.com/wp-content/uploads/2025/04/SAP_white.png.webp)![Image 12: Great Place to Work](https://mdpgroup.com/wp-content/uploads/2025/04/Great_to_place_work_white-1-1.png.webp)![Image 13: ISO](https://mdpgroup.com/wp-content/uploads/2025/04/ISO_WHITE.png.webp)![Image 14: ISO 9001](https://mdpgroup.com/wp-content/uploads/2025/04/ISO_9001_WHITE.png.webp)![Image 15: EcoVadis](https://mdpgroup.com/wp-content/uploads/2025/04/ECOVADIS_WHITE.png.webp)
+
+Your mail has been sent successfully. You will be contacted as soon as possible.
+
+Your message could not be delivered! Please try again later.

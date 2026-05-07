@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MDP Group AI Asistanı</title>
+    <style>
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            background-color: #f4f4f9; 
+            display: flex; 
+            justify-content: center; 
+            align-items: center; 
+            height: 100vh; 
+            margin: 0; 
+        }
+        .chat-container { 
+            width: 420px; 
+            background: white; 
+            border-radius: 12px; 
+            box-shadow: 0 8px 24px rgba(0,0,0,0.15); 
+            display: flex; 
+            flex-direction: column; 
+            overflow: hidden; 
+        }
+        .chat-header { 
+            background: #000000; 
+            color: white; 
+            padding: 18px; 
+            text-align: center; 
+            font-weight: 600; 
+            font-size: 1.1em; 
+            border-bottom: 4px solid #ffcc00; 
+        }
+        .chat-box { 
+            height: 450px; 
+            overflow-y: auto; 
+            overflow-x: hidden; /* Yatay kaymayı tamamen engeller */
+            padding: 20px; 
+            display: flex; 
+            flex-direction: column; 
+            gap: 12px; 
+            background: #fafafa; 
+        }
+        .message { 
+            max-width: 85%; 
+            padding: 12px 16px; 
+            border-radius: 12px; 
+            font-size: 0.95em; 
+            line-height: 1.5; 
+            word-wrap: break-word; /* Uzun linkleri alt satıra kırar */
+        }
+        .bot-msg { 
+            background: #e9ecef; 
+            color: #2b2b2b; 
+            align-self: flex-start; 
+            border-bottom-left-radius: 4px; 
+        }
+        .user-msg { 
+            background: #ffcc00; 
+            color: #000; 
+            align-self: flex-end; 
+            border-bottom-right-radius: 4px; 
+            font-weight: 500; 
+        }
+        /* Linklerin ve Kalın yazıların şık görünmesi için */
+        .message a { color: #0056b3; text-decoration: none; font-weight: 600; }
+        .message a:hover { text-decoration: underline; }
+        .message strong { color: #000; }
+        
+        .input-area { 
+            display: flex; 
+            padding: 15px; 
+            background: white; 
+            border-top: 1px solid #eaeaea; 
+        }
+        .input-area input { 
+            flex: 1; 
+            padding: 12px; 
+            border: 1px solid #ccc; 
+            border-radius: 6px; 
+            outline: none; 
+            font-size: 0.95em;
+        }
+        .input-area input:focus { border-color: #ffcc00; }
+        .input-area button { 
+            background: #000; 
+            color: #fff; 
+            border: none; 
+            padding: 12px 20px; 
+            margin-left: 10px; 
+            border-radius: 6px; 
+            cursor: pointer; 
+            font-weight: bold; 
+            transition: background 0.2s;
+        }
+        .input-area button:hover { background: #333; }
+        
+        /* Scrollbar tasarımı */
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #ccc; border-radius: 3px; }
+        ::-webkit-scrollbar-thumb:hover { background: #999; }
+    </style>
+</head>
+<body>
+
+<div class="chat-container">
+    <div class="chat-header">MDP Group Yapay Zeka Asistanı</div>
+    <div class="chat-box" id="chatBox">
+        <div class="message bot-msg">Merhaba! Ben MDP Group yapay zeka asistanıyım. Size e-Dönüşüm, SAP veya diğer çözümlerimiz hakkında nasıl yardımcı olabilirim?</div>
+    </div>
+    <div class="input-area">
+        <input type="text" id="userInput" placeholder="Bir soru sorun..." onkeypress="handleEnter(event)">
+        <button onclick="sendMessage()">Gönder</button>
+    </div>
+</div>
+
+<script>
+    async function sendMessage() {
+        const inputField = document.getElementById('userInput');
+        const message = inputField.value.trim();
+        if (!message) return;
+
+        appendMessage(message, 'user-msg');
+        inputField.value = '';
+
+        try {
+            const response = await fetch('http://127.0.0.1:8000/ask', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ message: message })
+            });
+            const data = await response.json();
+            appendMessage(data.reply, 'bot-msg');
+        } catch (error) {
+            appendMessage("Sunucuya bağlanılamadı. Lütfen API'nin açık olduğundan emin olun.", 'bot-msg');
+        }
+    }
+
+    function appendMessage(text, className) {
+        const chatBox = document.getElementById('chatBox');
+        const msgDiv = document.createElement('div');
+        msgDiv.className = `message ${className}`;
+        
+        // Markdown formatını HTML'e çeviren basit bir dönüştürücü
+        let formattedText = text
+            .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>') 
+            .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>') 
+            .replace(/\n/g, '<br>'); // alt satıra geçişler icin
+
+        msgDiv.innerHTML = formattedText; 
+        chatBox.appendChild(msgDiv);
+        chatBox.scrollTop = chatBox.scrollHeight;
+    }
+
+    function handleEnter(event) {
+        if (event.key === 'Enter') sendMessage();
+    }
+</script>
+
+</body>
+</html>

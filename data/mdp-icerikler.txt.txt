@@ -1,0 +1,1610 @@
+Title: MDP Etkinlikler | MDP Group
+
+URL Source: https://mdpgroup.com/etkinlikler/
+
+Markdown Content:
+# MDP Etkinlikler | MDP Group
+
+[![Image 1: MDP Group](https://mdpgroup.com/wp-content/uploads/2020/03/l.png)](https://mdpgroup.com/ "MDP Group")
+
+*   [Kurumsal](https://mdpgroup.com/kurumsal/)
+    
+
+    *   [Hakkımızda](https://mdpgroup.com/kurumsal/)
+    *   [Ar-Ge](https://mdpgroup.com/arge/)
+    *   [Başarı Hikayeleri](https://mdpgroup.com/basari-hikayeleri/)
+    *   [MDP Akademi](https://mdpgroup.com/mdp-akademi/)
+    *   [Kariyer](https://mdpgroup.com/?page_id=9)
+    *   [Kariyer Fırsatları](https://mdpgroup.com/kariyer-firsatlari/)
+    *   [Politikalarımız](https://mdpgroup.com/politikalarimiz/)
+    *   [Banka Bilgilerimiz](https://mdpgroup.com/banka-hesap-bilgilerimiz/)
+
+*   [Çözümler](https://mdpgroup.com/etkinlikler/#)
+    
+
+    *   [SAP FI Add Ons](https://mdpgroup.com/etkinlikler/#)
+        *   [e-Mutabakat](https://mdpgroup.com/cozumler/e-mutabakat/)
+        *   [e-Hesap Özeti](https://mdpgroup.com/cozumler/sap-ekstre-hesap-ozeti/)
+        *   [e-Beyanname](https://mdpgroup.com/cozumler/mdp-sap-e-beyanname/)
+        *   [e-Ödeme](https://mdpgroup.com/cozumler/sap-e-odeme/)
+        *   [Ekstre Karşılaştırma](https://mdpgroup.com/cozumler/ekstre-karsilastirma/)
+        *   [Sanal Pos Entegrasyonu & Muhasebeleştirme](https://mdpgroup.com/cozumler/sap-sanal-pos-entegrasyonu-muhasebelestirme/)
+        *   [Doğrudan Borçlandırma Sistemi](https://mdpgroup.com/cozumler/sap-dogrudan-borclandirma/)
+        *   [Kur Farkı Faturası](https://mdpgroup.com/cozumler/sap-kur-farki-faturasi/)
+        *   [Fiori e-Hesap Özeti](https://mdpgroup.com/cozumler/sap-fiori-e-hesap-ozeti/)
+        *   [Operasyon Detay Bütçeleme](https://mdpgroup.com/cozumler/operasyon-detay-butceleme/)
+        *   [Mevduat ve Döviz İşlem Portalı](https://mdpgroup.com/cozumler/sap-mevduat-ve-doviz-islemleri/)
+
+    *   [SAP e-Dönüşüm](https://mdpgroup.com/cozumler/e-donusum)
+        *   [e-Fatura](https://mdpgroup.com/cozumler/e-fatura/)
+        *   [e-Arşiv Fatura](https://mdpgroup.com/cozumler/sap-e-arsiv-fatura/)
+        *   [e-Defter](https://mdpgroup.com/cozumler/e-defter/)
+        *   [e-İrsaliye](https://mdpgroup.com/cozumler/e-irsaliye/)
+        *   [Gelen e-Fatura](https://mdpgroup.com/cozumler/sap-gelen-fatura/)
+        *   [Gelen e-Arşiv Fatura](https://mdpgroup.com/cozumler/gelen-e-arsiv/)
+        *   [E-Arşiv Fatura Görüntüleme](https://mdpgroup.com/cozumler/e-arsiv-fatura-goruntuleme/)
+        *   [Gelen e-İrsaliye](https://mdpgroup.com/cozumler/gelen-e-irsaliye/)
+        *   [e-Muhasebe Fişi](https://mdpgroup.com/cozumler/e-muhasebe-fisi/)
+        *   [Lokal e-Belge Saklama](https://mdpgroup.com/cozumler/lokal-e-belge-saklama/)
+        *   [e-Müstahsil](https://mdpgroup.com/cozumler/e-mustahsil-makbuzu/)
+        *   [e-Gider Pusulası](https://mdpgroup.com/cozumler/e-gider-pusulasi-cozumu/)
+        *   [Peppol e-Fatura](https://mdpgroup.com/cozumler/peppol-e-fatura/)
+
+    *   [SAP HR Add-Ons](https://mdpgroup.com/etkinlikler/#)
+        *   [Masraf Yönetimi](https://mdpgroup.com/cozumler/sap-masraf-yonetimi/)
+        *   [İzin Yönetimi](https://mdpgroup.com/cozumler/sap-izin-yonetimi/)
+        *   [Provizyon Talep Formu](https://mdpgroup.com/cozumler/sap-provizyon-talep-formu/)
+        *   [Seyahat Yönetimi](https://mdpgroup.com/cozumler/sap-seyahat-yonetimi/)
+        *   [Ücret Yönetimi](https://mdpgroup.com/cozumler/sap-ucret-yonetimi/)
+        *   [Organizasyon Şeması](https://mdpgroup.com/cozumler/sap-organizasyon-semasi/)
+        *   [SAP SuccessFactors Entegrasyonu](https://mdpgroup.com/cozumler/sap-successfactors-entegrasyonu/)
+
+    *   [SAP Portal Çözümler](https://mdpgroup.com/etkinlikler/#)
+        *   [JetSRM Tedarikçi Portali](https://mdpgroup.com/cozumler/jetsrm-tedarikci-portali/)
+        *   [JetBAYİ Bayi Portali](https://mdpgroup.com/cozumler/jetcrm-b2b-musteri-portali/)
+        *   [JetHR İK Yönetimi](https://mdpgroup.com/cozumler/jethr-ik-yonetimi/)
+
+    *   [Further SAP Add-Ons](https://mdpgroup.com/etkinlikler/#)
+        *   [MDP Firefighter](https://mdpgroup.com/cozumler/mdp-firefighter/)
+        *   [MDP Client (Fiori)](https://mdpgroup.com/cozumler/sap-custom-fiori-client/)
+        *   [Bilgi Yönetim Sistemi](https://mdpgroup.com/cozumler/bilgi-yonetim-sistemi/)
+        *   [Mobil Tahsilat](https://mdpgroup.com/cozumler/sap-mobil-tahsilat/)
+        *   [Mobil Sipariş](https://mdpgroup.com/cozumler/sap-mobil-siparis/)
+        *   [İleti Yönetim Sistemi (İYS) Entegrasyonu](https://mdpgroup.com/cozumler/ileti-yonetim-sistemi-entegrasyonu/)
+        *   [U-ETDS Entegrasyonu](https://mdpgroup.com/cozumler/sap-u-etds-cozumu/)
+        *   [Kargo Entegrasyonu](https://mdpgroup.com/sap-kargo-entegrasyonu/)
+
+    *   [Non-SAP Çözümler](https://mdpgroup.com/etkinlikler/#)
+        *   [MIP – Entegrasyon Yazılımı](https://mdpgroup.com/cozumler/mip-entegrasyon-yazilimi/)
+        *   [JetLM Lojistik Yönetimi](https://mdpgroup.com/cozumler/jetlm-lojistik-yonetimi/)
+        *   [Sürekli İyileştirme](https://mdpgroup.com/cozumler/surekli-iyilestirme-cozumu/)
+        *   [Öneri Sistemi](https://mdpgroup.com/cozumler/oneri-sistemi/)
+        *   [Dijital 5S](https://mdpgroup.com/cozumler/dijital-5s-cozumu/)
+        *   [Kaizen Yazılımı](https://mdpgroup.com/cozumler/kaizen-yazilimi/)
+
+*   [Danışmanlık](https://mdpgroup.com/danismanlik/)
+    
+
+    *   [SAP EWM](https://mdpgroup.com/danismanlik/sap-ewm/)
+    *   [SAP PI/PO](https://mdpgroup.com/danismanlik/sap-pi-po/)
+    *   [SAP Integration Suite](https://mdpgroup.com/danismanlik/sap-integration-suite/)
+    *   [SAP ABAP](https://mdpgroup.com/danismanlik/sap-abap/)
+    *   [SAP Fiori](https://mdpgroup.com/danismanlik/sap-fiori/)
+    *   [SAP EDI](https://mdpgroup.com/danismanlik/sap-edi/)
+    *   [SAP Signavio](https://mdpgroup.com/danismanlik/sap-signavio/)
+    *   [SAP TM](https://mdpgroup.com/danismanlik/sap-transportation-management-tm/)
+    *   [SAP GTS](https://mdpgroup.com/danismanlik/sap-gts/)
+    *   [SAP MFS](https://mdpgroup.com/danismanlik/sap-mfs/)
+    *   [Azure Entegrasyonu](https://mdpgroup.com/azure-integration-services-cozumleri/)
+
+*   [Yapay Zeka](https://mdpgroup.com/yapay-zeka/)
+*   [Blog](https://mdpgroup.com/blog/)
+*   [İçerikler](https://mdpgroup.com/etkinlikler/#)
+    
+
+    *   [Etkinlikler](https://mdpgroup.com/etkinlikler/)
+    *   [Katalog](https://mdpgroup.com/katalog/)
+    *   [E-Kitap](https://mdpgroup.com/e-kitap/)
+    *   [Başarı Hikayeleri](https://mdpgroup.com/basari-hikayeleri/)
+    *   [Bizden Haberler](https://mdpgroup.com/bizden-haberler/)
+
+*   [Referanslar](https://mdpgroup.com/referanslar/)
+*   [İletişim](https://mdpgroup.com/iletisim/)
+
+*   [![Image 2: English](blob:http://localhost/d883beb4362fe84660fab16ca0c3a516)](https://mdpgroup.com/en/)
+*   [![Image 3: Türkçe](blob:http://localhost/7c24eb4a3e18324906b4e0adc59e084e)](https://mdpgroup.com/etkinlikler/)
+*   [![Image 4: Deutsch](blob:http://localhost/f7175783fb143a77de78739839c9b35f)](https://mdpgroup.com/de/)
+
+*   [Kurumsal](https://mdpgroup.com/etkinlikler/#)
+    *   [](javascript:;)
+    *   [Hakkımızda](https://mdpgroup.com/kurumsal/)
+    *   [Başarı Hikayeleri](https://mdpgroup.com/basari-hikayeleri/)
+    *   [MDP Akademi](https://mdpgroup.com/mdp-akademi/)
+    *   [Politikalarımız](https://mdpgroup.com/politikalarimiz/)
+    *   [Kariyer](https://mdpgroup.com/?page_id=9)
+    *   [Kariyer Fırsatları](https://mdpgroup.com/kariyer-firsatlari/)
+
+*   [Çözümler](https://mdpgroup.com/etkinlikler/#)
+    *   [](javascript:;)
+    *   [Mevduat ve Döviz İşlem Portali](https://mdpgroup.com/cozumler/sap-mevduat-ve-doviz-islemleri/)
+    *   [Doğrudan Borçlandırma Sistemi](https://mdpgroup.com/cozumler/sap-dogrudan-borclandirma/)
+    *   [e-Hesap Özeti](https://mdpgroup.com/cozumler/sap-ekstre-hesap-ozeti/)
+    *   [Sanal Pos Entegrasyonu & Muhasebeleştirme](https://mdpgroup.com/cozumler/sap-sanal-pos-entegrasyonu-muhasebelestirme/)
+    *   [e-Ödeme](https://mdpgroup.com/cozumler/sap-e-odeme/)
+    *   [e-Arşiv Fatura](https://mdpgroup.com/cozumler/sap-e-arsiv-fatura/)
+    *   [e-Defter](https://mdpgroup.com/cozumler/e-defter/)
+    *   [e-Defter Saklama](https://mdpgroup.com/cozumler/e-defter-saklama/)
+    *   [e-Fatura](https://mdpgroup.com/cozumler/e-fatura/)
+    *   [e-İrsaliye](https://mdpgroup.com/cozumler/e-irsaliye/)
+    *   [Gelen e-Fatura](https://mdpgroup.com/cozumler/sap-gelen-fatura/)
+    *   [e-Mutabakat](https://mdpgroup.com/cozumler/e-mutabakat/)
+    *   [e-Beyanname](https://mdpgroup.com/cozumler/mdp-sap-e-beyanname/)
+    *   [Ekstre Karşılaştırma](https://mdpgroup.com/cozumler/ekstre-karsilastirma/)
+    *   [Gelen e-Arşiv Fatura](https://mdpgroup.com/cozumler/gelen-e-arsiv/)
+    *   [E-Arşiv Fatura Görüntüleme](https://mdpgroup.com/cozumler/e-arsiv-fatura-goruntuleme/)
+    *   [Lokal e-Belge Saklama](https://mdpgroup.com/cozumler/lokal-e-belge-saklama/)
+    *   [Gelen e-İrsaliye Çözümü](https://mdpgroup.com/cozumler/gelen-e-irsaliye/)
+    *   [e-Muhasebe Fişi](https://mdpgroup.com/cozumler/e-muhasebe-fisi/)
+    *   [e-Müstahsil](https://mdpgroup.com/cozumler/e-mustahsil-makbuzu/)
+    *   [Dijital Gider Pusulası](https://mdpgroup.com/cozumler/e-gider-pusulasi-cozumu/)
+    *   [İzin Yönetimi](https://mdpgroup.com/cozumler/sap-izin-yonetimi/)
+    *   [Seyahat Yönetimi](https://mdpgroup.com/cozumler/sap-seyahat-yonetimi/)
+    *   [Organizasyon Şeması](https://mdpgroup.com/cozumler/sap-organizasyon-semasi/)
+    *   [Ücret Yönetimi](https://mdpgroup.com/cozumler/sap-ucret-yonetimi/)
+    *   [Masraf Yönetimi](https://mdpgroup.com/cozumler/sap-masraf-yonetimi/)
+    *   [Provizyon Talep Formu](https://mdpgroup.com/cozumler/sap-provizyon-talep-formu/)
+    *   [SAP SuccessFactors Entegrasyonu](https://mdpgroup.com/cozumler/sap-successfactors-entegrasyonu/)
+    *   [Sürekli İyileştirme](https://mdpgroup.com/cozumler/surekli-iyilestirme-cozumu/)
+    *   [MIP – Entegrasyon Yazılımı](https://mdpgroup.com/cozumler/mip-entegrasyon-yazilimi/)
+    *   [Öneri Sistemi](https://mdpgroup.com/cozumler/oneri-sistemi/)
+    *   [Dijital 5S](https://mdpgroup.com/cozumler/dijital-5s-cozumu/)
+    *   [Kaizen Yazılımı](https://mdpgroup.com/cozumler/kaizen-yazilimi/)
+    *   [İSG Uygulaması](https://mdpgroup.com/cozumler/sap-isg-uygulamasi/)
+    *   [Custom MDM](https://mdpgroup.com/cozumler/sap-custom-mdm/)
+    *   [U-ETDS](https://mdpgroup.com/cozumler/sap-u-etds-cozumu/)
+    *   [Bilgi Yönetimi](https://mdpgroup.com/cozumler/bilgi-yonetim-sistemi/)
+    *   [JetSRM Tedarikçi Portali](https://mdpgroup.com/cozumler/jetsrm-tedarikci-portali/)
+    *   [MDP SAP Yapay Zeka Asistanı](https://mdpgroup.com/?page_id=18079)
+    *   [JetBAYİ Bayi Portalı](https://mdpgroup.com/cozumler/jetcrm-b2b-musteri-portali/)
+    *   [MDP Firefighter](https://mdpgroup.com/cozumler/mdp-firefighter/)
+    *   [SAP & Kargo Entegrasyonu](https://mdpgroup.com/sap-kargo-entegrasyonu/)
+    *   [Mobil Tahsilat](https://mdpgroup.com/cozumler/sap-mobil-tahsilat/)
+    *   [Pre-packaged Mappings EDIFACT](https://mdpgroup.com/cozumler/pre-packaged-mappings-edifact/)
+    *   [Pre-packaged Mappings ANSI X12](https://mdpgroup.com/cozumler/pre-packaged-mappings-ansi-x12/)
+    *   [Pre-packaged Mappings VDA](https://mdpgroup.com/cozumler/pre-packaged-mappings-vda/)
+
+*   [Danışmanlık](https://mdpgroup.com/etkinlikler/#)
+    *   [](javascript:;)
+    *   [SAP EWM](https://mdpgroup.com/danismanlik/sap-ewm/)
+    *   [SAP PI/PO](https://mdpgroup.com/danismanlik/sap-pi-po/)
+    *   [SAP Integration Suite](https://mdpgroup.com/danismanlik/sap-integration-suite/)
+    *   [SAP ABAP](https://mdpgroup.com/danismanlik/sap-abap/)
+    *   [SAP Fiori](https://mdpgroup.com/danismanlik/sap-fiori/)
+    *   [SAP AIF](https://mdpgroup.com/danismanlik/sap-aif/)
+    *   [SAP EDI](https://mdpgroup.com/danismanlik/sap-edi/)
+    *   [SAP MII](https://mdpgroup.com/danismanlik/sap-mii/)
+    *   [Yapay Zeka](https://mdpgroup.com/yapay-zeka/)
+    *   [SAP Ariba](https://mdpgroup.com/?page_id=10701)
+    *   [SAP Signavio](https://mdpgroup.com/danismanlik/sap-signavio/)
+    *   [SAP MFS](https://mdpgroup.com/danismanlik/sap-mfs/)
+    *   [WMS](https://mdpgroup.com/danismanlik/depo-yonetim-sistemi-wms/)
+    *   [.NET Yazılım Geliştirme](https://mdpgroup.com/dotnet-yazilim-gelistirme/)
+
+*   [Kurumsal Yapay Zeka Danışmanlığı](https://mdpgroup.com/yapay-zeka/)
+*   [Blog](https://mdpgroup.com/blog/)
+*   [Etkinlikler](https://mdpgroup.com/etkinlikler/)
+*   [Bizden Haberler](https://mdpgroup.com/bizden-haberler/)
+*   [Katalog](https://mdpgroup.com/katalog/)
+*   [Referanslar](https://mdpgroup.com/referanslar/)
+*   [İletişim](https://mdpgroup.com/iletisim/)
+
+# Etkinlikler
+
+[![Image 5: Lojistikte Verimliliğin Anahtarı: SAP TM Yükleme Planlaması ve Optimizasyon](https://mdpgroup.com/wp-content/uploads/2025/07/MDP_WEBINAR_3-1.png)](https://www.youtube.com/watch?v=DiJdbDOFBg4)
+
+## Webinar | Lojistikte Verimliliğin Anahtarı: SAP TM Yükleme Planlaması ve Optimizasyon
+
+[Ayrıntılı bilgi için tıklayınız.](https://www.youtube.com/watch?v=DiJdbDOFBg4)
+
+[![Image 6: SAP Edge Integration Cell Nedir](https://mdpgroup.com/wp-content/uploads/2025/07/SAP-Edge-Integration-Cell-Nedir_-8.png)](https://www.youtube.com/watch?v=6jPpp6iVT8I)
+
+## Webinar | SAP Edge Integration Cell Nedir?
+
+[Ayrıntılı bilgi için tıklayınız.](https://www.youtube.com/watch?v=6jPpp6iVT8I)
+
+[![Image 7: SAP EWM Soru Cevap](https://mdpgroup.com/wp-content/uploads/2024/05/SAP-EWM-%E2%80%A8Soru-Cevap-Etkinligi.png)](https://www.youtube.com/watch?v=c6i_FvMtOZ0)
+
+## Webinar | SAP EWM Soru & Cevap Etkinliği
+
+[Ayrıntılı bilgi için tıklayınız.](https://mdpgroup.com/etkinlikler/sap-ewm-soru-cevap-etkinligi/)
+
+[![Image 8: SAP Tedarikçi Portali](https://mdpgroup.com/wp-content/uploads/2024/05/SAP-ile-Butunlesik-Tedarikci-Iliskileri-Yonetimi_-JetSRM.png)](https://www.youtube.com/watch?v=lvI0J3EvOek&t=830s)
+
+## Webinar | SAP ile Bütünleşik Tedarikçi İlişkileri Yönetimi: JetSRM
+
+[Ayrıntılı bilgi için tıklayınız.](https://www.youtube.com/live/lvI0J3EvOek?si=IQCgSL3tfKfoG2F9)
+
+[![Image 9: e-Müstahsil Makbuzu](https://mdpgroup.com/wp-content/uploads/2024/05/SAPde-e-Mustahsil-Makbuzu-Yonetimi-2.png)](https://www.youtube.com/watch?v=jGFizSADkx8)
+
+## Webinar | SAP’de e-Müstahsil Makbuzu Süreçlerinin Yönetimi
+
+[Ayrıntılı bilgi için tıklayınız.](https://www.youtube.com/live/jGFizSADkx8?si=rAfw45uRTzb_wMDd)
+
+[![Image 10: SAP Sistemlerinde Veri Kalitesi Doğrulama ve Yönetimi](https://mdpgroup.com/wp-content/uploads/2024/05/SAP-Sistemlerinde-Veri-Kalitesi-Dogrulama-ve-Yonetimi-final.png)](https://www.youtube.com/watch?v=f1XzDRDbUcc)
+
+## Webinar | SAP Sistemlerinde Veri Kalitesi Doğrulama ve Yönetimi
+
+[Ayrıntılı bilgi için tıklayınız.](https://www.youtube.com/live/f1XzDRDbUcc?si=_BxTfDM2XdvpxW6L)
+
+[![Image 11: SAP'de Yetkilendirme Süreçleri](https://mdpgroup.com/wp-content/uploads/2024/05/SAPde-Yetkilendirme-Surecleri-Nasil-Olmalidir_.png)](https://www.youtube.com/watch?v=qXvcVCIjrAQ)
+
+## Webinar | SAP’de Yetkilendirme Süreçleri Nasıl Olmalıdır?
+
+[Ayrıntılı bilgi için tıklayınız.](https://www.youtube.com/live/qXvcVCIjrAQ?si=1R_dZGsP2dg05e71)
+
+[![Image 12: SAP Masraf Yönetimi](https://mdpgroup.com/wp-content/uploads/2024/05/Masraf-Yonetimi.png)](https://www.youtube.com/watch?v=T-N43fBCY4w&t=406s)
+
+## Webinar | Masraf Yönetimi Süreçlerinizi Yapay Zekâ ile Hızlandırın!
+
+[Ayrıntılı bilgi için tıklayınız.](https://www.youtube.com/live/qXvcVCIjrAQ?si=1R_dZGsP2dg05e71)
+
+[![Image 13: e-Belge Saklama Yöntemi](https://mdpgroup.com/wp-content/uploads/2024/01/e-Belge-Saklama-Su%CC%88rec%CC%A7leriniz-ic%CC%A7in-LES-ile-Tanis%CC%A7in-webinar.png)](https://www.youtube.com/watch?v=2_aS2jFgfDc&t=2s)
+
+## Webinar | e-Belge Saklama Süreçleriniz için LES ile Tanışın!
+
+[Ayrıntılı bilgi için tıklayınız.](https://mdpgroup.com/etkinlikler/e-belge-saklama-surecleriniz-icin-les-ile-tanisin/)
+
+[![Image 14: SAP Enflasyon Muhasebesi](https://mdpgroup.com/wp-content/uploads/2024/01/SAPde-Enflasyon-Muhasebesi-Su%CC%88rec%CC%A7leri-Nasil-Yo%CC%88netilir_.png)](https://www.youtube.com/watch?v=vPgkzG6FPDY)
+
+## Webinar | SAP’de Enflasyon Muhasebesi Süreçleri Nasıl Yönetilir?
+
+[Ayrıntılı bilgi için tıklayınız.](https://mdpgroup.com/etkinlikler/sap-enflasyon-muhasebesi-surecleri-nasil-yonetilir/)
+
+![Image 15: SAP Fiori Webinar](https://mdpgroup.com/wp-content/uploads/2022/01/fiori_webinar-e1641279259340.png)
+
+## Webinar | SAP Fiori için Güncel Gelişmeler Neler?
+
+[Ayrıntılı bilgi için tıklayınız.](https://mdpgroup.com/etkinlikler/sap-fiori-icin-guncel-gelismeler-neler/)
+
+![Image 16: Öneri Sistemi](https://mdpgroup.com/wp-content/uploads/2021/12/oneri-sistemi-webinar.png)
+
+## Webinar | Kurumsal Öneri Sistemi Şirketlere Ne Sağlar?
+
+[Ayrıntılı bilgi için tıklayınız.](https://mdpgroup.com/etkinlikler/kurumsal-oneri-sistemi-sirketlere-ne-saglar/)
+
+[![Image 17: SAP EWM ve Giyilebilir Teknolojiler](https://mdpgroup.com/wp-content/uploads/2021/07/MicrosoftTeams-image-23.png)](https://www.youtube.com/watch?v=KNY_m1absZg)
+
+## Webinar | Akıllı Depolar: SAP EWM ve Giyilebilir Teknolojiler
+
+[Ayrıntılı bilgi için tıklayınız.](https://mdpgroup.com/etkinlikler/akilli-depolar-sap-ewm-ve-giyilebilir-teknolojiler/)
+
+[![Image 18: SAP Integration Suite](https://mdpgroup.com/wp-content/uploads/2020/12/sap-integration-suite.png)](https://mdpgroup.com/mdp-akademi/sap-ewm-genc-yetenek-egitim-staj-programi/ "SAP EWM Staj Programı")
+
+## Webinar | SAP Integration Suite
+
+[Ayrıntılı bilgi için tıklayınız.](https://mdpgroup.com/etkinlikler/sap-integration-suite/)
+
+## Etkinlikler
+
+**Bizimle İletişime Geçebilirsiniz!**
+
+2013'den bu yana 5 kıtada 450’den fazla iş ortağımız ile birlikte 1100’den fazla projeyi başarıyla hayata geçirdik. Çözüm ve danışmanlık hizmetlerimiz hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+*   [](https://www.facebook.com/digitalmdp/)
+*   [](http://www.instagram.com/digitalmdp)
+*   [](https://twitter.com/digitalmdp)
+*   [](https://www.linkedin.com/company/digitalmdp)
+*   [](https://open.spotify.com/show/3rgNqEflTRpStgCqZINSgY?si=92f04e141c264816)
+
+![Image 19: MDP Group](https://mdpgroup.com/wp-content/themes/mdpgroup/assets/img/logo.svg)
+
+*   [Referanslar](https://mdpgroup.com/referanslar/)
+*   [Hakkımızda](https://mdpgroup.com/kurumsal/)
+*   [Geri Bildirim](https://mdpgroup.com/sikayet-geri-bildirim-ve-tesekkur/)
+*   [SAP Destek](https://mdpgroup.com/sap-destek-hizmetleri/)
+*   [Yazılım Geliştirme](https://mdpgroup.com/yazilim-gelistirme-hizmetleri/)
+*   [Blog](https://mdpgroup.com/blog/)
+*   [KVKK](https://mdpgroup.com/kvkk/)
+*   [İletişim](https://mdpgroup.com/iletisim/)
+*   [Kariyer](https://mdpgroup.com/?page_id=9)
+
+**E-Posta:**[info@mdpgroup.com](mailto:info@mdpgrup.com)
+
+**İstanbul Ofis**
+
+ Bayar Cd. Ş.M.F.Öngül Sk. No:3 Kadıköy
+
+ Türkiye
+
+**Zürih Ofis**
+
+ MDP Group AG Rosstrasse 53 8832 Wollerau
+
+ İsviçre
+
+ © 2026 MDP GROUP
+
+![Image 20: Peppol](https://mdpgroup.com/wp-content/uploads/2025/04/PEPPOL_WHITE.png)![Image 21: SAP](https://mdpgroup.com/wp-content/uploads/2025/04/SAP_white.png)![Image 22: Great Place to Work](https://mdpgroup.com/wp-content/uploads/2025/04/Great_to_place_work_white-1-1.png)![Image 23: ISO](https://mdpgroup.com/wp-content/uploads/2025/04/ISO_WHITE.png)![Image 24: ISO 9001](https://mdpgroup.com/wp-content/uploads/2025/04/ISO_9001_WHITE.png)![Image 25: EcoVadis](https://mdpgroup.com/wp-content/uploads/2025/04/ECOVADIS_WHITE.png)
+
+Mailiniz başarıyla gönderilmiştir en kısa sürede sizinle iletişime geçilecektir.
+
+Mesajınız ulaştırılamadı! Lütfen daha sonra tekrar deneyin.
+
+
+
+
+Title: Katalog | SAP Çözümleri | MDP Group
+
+URL Source: https://mdpgroup.com/katalog/
+
+Markdown Content:
+# Katalog | SAP Çözümleri | MDP Group
+
+[![Image 1: MDP Group](https://mdpgroup.com/wp-content/uploads/2020/03/l.png.webp)](https://mdpgroup.com/ "MDP Group")
+
+*   [Kurumsal](https://mdpgroup.com/kurumsal/)
+    
+
+    *   [Hakkımızda](https://mdpgroup.com/kurumsal/)
+    *   [Ar-Ge](https://mdpgroup.com/arge/)
+    *   [Başarı Hikayeleri](https://mdpgroup.com/basari-hikayeleri/)
+    *   [MDP Akademi](https://mdpgroup.com/mdp-akademi/)
+    *   [Kariyer](https://mdpgroup.com/?page_id=9)
+    *   [Kariyer Fırsatları](https://mdpgroup.com/kariyer-firsatlari/)
+    *   [Politikalarımız](https://mdpgroup.com/politikalarimiz/)
+    *   [Banka Bilgilerimiz](https://mdpgroup.com/banka-hesap-bilgilerimiz/)
+
+*   [Çözümler](https://mdpgroup.com/katalog/#)
+    
+
+    *   [SAP FI Add Ons](https://mdpgroup.com/katalog/#)
+        *   [e-Mutabakat](https://mdpgroup.com/cozumler/e-mutabakat/)
+        *   [e-Hesap Özeti](https://mdpgroup.com/cozumler/sap-ekstre-hesap-ozeti/)
+        *   [e-Beyanname](https://mdpgroup.com/cozumler/mdp-sap-e-beyanname/)
+        *   [e-Ödeme](https://mdpgroup.com/cozumler/sap-e-odeme/)
+        *   [Ekstre Karşılaştırma](https://mdpgroup.com/cozumler/ekstre-karsilastirma/)
+        *   [Sanal Pos Entegrasyonu & Muhasebeleştirme](https://mdpgroup.com/cozumler/sap-sanal-pos-entegrasyonu-muhasebelestirme/)
+        *   [Doğrudan Borçlandırma Sistemi](https://mdpgroup.com/cozumler/sap-dogrudan-borclandirma/)
+        *   [Kur Farkı Faturası](https://mdpgroup.com/cozumler/sap-kur-farki-faturasi/)
+        *   [Fiori e-Hesap Özeti](https://mdpgroup.com/cozumler/sap-fiori-e-hesap-ozeti/)
+        *   [Operasyon Detay Bütçeleme](https://mdpgroup.com/cozumler/operasyon-detay-butceleme/)
+        *   [Mevduat ve Döviz İşlem Portalı](https://mdpgroup.com/cozumler/sap-mevduat-ve-doviz-islemleri/)
+
+    *   [SAP e-Dönüşüm](https://mdpgroup.com/cozumler/e-donusum)
+        *   [e-Fatura](https://mdpgroup.com/cozumler/e-fatura/)
+        *   [e-Arşiv Fatura](https://mdpgroup.com/cozumler/sap-e-arsiv-fatura/)
+        *   [e-Defter](https://mdpgroup.com/cozumler/e-defter/)
+        *   [e-İrsaliye](https://mdpgroup.com/cozumler/e-irsaliye/)
+        *   [Gelen e-Fatura](https://mdpgroup.com/cozumler/sap-gelen-fatura/)
+        *   [Gelen e-Arşiv Fatura](https://mdpgroup.com/cozumler/gelen-e-arsiv/)
+        *   [E-Arşiv Fatura Görüntüleme](https://mdpgroup.com/cozumler/e-arsiv-fatura-goruntuleme/)
+        *   [Gelen e-İrsaliye](https://mdpgroup.com/cozumler/gelen-e-irsaliye/)
+        *   [e-Muhasebe Fişi](https://mdpgroup.com/cozumler/e-muhasebe-fisi/)
+        *   [Lokal e-Belge Saklama](https://mdpgroup.com/cozumler/lokal-e-belge-saklama/)
+        *   [e-Müstahsil](https://mdpgroup.com/cozumler/e-mustahsil-makbuzu/)
+        *   [e-Gider Pusulası](https://mdpgroup.com/cozumler/e-gider-pusulasi-cozumu/)
+        *   [Peppol e-Fatura](https://mdpgroup.com/cozumler/peppol-e-fatura/)
+
+    *   [SAP HR Add-Ons](https://mdpgroup.com/katalog/#)
+        *   [Masraf Yönetimi](https://mdpgroup.com/cozumler/sap-masraf-yonetimi/)
+        *   [İzin Yönetimi](https://mdpgroup.com/cozumler/sap-izin-yonetimi/)
+        *   [Provizyon Talep Formu](https://mdpgroup.com/cozumler/sap-provizyon-talep-formu/)
+        *   [Seyahat Yönetimi](https://mdpgroup.com/cozumler/sap-seyahat-yonetimi/)
+        *   [Ücret Yönetimi](https://mdpgroup.com/cozumler/sap-ucret-yonetimi/)
+        *   [Organizasyon Şeması](https://mdpgroup.com/cozumler/sap-organizasyon-semasi/)
+        *   [SAP SuccessFactors Entegrasyonu](https://mdpgroup.com/cozumler/sap-successfactors-entegrasyonu/)
+
+    *   [SAP Portal Çözümler](https://mdpgroup.com/katalog/#)
+        *   [JetSRM Tedarikçi Portali](https://mdpgroup.com/cozumler/jetsrm-tedarikci-portali/)
+        *   [JetBAYİ Bayi Portali](https://mdpgroup.com/cozumler/jetcrm-b2b-musteri-portali/)
+        *   [JetHR İK Yönetimi](https://mdpgroup.com/cozumler/jethr-ik-yonetimi/)
+
+    *   [Further SAP Add-Ons](https://mdpgroup.com/katalog/#)
+        *   [MDP Firefighter](https://mdpgroup.com/cozumler/mdp-firefighter/)
+        *   [MDP Client (Fiori)](https://mdpgroup.com/cozumler/sap-custom-fiori-client/)
+        *   [Bilgi Yönetim Sistemi](https://mdpgroup.com/cozumler/bilgi-yonetim-sistemi/)
+        *   [Mobil Tahsilat](https://mdpgroup.com/cozumler/sap-mobil-tahsilat/)
+        *   [Mobil Sipariş](https://mdpgroup.com/cozumler/sap-mobil-siparis/)
+        *   [İleti Yönetim Sistemi (İYS) Entegrasyonu](https://mdpgroup.com/cozumler/ileti-yonetim-sistemi-entegrasyonu/)
+        *   [U-ETDS Entegrasyonu](https://mdpgroup.com/cozumler/sap-u-etds-cozumu/)
+        *   [Kargo Entegrasyonu](https://mdpgroup.com/sap-kargo-entegrasyonu/)
+
+    *   [Non-SAP Çözümler](https://mdpgroup.com/katalog/#)
+        *   [MIP – Entegrasyon Yazılımı](https://mdpgroup.com/cozumler/mip-entegrasyon-yazilimi/)
+        *   [JetLM Lojistik Yönetimi](https://mdpgroup.com/cozumler/jetlm-lojistik-yonetimi/)
+        *   [Sürekli İyileştirme](https://mdpgroup.com/cozumler/surekli-iyilestirme-cozumu/)
+        *   [Öneri Sistemi](https://mdpgroup.com/cozumler/oneri-sistemi/)
+        *   [Dijital 5S](https://mdpgroup.com/cozumler/dijital-5s-cozumu/)
+        *   [Kaizen Yazılımı](https://mdpgroup.com/cozumler/kaizen-yazilimi/)
+
+*   [Danışmanlık](https://mdpgroup.com/danismanlik/)
+    
+
+    *   [SAP EWM](https://mdpgroup.com/danismanlik/sap-ewm/)
+    *   [SAP PI/PO](https://mdpgroup.com/danismanlik/sap-pi-po/)
+    *   [SAP Integration Suite](https://mdpgroup.com/danismanlik/sap-integration-suite/)
+    *   [SAP ABAP](https://mdpgroup.com/danismanlik/sap-abap/)
+    *   [SAP Fiori](https://mdpgroup.com/danismanlik/sap-fiori/)
+    *   [SAP EDI](https://mdpgroup.com/danismanlik/sap-edi/)
+    *   [SAP Signavio](https://mdpgroup.com/danismanlik/sap-signavio/)
+    *   [SAP TM](https://mdpgroup.com/danismanlik/sap-transportation-management-tm/)
+    *   [SAP GTS](https://mdpgroup.com/danismanlik/sap-gts/)
+    *   [SAP MFS](https://mdpgroup.com/danismanlik/sap-mfs/)
+    *   [Azure Entegrasyonu](https://mdpgroup.com/azure-integration-services-cozumleri/)
+
+*   [Yapay Zeka](https://mdpgroup.com/yapay-zeka/)
+*   [Blog](https://mdpgroup.com/blog/)
+*   [İçerikler](https://mdpgroup.com/katalog/#)
+    
+
+    *   [Etkinlikler](https://mdpgroup.com/etkinlikler/)
+    *   [Katalog](https://mdpgroup.com/katalog/)
+    *   [E-Kitap](https://mdpgroup.com/e-kitap/)
+    *   [Başarı Hikayeleri](https://mdpgroup.com/basari-hikayeleri/)
+    *   [Bizden Haberler](https://mdpgroup.com/bizden-haberler/)
+
+*   [Referanslar](https://mdpgroup.com/referanslar/)
+*   [İletişim](https://mdpgroup.com/iletisim/)
+
+*   [![Image 2: English](blob:http://localhost/d883beb4362fe84660fab16ca0c3a516)](https://mdpgroup.com/en/)
+*   [![Image 3: Türkçe](blob:http://localhost/7c24eb4a3e18324906b4e0adc59e084e)](https://mdpgroup.com/katalog/)
+*   [![Image 4: Deutsch](blob:http://localhost/f7175783fb143a77de78739839c9b35f)](https://mdpgroup.com/de/)
+
+*   [Kurumsal](https://mdpgroup.com/katalog/#)
+    *   [](javascript:;)
+    *   [Hakkımızda](https://mdpgroup.com/kurumsal/)
+    *   [Başarı Hikayeleri](https://mdpgroup.com/basari-hikayeleri/)
+    *   [MDP Akademi](https://mdpgroup.com/mdp-akademi/)
+    *   [Politikalarımız](https://mdpgroup.com/politikalarimiz/)
+    *   [Kariyer](https://mdpgroup.com/?page_id=9)
+    *   [Kariyer Fırsatları](https://mdpgroup.com/kariyer-firsatlari/)
+
+*   [Çözümler](https://mdpgroup.com/katalog/#)
+    *   [](javascript:;)
+    *   [Mevduat ve Döviz İşlem Portali](https://mdpgroup.com/cozumler/sap-mevduat-ve-doviz-islemleri/)
+    *   [Doğrudan Borçlandırma Sistemi](https://mdpgroup.com/cozumler/sap-dogrudan-borclandirma/)
+    *   [e-Hesap Özeti](https://mdpgroup.com/cozumler/sap-ekstre-hesap-ozeti/)
+    *   [Sanal Pos Entegrasyonu & Muhasebeleştirme](https://mdpgroup.com/cozumler/sap-sanal-pos-entegrasyonu-muhasebelestirme/)
+    *   [e-Ödeme](https://mdpgroup.com/cozumler/sap-e-odeme/)
+    *   [e-Arşiv Fatura](https://mdpgroup.com/cozumler/sap-e-arsiv-fatura/)
+    *   [e-Defter](https://mdpgroup.com/cozumler/e-defter/)
+    *   [e-Defter Saklama](https://mdpgroup.com/cozumler/e-defter-saklama/)
+    *   [e-Fatura](https://mdpgroup.com/cozumler/e-fatura/)
+    *   [e-İrsaliye](https://mdpgroup.com/cozumler/e-irsaliye/)
+    *   [Gelen e-Fatura](https://mdpgroup.com/cozumler/sap-gelen-fatura/)
+    *   [e-Mutabakat](https://mdpgroup.com/cozumler/e-mutabakat/)
+    *   [e-Beyanname](https://mdpgroup.com/cozumler/mdp-sap-e-beyanname/)
+    *   [Ekstre Karşılaştırma](https://mdpgroup.com/cozumler/ekstre-karsilastirma/)
+    *   [Gelen e-Arşiv Fatura](https://mdpgroup.com/cozumler/gelen-e-arsiv/)
+    *   [E-Arşiv Fatura Görüntüleme](https://mdpgroup.com/cozumler/e-arsiv-fatura-goruntuleme/)
+    *   [Lokal e-Belge Saklama](https://mdpgroup.com/cozumler/lokal-e-belge-saklama/)
+    *   [Gelen e-İrsaliye Çözümü](https://mdpgroup.com/cozumler/gelen-e-irsaliye/)
+    *   [e-Muhasebe Fişi](https://mdpgroup.com/cozumler/e-muhasebe-fisi/)
+    *   [e-Müstahsil](https://mdpgroup.com/cozumler/e-mustahsil-makbuzu/)
+    *   [Dijital Gider Pusulası](https://mdpgroup.com/cozumler/e-gider-pusulasi-cozumu/)
+    *   [İzin Yönetimi](https://mdpgroup.com/cozumler/sap-izin-yonetimi/)
+    *   [Seyahat Yönetimi](https://mdpgroup.com/cozumler/sap-seyahat-yonetimi/)
+    *   [Organizasyon Şeması](https://mdpgroup.com/cozumler/sap-organizasyon-semasi/)
+    *   [Ücret Yönetimi](https://mdpgroup.com/cozumler/sap-ucret-yonetimi/)
+    *   [Masraf Yönetimi](https://mdpgroup.com/cozumler/sap-masraf-yonetimi/)
+    *   [Provizyon Talep Formu](https://mdpgroup.com/cozumler/sap-provizyon-talep-formu/)
+    *   [SAP SuccessFactors Entegrasyonu](https://mdpgroup.com/cozumler/sap-successfactors-entegrasyonu/)
+    *   [Sürekli İyileştirme](https://mdpgroup.com/cozumler/surekli-iyilestirme-cozumu/)
+    *   [MIP – Entegrasyon Yazılımı](https://mdpgroup.com/cozumler/mip-entegrasyon-yazilimi/)
+    *   [Öneri Sistemi](https://mdpgroup.com/cozumler/oneri-sistemi/)
+    *   [Dijital 5S](https://mdpgroup.com/cozumler/dijital-5s-cozumu/)
+    *   [Kaizen Yazılımı](https://mdpgroup.com/cozumler/kaizen-yazilimi/)
+    *   [İSG Uygulaması](https://mdpgroup.com/cozumler/sap-isg-uygulamasi/)
+    *   [Custom MDM](https://mdpgroup.com/cozumler/sap-custom-mdm/)
+    *   [U-ETDS](https://mdpgroup.com/cozumler/sap-u-etds-cozumu/)
+    *   [Bilgi Yönetimi](https://mdpgroup.com/cozumler/bilgi-yonetim-sistemi/)
+    *   [JetSRM Tedarikçi Portali](https://mdpgroup.com/cozumler/jetsrm-tedarikci-portali/)
+    *   [MDP SAP Yapay Zeka Asistanı](https://mdpgroup.com/?page_id=18079)
+    *   [JetBAYİ Bayi Portalı](https://mdpgroup.com/cozumler/jetcrm-b2b-musteri-portali/)
+    *   [MDP Firefighter](https://mdpgroup.com/cozumler/mdp-firefighter/)
+    *   [SAP & Kargo Entegrasyonu](https://mdpgroup.com/sap-kargo-entegrasyonu/)
+    *   [Mobil Tahsilat](https://mdpgroup.com/cozumler/sap-mobil-tahsilat/)
+    *   [Pre-packaged Mappings EDIFACT](https://mdpgroup.com/cozumler/pre-packaged-mappings-edifact/)
+    *   [Pre-packaged Mappings ANSI X12](https://mdpgroup.com/cozumler/pre-packaged-mappings-ansi-x12/)
+    *   [Pre-packaged Mappings VDA](https://mdpgroup.com/cozumler/pre-packaged-mappings-vda/)
+
+*   [Danışmanlık](https://mdpgroup.com/katalog/#)
+    *   [](javascript:;)
+    *   [SAP EWM](https://mdpgroup.com/danismanlik/sap-ewm/)
+    *   [SAP PI/PO](https://mdpgroup.com/danismanlik/sap-pi-po/)
+    *   [SAP Integration Suite](https://mdpgroup.com/danismanlik/sap-integration-suite/)
+    *   [SAP ABAP](https://mdpgroup.com/danismanlik/sap-abap/)
+    *   [SAP Fiori](https://mdpgroup.com/danismanlik/sap-fiori/)
+    *   [SAP AIF](https://mdpgroup.com/danismanlik/sap-aif/)
+    *   [SAP EDI](https://mdpgroup.com/danismanlik/sap-edi/)
+    *   [SAP MII](https://mdpgroup.com/danismanlik/sap-mii/)
+    *   [Yapay Zeka](https://mdpgroup.com/yapay-zeka/)
+    *   [SAP Ariba](https://mdpgroup.com/?page_id=10701)
+    *   [SAP Signavio](https://mdpgroup.com/danismanlik/sap-signavio/)
+    *   [SAP MFS](https://mdpgroup.com/danismanlik/sap-mfs/)
+    *   [WMS](https://mdpgroup.com/danismanlik/depo-yonetim-sistemi-wms/)
+    *   [.NET Yazılım Geliştirme](https://mdpgroup.com/dotnet-yazilim-gelistirme/)
+
+*   [Kurumsal Yapay Zeka Danışmanlığı](https://mdpgroup.com/yapay-zeka/)
+*   [Blog](https://mdpgroup.com/blog/)
+*   [Etkinlikler](https://mdpgroup.com/etkinlikler/)
+*   [Bizden Haberler](https://mdpgroup.com/bizden-haberler/)
+*   [Katalog](https://mdpgroup.com/katalog/)
+*   [Referanslar](https://mdpgroup.com/referanslar/)
+*   [İletişim](https://mdpgroup.com/iletisim/)
+
+# Katalog
+
+![Image 5: SAP Tedarikçi Portali](https://mdpgroup.com/wp-content/uploads/2024/06/JetSRM-Tedarikci-Portali.png)
+
+## JetSRM Tedarikçi Portali Katalogu
+
+JetSRM'nin sunduğu modülleri ve avantajları keşfetmek için kataloğumuzu inceleyin!
+
+[Detaylı Bilgi için Tıklayınız](https://mdpgroup.com/katalog/jetsrm-tedarikci-portali/)
+
+![Image 6: SAP Çözümleri Katalog](https://mdpgroup.com/wp-content/uploads/2024/03/2024-Cozum-Portfoyu.jpg.webp)
+
+## 2024 Çözüm Portföyü Katalogu
+
+SAP & non-SAP uygulamalardan oluşan 2024 çözüm kataloğumuzu inceleyin
+
+[Detaylı Bilgi için Tıklayınız](https://mdpgroup.com/katalog/2024-cozum-portfoyu/)
+
+![Image 7: 2023 SAP Çözümleri](https://mdpgroup.com/wp-content/uploads/2023/09/2024-1.png.webp)
+
+## 2023 Öne Çıkan Çözümler Katalogu
+
+İş ortaklarımızın 2023 yılında en çok tercih ettiği çözümlerimizi keşfedin.
+
+[Detaylı Bilgi için Tıklayınız](https://mdpgroup.com/katalog/2023te-one-cikan-urunlerimiz/)
+
+![Image 8: SAP Finansal Çözümler](https://mdpgroup.com/wp-content/uploads/2023/03/Finansal-C%CC%A7o%CC%88zu%CC%88mler-1.jpg.webp)
+
+## Finansal Çözümler Katalogu
+
+SAP kullanan firmalar için geliştirilmiş, yenilikçi Fintech çözümlerimizi inceleyin.
+
+[Detaylı Bilgi için Tıklayınız](https://mdpgroup.com/katalog/finansal-cozumler/)
+
+![Image 9: SAP E-Dönüşüm Çözümleri](https://mdpgroup.com/wp-content/uploads/2022/07/e-donusum-katalog.jpg.webp)
+
+## E-Dönüşüm Çözüm Katalogu
+
+SAP kullanan firmalar için geliştirilmiş, GİB regülasyonlarına uyumlu e-dönüşüm çözümlerimizi inceleyin.
+
+[Detaylı Bilgi için Tıklayınız.](https://mdpgroup.com/katalog/e-donusum-cozumleri/)
+
+![Image 10: BT Varlık Yönetimi Çözümleri](https://mdpgroup.com/wp-content/uploads/2022/07/bt-varlik-yonetimi.jpg.webp)
+
+## BT Varlık Yönetimi Yazılımı | Loggle
+
+Türkiye’nin ilk ve tek yerli BT Varlık Yönetimi çözümünü keşfedin!
+
+[Detaylı Bilgi için Tıklayınız.](https://mdpgroup.com/katalog/bt-varlik-yonetimi-yazilimi/)
+
+## Katalog
+
+**Bizimle İletişime Geçebilirsiniz!**
+
+2013'den bu yana 5 kıtada 450’den fazla iş ortağımız ile birlikte 1100’den fazla projeyi başarıyla hayata geçirdik. Çözüm ve danışmanlık hizmetlerimiz hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+*   [](https://www.facebook.com/digitalmdp/)
+*   [](http://www.instagram.com/digitalmdp)
+*   [](https://twitter.com/digitalmdp)
+*   [](https://www.linkedin.com/company/digitalmdp)
+*   [](https://open.spotify.com/show/3rgNqEflTRpStgCqZINSgY?si=92f04e141c264816)
+
+![Image 11: MDP Group](https://mdpgroup.com/wp-content/themes/mdpgroup/assets/img/logo.svg)
+
+*   [Referanslar](https://mdpgroup.com/referanslar/)
+*   [Hakkımızda](https://mdpgroup.com/kurumsal/)
+*   [Geri Bildirim](https://mdpgroup.com/sikayet-geri-bildirim-ve-tesekkur/)
+*   [SAP Destek](https://mdpgroup.com/sap-destek-hizmetleri/)
+*   [Yazılım Geliştirme](https://mdpgroup.com/yazilim-gelistirme-hizmetleri/)
+*   [Blog](https://mdpgroup.com/blog/)
+*   [KVKK](https://mdpgroup.com/kvkk/)
+*   [İletişim](https://mdpgroup.com/iletisim/)
+*   [Kariyer](https://mdpgroup.com/?page_id=9)
+
+**E-Posta:**[info@mdpgroup.com](mailto:info@mdpgrup.com)
+
+**İstanbul Ofis**
+
+ Bayar Cd. Ş.M.F.Öngül Sk. No:3 Kadıköy
+
+ Türkiye
+
+**Zürih Ofis**
+
+ MDP Group AG Rosstrasse 53 8832 Wollerau
+
+ İsviçre
+
+ © 2026 MDP GROUP
+
+![Image 12: Peppol](https://mdpgroup.com/wp-content/uploads/2025/04/PEPPOL_WHITE.png.webp)![Image 13: SAP](https://mdpgroup.com/wp-content/uploads/2025/04/SAP_white.png.webp)![Image 14: Great Place to Work](https://mdpgroup.com/wp-content/uploads/2025/04/Great_to_place_work_white-1-1.png.webp)![Image 15: ISO](https://mdpgroup.com/wp-content/uploads/2025/04/ISO_WHITE.png.webp)![Image 16: ISO 9001](https://mdpgroup.com/wp-content/uploads/2025/04/ISO_9001_WHITE.png.webp)![Image 17: EcoVadis](https://mdpgroup.com/wp-content/uploads/2025/04/ECOVADIS_WHITE.png.webp)
+
+Mailiniz başarıyla gönderilmiştir en kısa sürede sizinle iletişime geçilecektir.
+
+Mesajınız ulaştırılamadı! Lütfen daha sonra tekrar deneyin.
+
+
+
+
+Title: E-Kitap | MDP Group
+
+URL Source: https://mdpgroup.com/e-kitap/
+
+Markdown Content:
+# E-Kitap | MDP Group
+
+[![Image 4: MDP Group](https://mdpgroup.com/wp-content/uploads/2020/03/l.png.webp)](https://mdpgroup.com/ "MDP Group")
+
+*   [Kurumsal](https://mdpgroup.com/kurumsal/)
+    
+
+    *   [Hakkımızda](https://mdpgroup.com/kurumsal/)
+    *   [Ar-Ge](https://mdpgroup.com/arge/)
+    *   [Başarı Hikayeleri](https://mdpgroup.com/basari-hikayeleri/)
+    *   [MDP Akademi](https://mdpgroup.com/mdp-akademi/)
+    *   [Kariyer](https://mdpgroup.com/?page_id=9)
+    *   [Kariyer Fırsatları](https://mdpgroup.com/kariyer-firsatlari/)
+    *   [Politikalarımız](https://mdpgroup.com/politikalarimiz/)
+    *   [Banka Bilgilerimiz](https://mdpgroup.com/banka-hesap-bilgilerimiz/)
+
+*   [Çözümler](https://mdpgroup.com/e-kitap/#)
+    
+
+    *   [SAP FI Add Ons](https://mdpgroup.com/e-kitap/#)
+        *   [e-Mutabakat](https://mdpgroup.com/cozumler/e-mutabakat/)
+        *   [e-Hesap Özeti](https://mdpgroup.com/cozumler/sap-ekstre-hesap-ozeti/)
+        *   [e-Beyanname](https://mdpgroup.com/cozumler/mdp-sap-e-beyanname/)
+        *   [e-Ödeme](https://mdpgroup.com/cozumler/sap-e-odeme/)
+        *   [Ekstre Karşılaştırma](https://mdpgroup.com/cozumler/ekstre-karsilastirma/)
+        *   [Sanal Pos Entegrasyonu & Muhasebeleştirme](https://mdpgroup.com/cozumler/sap-sanal-pos-entegrasyonu-muhasebelestirme/)
+        *   [Doğrudan Borçlandırma Sistemi](https://mdpgroup.com/cozumler/sap-dogrudan-borclandirma/)
+        *   [Kur Farkı Faturası](https://mdpgroup.com/cozumler/sap-kur-farki-faturasi/)
+        *   [Fiori e-Hesap Özeti](https://mdpgroup.com/cozumler/sap-fiori-e-hesap-ozeti/)
+        *   [Operasyon Detay Bütçeleme](https://mdpgroup.com/cozumler/operasyon-detay-butceleme/)
+        *   [Mevduat ve Döviz İşlem Portalı](https://mdpgroup.com/cozumler/sap-mevduat-ve-doviz-islemleri/)
+
+    *   [SAP e-Dönüşüm](https://mdpgroup.com/cozumler/e-donusum)
+        *   [e-Fatura](https://mdpgroup.com/cozumler/e-fatura/)
+        *   [e-Arşiv Fatura](https://mdpgroup.com/cozumler/sap-e-arsiv-fatura/)
+        *   [e-Defter](https://mdpgroup.com/cozumler/e-defter/)
+        *   [e-İrsaliye](https://mdpgroup.com/cozumler/e-irsaliye/)
+        *   [Gelen e-Fatura](https://mdpgroup.com/cozumler/sap-gelen-fatura/)
+        *   [Gelen e-Arşiv Fatura](https://mdpgroup.com/cozumler/gelen-e-arsiv/)
+        *   [E-Arşiv Fatura Görüntüleme](https://mdpgroup.com/cozumler/e-arsiv-fatura-goruntuleme/)
+        *   [Gelen e-İrsaliye](https://mdpgroup.com/cozumler/gelen-e-irsaliye/)
+        *   [e-Muhasebe Fişi](https://mdpgroup.com/cozumler/e-muhasebe-fisi/)
+        *   [Lokal e-Belge Saklama](https://mdpgroup.com/cozumler/lokal-e-belge-saklama/)
+        *   [e-Müstahsil](https://mdpgroup.com/cozumler/e-mustahsil-makbuzu/)
+        *   [e-Gider Pusulası](https://mdpgroup.com/cozumler/e-gider-pusulasi-cozumu/)
+        *   [Peppol e-Fatura](https://mdpgroup.com/cozumler/peppol-e-fatura/)
+
+    *   [SAP HR Add-Ons](https://mdpgroup.com/e-kitap/#)
+        *   [Masraf Yönetimi](https://mdpgroup.com/cozumler/sap-masraf-yonetimi/)
+        *   [İzin Yönetimi](https://mdpgroup.com/cozumler/sap-izin-yonetimi/)
+        *   [Provizyon Talep Formu](https://mdpgroup.com/cozumler/sap-provizyon-talep-formu/)
+        *   [Seyahat Yönetimi](https://mdpgroup.com/cozumler/sap-seyahat-yonetimi/)
+        *   [Ücret Yönetimi](https://mdpgroup.com/cozumler/sap-ucret-yonetimi/)
+        *   [Organizasyon Şeması](https://mdpgroup.com/cozumler/sap-organizasyon-semasi/)
+        *   [SAP SuccessFactors Entegrasyonu](https://mdpgroup.com/cozumler/sap-successfactors-entegrasyonu/)
+
+    *   [SAP Portal Çözümler](https://mdpgroup.com/e-kitap/#)
+        *   [JetSRM Tedarikçi Portali](https://mdpgroup.com/cozumler/jetsrm-tedarikci-portali/)
+        *   [JetBAYİ Bayi Portali](https://mdpgroup.com/cozumler/jetcrm-b2b-musteri-portali/)
+        *   [JetHR İK Yönetimi](https://mdpgroup.com/cozumler/jethr-ik-yonetimi/)
+
+    *   [Further SAP Add-Ons](https://mdpgroup.com/e-kitap/#)
+        *   [MDP Firefighter](https://mdpgroup.com/cozumler/mdp-firefighter/)
+        *   [MDP Client (Fiori)](https://mdpgroup.com/cozumler/sap-custom-fiori-client/)
+        *   [Bilgi Yönetim Sistemi](https://mdpgroup.com/cozumler/bilgi-yonetim-sistemi/)
+        *   [Mobil Tahsilat](https://mdpgroup.com/cozumler/sap-mobil-tahsilat/)
+        *   [Mobil Sipariş](https://mdpgroup.com/cozumler/sap-mobil-siparis/)
+        *   [İleti Yönetim Sistemi (İYS) Entegrasyonu](https://mdpgroup.com/cozumler/ileti-yonetim-sistemi-entegrasyonu/)
+        *   [U-ETDS Entegrasyonu](https://mdpgroup.com/cozumler/sap-u-etds-cozumu/)
+        *   [Kargo Entegrasyonu](https://mdpgroup.com/sap-kargo-entegrasyonu/)
+
+    *   [Non-SAP Çözümler](https://mdpgroup.com/e-kitap/#)
+        *   [MIP – Entegrasyon Yazılımı](https://mdpgroup.com/cozumler/mip-entegrasyon-yazilimi/)
+        *   [JetLM Lojistik Yönetimi](https://mdpgroup.com/cozumler/jetlm-lojistik-yonetimi/)
+        *   [Sürekli İyileştirme](https://mdpgroup.com/cozumler/surekli-iyilestirme-cozumu/)
+        *   [Öneri Sistemi](https://mdpgroup.com/cozumler/oneri-sistemi/)
+        *   [Dijital 5S](https://mdpgroup.com/cozumler/dijital-5s-cozumu/)
+        *   [Kaizen Yazılımı](https://mdpgroup.com/cozumler/kaizen-yazilimi/)
+
+*   [Danışmanlık](https://mdpgroup.com/danismanlik/)
+    
+
+    *   [SAP EWM](https://mdpgroup.com/danismanlik/sap-ewm/)
+    *   [SAP PI/PO](https://mdpgroup.com/danismanlik/sap-pi-po/)
+    *   [SAP Integration Suite](https://mdpgroup.com/danismanlik/sap-integration-suite/)
+    *   [SAP ABAP](https://mdpgroup.com/danismanlik/sap-abap/)
+    *   [SAP Fiori](https://mdpgroup.com/danismanlik/sap-fiori/)
+    *   [SAP EDI](https://mdpgroup.com/danismanlik/sap-edi/)
+    *   [SAP Signavio](https://mdpgroup.com/danismanlik/sap-signavio/)
+    *   [SAP TM](https://mdpgroup.com/danismanlik/sap-transportation-management-tm/)
+    *   [SAP GTS](https://mdpgroup.com/danismanlik/sap-gts/)
+    *   [SAP MFS](https://mdpgroup.com/danismanlik/sap-mfs/)
+    *   [Azure Entegrasyonu](https://mdpgroup.com/azure-integration-services-cozumleri/)
+
+*   [Yapay Zeka](https://mdpgroup.com/yapay-zeka/)
+*   [Blog](https://mdpgroup.com/blog/)
+*   [İçerikler](https://mdpgroup.com/e-kitap/#)
+    
+
+    *   [Etkinlikler](https://mdpgroup.com/etkinlikler/)
+    *   [Katalog](https://mdpgroup.com/katalog/)
+    *   [E-Kitap](https://mdpgroup.com/e-kitap/)
+    *   [Başarı Hikayeleri](https://mdpgroup.com/basari-hikayeleri/)
+    *   [Bizden Haberler](https://mdpgroup.com/bizden-haberler/)
+
+*   [Referanslar](https://mdpgroup.com/referanslar/)
+*   [İletişim](https://mdpgroup.com/iletisim/)
+
+*   [![Image 5: English](blob:http://localhost/d883beb4362fe84660fab16ca0c3a516)](https://mdpgroup.com/en/)
+*   [![Image 6: Türkçe](blob:http://localhost/7c24eb4a3e18324906b4e0adc59e084e)](https://mdpgroup.com/e-kitap/)
+*   [![Image 7: Deutsch](blob:http://localhost/f7175783fb143a77de78739839c9b35f)](https://mdpgroup.com/de/)
+
+*   [Kurumsal](https://mdpgroup.com/e-kitap/#)
+    *   [](javascript:;)
+    *   [Hakkımızda](https://mdpgroup.com/kurumsal/)
+    *   [Başarı Hikayeleri](https://mdpgroup.com/basari-hikayeleri/)
+    *   [MDP Akademi](https://mdpgroup.com/mdp-akademi/)
+    *   [Politikalarımız](https://mdpgroup.com/politikalarimiz/)
+    *   [Kariyer](https://mdpgroup.com/?page_id=9)
+    *   [Kariyer Fırsatları](https://mdpgroup.com/kariyer-firsatlari/)
+
+*   [Çözümler](https://mdpgroup.com/e-kitap/#)
+    *   [](javascript:;)
+    *   [Mevduat ve Döviz İşlem Portali](https://mdpgroup.com/cozumler/sap-mevduat-ve-doviz-islemleri/)
+    *   [Doğrudan Borçlandırma Sistemi](https://mdpgroup.com/cozumler/sap-dogrudan-borclandirma/)
+    *   [e-Hesap Özeti](https://mdpgroup.com/cozumler/sap-ekstre-hesap-ozeti/)
+    *   [Sanal Pos Entegrasyonu & Muhasebeleştirme](https://mdpgroup.com/cozumler/sap-sanal-pos-entegrasyonu-muhasebelestirme/)
+    *   [e-Ödeme](https://mdpgroup.com/cozumler/sap-e-odeme/)
+    *   [e-Arşiv Fatura](https://mdpgroup.com/cozumler/sap-e-arsiv-fatura/)
+    *   [e-Defter](https://mdpgroup.com/cozumler/e-defter/)
+    *   [e-Defter Saklama](https://mdpgroup.com/cozumler/e-defter-saklama/)
+    *   [e-Fatura](https://mdpgroup.com/cozumler/e-fatura/)
+    *   [e-İrsaliye](https://mdpgroup.com/cozumler/e-irsaliye/)
+    *   [Gelen e-Fatura](https://mdpgroup.com/cozumler/sap-gelen-fatura/)
+    *   [e-Mutabakat](https://mdpgroup.com/cozumler/e-mutabakat/)
+    *   [e-Beyanname](https://mdpgroup.com/cozumler/mdp-sap-e-beyanname/)
+    *   [Ekstre Karşılaştırma](https://mdpgroup.com/cozumler/ekstre-karsilastirma/)
+    *   [Gelen e-Arşiv Fatura](https://mdpgroup.com/cozumler/gelen-e-arsiv/)
+    *   [E-Arşiv Fatura Görüntüleme](https://mdpgroup.com/cozumler/e-arsiv-fatura-goruntuleme/)
+    *   [Lokal e-Belge Saklama](https://mdpgroup.com/cozumler/lokal-e-belge-saklama/)
+    *   [Gelen e-İrsaliye Çözümü](https://mdpgroup.com/cozumler/gelen-e-irsaliye/)
+    *   [e-Muhasebe Fişi](https://mdpgroup.com/cozumler/e-muhasebe-fisi/)
+    *   [e-Müstahsil](https://mdpgroup.com/cozumler/e-mustahsil-makbuzu/)
+    *   [Dijital Gider Pusulası](https://mdpgroup.com/cozumler/e-gider-pusulasi-cozumu/)
+    *   [İzin Yönetimi](https://mdpgroup.com/cozumler/sap-izin-yonetimi/)
+    *   [Seyahat Yönetimi](https://mdpgroup.com/cozumler/sap-seyahat-yonetimi/)
+    *   [Organizasyon Şeması](https://mdpgroup.com/cozumler/sap-organizasyon-semasi/)
+    *   [Ücret Yönetimi](https://mdpgroup.com/cozumler/sap-ucret-yonetimi/)
+    *   [Masraf Yönetimi](https://mdpgroup.com/cozumler/sap-masraf-yonetimi/)
+    *   [Provizyon Talep Formu](https://mdpgroup.com/cozumler/sap-provizyon-talep-formu/)
+    *   [SAP SuccessFactors Entegrasyonu](https://mdpgroup.com/cozumler/sap-successfactors-entegrasyonu/)
+    *   [Sürekli İyileştirme](https://mdpgroup.com/cozumler/surekli-iyilestirme-cozumu/)
+    *   [MIP – Entegrasyon Yazılımı](https://mdpgroup.com/cozumler/mip-entegrasyon-yazilimi/)
+    *   [Öneri Sistemi](https://mdpgroup.com/cozumler/oneri-sistemi/)
+    *   [Dijital 5S](https://mdpgroup.com/cozumler/dijital-5s-cozumu/)
+    *   [Kaizen Yazılımı](https://mdpgroup.com/cozumler/kaizen-yazilimi/)
+    *   [İSG Uygulaması](https://mdpgroup.com/cozumler/sap-isg-uygulamasi/)
+    *   [Custom MDM](https://mdpgroup.com/cozumler/sap-custom-mdm/)
+    *   [U-ETDS](https://mdpgroup.com/cozumler/sap-u-etds-cozumu/)
+    *   [Bilgi Yönetimi](https://mdpgroup.com/cozumler/bilgi-yonetim-sistemi/)
+    *   [JetSRM Tedarikçi Portali](https://mdpgroup.com/cozumler/jetsrm-tedarikci-portali/)
+    *   [MDP SAP Yapay Zeka Asistanı](https://mdpgroup.com/?page_id=18079)
+    *   [JetBAYİ Bayi Portalı](https://mdpgroup.com/cozumler/jetcrm-b2b-musteri-portali/)
+    *   [MDP Firefighter](https://mdpgroup.com/cozumler/mdp-firefighter/)
+    *   [SAP & Kargo Entegrasyonu](https://mdpgroup.com/sap-kargo-entegrasyonu/)
+    *   [Mobil Tahsilat](https://mdpgroup.com/cozumler/sap-mobil-tahsilat/)
+    *   [Pre-packaged Mappings EDIFACT](https://mdpgroup.com/cozumler/pre-packaged-mappings-edifact/)
+    *   [Pre-packaged Mappings ANSI X12](https://mdpgroup.com/cozumler/pre-packaged-mappings-ansi-x12/)
+    *   [Pre-packaged Mappings VDA](https://mdpgroup.com/cozumler/pre-packaged-mappings-vda/)
+
+*   [Danışmanlık](https://mdpgroup.com/e-kitap/#)
+    *   [](javascript:;)
+    *   [SAP EWM](https://mdpgroup.com/danismanlik/sap-ewm/)
+    *   [SAP PI/PO](https://mdpgroup.com/danismanlik/sap-pi-po/)
+    *   [SAP Integration Suite](https://mdpgroup.com/danismanlik/sap-integration-suite/)
+    *   [SAP ABAP](https://mdpgroup.com/danismanlik/sap-abap/)
+    *   [SAP Fiori](https://mdpgroup.com/danismanlik/sap-fiori/)
+    *   [SAP AIF](https://mdpgroup.com/danismanlik/sap-aif/)
+    *   [SAP EDI](https://mdpgroup.com/danismanlik/sap-edi/)
+    *   [SAP MII](https://mdpgroup.com/danismanlik/sap-mii/)
+    *   [Yapay Zeka](https://mdpgroup.com/yapay-zeka/)
+    *   [SAP Ariba](https://mdpgroup.com/?page_id=10701)
+    *   [SAP Signavio](https://mdpgroup.com/danismanlik/sap-signavio/)
+    *   [SAP MFS](https://mdpgroup.com/danismanlik/sap-mfs/)
+    *   [WMS](https://mdpgroup.com/danismanlik/depo-yonetim-sistemi-wms/)
+    *   [.NET Yazılım Geliştirme](https://mdpgroup.com/dotnet-yazilim-gelistirme/)
+
+*   [Kurumsal Yapay Zeka Danışmanlığı](https://mdpgroup.com/yapay-zeka/)
+*   [Blog](https://mdpgroup.com/blog/)
+*   [Etkinlikler](https://mdpgroup.com/etkinlikler/)
+*   [Bizden Haberler](https://mdpgroup.com/bizden-haberler/)
+*   [Katalog](https://mdpgroup.com/katalog/)
+*   [Referanslar](https://mdpgroup.com/referanslar/)
+*   [İletişim](https://mdpgroup.com/iletisim/)
+
+MDP
+# E-Kitap
+
+## SAP EDI Rehberi
+
+EDI belge formatları ve SAP'de EDI süreçleri hakkında detaylı bilgiyi e-Kitap'ta bulabilirsiniz.
+
+[E-Kitabı İndir!](https://mdpgroup.com/e-kitap/sap-edi-rehberi/)
+
+![Image 8: SAP EDI Süreçleri](https://mdpgroup.com/wp-content/uploads/2023/03/SAP-EDI-Rehberi-1-320x160.jpg%20320w)
+
+## SAP WM'den SAP EWM'e Geçiş Rehberi
+
+SAP WM’i SAP EWM ile değiştirirken nelere dikkat etmeniz gerekiyor? SAP EWM'e geçiş yol haritanızı oluşturmak için ihtiyacınız olan bilgileri e-kitapta bulabilirsiniz.
+
+[E-Kitabı İndir!](https://mdpgroup.com/e-kitap/sap-wm-sap-ewm-gecis-rehberi/)
+
+![Image 10: SAP WM'den SAP EWM'e Geçiş](https://mdpgroup.com/wp-content/uploads/2023/03/SAP-WMden-SAP-EWMe-Gec%CC%A7is%CC%A7-Rehberi-320x160.jpg%20320w)
+
+## SAP Signavio Rehberi
+
+SAP Signavio'nun sunduğu fonksiyonlar ve çözümleri keşfetmek için e-Kitabımızı inceleyebilirsiniz.
+
+[E-Kitabı İndir!](https://mdpgroup.com/e-kitap/sap-signavio-rehberi/)
+
+![Image 12: SAP Signavio Kılavuzu](https://mdpgroup.com/wp-content/uploads/2023/03/SAP-Signavio-Rehberi-320x160.jpg%20320w)
+
+*   [](https://www.facebook.com/digitalmdp/)
+*   [](http://www.instagram.com/digitalmdp)
+*   [](https://twitter.com/digitalmdp)
+*   [](https://www.linkedin.com/company/digitalmdp)
+*   [](https://open.spotify.com/show/3rgNqEflTRpStgCqZINSgY?si=92f04e141c264816)
+
+![Image 14: MDP Group](https://mdpgroup.com/wp-content/themes/mdpgroup/assets/img/logo.svg)
+
+*   [Referanslar](https://mdpgroup.com/referanslar/)
+*   [Hakkımızda](https://mdpgroup.com/kurumsal/)
+*   [Geri Bildirim](https://mdpgroup.com/sikayet-geri-bildirim-ve-tesekkur/)
+*   [SAP Destek](https://mdpgroup.com/sap-destek-hizmetleri/)
+*   [Yazılım Geliştirme](https://mdpgroup.com/yazilim-gelistirme-hizmetleri/)
+*   [Blog](https://mdpgroup.com/blog/)
+*   [KVKK](https://mdpgroup.com/kvkk/)
+*   [İletişim](https://mdpgroup.com/iletisim/)
+*   [Kariyer](https://mdpgroup.com/?page_id=9)
+
+**E-Posta:**[info@mdpgroup.com](mailto:info@mdpgrup.com)
+
+**İstanbul Ofis**
+
+ Bayar Cd. Ş.M.F.Öngül Sk. No:3 Kadıköy
+
+ Türkiye
+
+**Zürih Ofis**
+
+ MDP Group AG Rosstrasse 53 8832 Wollerau
+
+ İsviçre
+
+ © 2026 MDP GROUP
+
+![Image 15: Peppol](https://mdpgroup.com/wp-content/uploads/2025/04/PEPPOL_WHITE.png.webp)![Image 16: SAP](https://mdpgroup.com/wp-content/uploads/2025/04/SAP_white.png.webp)![Image 17: Great Place to Work](https://mdpgroup.com/wp-content/uploads/2025/04/Great_to_place_work_white-1-1.png.webp)![Image 18: ISO](https://mdpgroup.com/wp-content/uploads/2025/04/ISO_WHITE.png.webp)![Image 19: ISO 9001](https://mdpgroup.com/wp-content/uploads/2025/04/ISO_9001_WHITE.png.webp)![Image 20: EcoVadis](https://mdpgroup.com/wp-content/uploads/2025/04/ECOVADIS_WHITE.png.webp)
+
+Mailiniz başarıyla gönderilmiştir en kısa sürede sizinle iletişime geçilecektir.
+
+Mesajınız ulaştırılamadı! Lütfen daha sonra tekrar deneyin.
+
+
+Title: Başarı Hikayeleri | SAP Danışmanlık Hizmetleri | MDP Group
+
+URL Source: https://mdpgroup.com/basari-hikayeleri/
+
+Markdown Content:
+# Başarı Hikayeleri | SAP Danışmanlık Hizmetleri | MDP Group
+
+[![Image 6: MDP Group](https://mdpgroup.com/wp-content/uploads/2020/03/l.png)](https://mdpgroup.com/ "MDP Group")
+
+*   [Kurumsal](https://mdpgroup.com/kurumsal/)
+    
+
+    *   [Hakkımızda](https://mdpgroup.com/kurumsal/)
+    *   [Ar-Ge](https://mdpgroup.com/arge/)
+    *   [Başarı Hikayeleri](https://mdpgroup.com/basari-hikayeleri/)
+    *   [MDP Akademi](https://mdpgroup.com/mdp-akademi/)
+    *   [Kariyer](https://mdpgroup.com/?page_id=9)
+    *   [Kariyer Fırsatları](https://mdpgroup.com/kariyer-firsatlari/)
+    *   [Politikalarımız](https://mdpgroup.com/politikalarimiz/)
+    *   [Banka Bilgilerimiz](https://mdpgroup.com/banka-hesap-bilgilerimiz/)
+
+*   [Çözümler](https://mdpgroup.com/basari-hikayeleri/#)
+    
+
+    *   [SAP FI Add Ons](https://mdpgroup.com/basari-hikayeleri/#)
+        *   [e-Mutabakat](https://mdpgroup.com/cozumler/e-mutabakat/)
+        *   [e-Hesap Özeti](https://mdpgroup.com/cozumler/sap-ekstre-hesap-ozeti/)
+        *   [e-Beyanname](https://mdpgroup.com/cozumler/mdp-sap-e-beyanname/)
+        *   [e-Ödeme](https://mdpgroup.com/cozumler/sap-e-odeme/)
+        *   [Ekstre Karşılaştırma](https://mdpgroup.com/cozumler/ekstre-karsilastirma/)
+        *   [Sanal Pos Entegrasyonu & Muhasebeleştirme](https://mdpgroup.com/cozumler/sap-sanal-pos-entegrasyonu-muhasebelestirme/)
+        *   [Doğrudan Borçlandırma Sistemi](https://mdpgroup.com/cozumler/sap-dogrudan-borclandirma/)
+        *   [Kur Farkı Faturası](https://mdpgroup.com/cozumler/sap-kur-farki-faturasi/)
+        *   [Fiori e-Hesap Özeti](https://mdpgroup.com/cozumler/sap-fiori-e-hesap-ozeti/)
+        *   [Operasyon Detay Bütçeleme](https://mdpgroup.com/cozumler/operasyon-detay-butceleme/)
+        *   [Mevduat ve Döviz İşlem Portalı](https://mdpgroup.com/cozumler/sap-mevduat-ve-doviz-islemleri/)
+
+    *   [SAP e-Dönüşüm](https://mdpgroup.com/cozumler/e-donusum)
+        *   [e-Fatura](https://mdpgroup.com/cozumler/e-fatura/)
+        *   [e-Arşiv Fatura](https://mdpgroup.com/cozumler/sap-e-arsiv-fatura/)
+        *   [e-Defter](https://mdpgroup.com/cozumler/e-defter/)
+        *   [e-İrsaliye](https://mdpgroup.com/cozumler/e-irsaliye/)
+        *   [Gelen e-Fatura](https://mdpgroup.com/cozumler/sap-gelen-fatura/)
+        *   [Gelen e-Arşiv Fatura](https://mdpgroup.com/cozumler/gelen-e-arsiv/)
+        *   [E-Arşiv Fatura Görüntüleme](https://mdpgroup.com/cozumler/e-arsiv-fatura-goruntuleme/)
+        *   [Gelen e-İrsaliye](https://mdpgroup.com/cozumler/gelen-e-irsaliye/)
+        *   [e-Muhasebe Fişi](https://mdpgroup.com/cozumler/e-muhasebe-fisi/)
+        *   [Lokal e-Belge Saklama](https://mdpgroup.com/cozumler/lokal-e-belge-saklama/)
+        *   [e-Müstahsil](https://mdpgroup.com/cozumler/e-mustahsil-makbuzu/)
+        *   [e-Gider Pusulası](https://mdpgroup.com/cozumler/e-gider-pusulasi-cozumu/)
+        *   [Peppol e-Fatura](https://mdpgroup.com/cozumler/peppol-e-fatura/)
+
+    *   [SAP HR Add-Ons](https://mdpgroup.com/basari-hikayeleri/#)
+        *   [Masraf Yönetimi](https://mdpgroup.com/cozumler/sap-masraf-yonetimi/)
+        *   [İzin Yönetimi](https://mdpgroup.com/cozumler/sap-izin-yonetimi/)
+        *   [Provizyon Talep Formu](https://mdpgroup.com/cozumler/sap-provizyon-talep-formu/)
+        *   [Seyahat Yönetimi](https://mdpgroup.com/cozumler/sap-seyahat-yonetimi/)
+        *   [Ücret Yönetimi](https://mdpgroup.com/cozumler/sap-ucret-yonetimi/)
+        *   [Organizasyon Şeması](https://mdpgroup.com/cozumler/sap-organizasyon-semasi/)
+        *   [SAP SuccessFactors Entegrasyonu](https://mdpgroup.com/cozumler/sap-successfactors-entegrasyonu/)
+
+    *   [SAP Portal Çözümler](https://mdpgroup.com/basari-hikayeleri/#)
+        *   [JetSRM Tedarikçi Portali](https://mdpgroup.com/cozumler/jetsrm-tedarikci-portali/)
+        *   [JetBAYİ Bayi Portali](https://mdpgroup.com/cozumler/jetcrm-b2b-musteri-portali/)
+        *   [JetHR İK Yönetimi](https://mdpgroup.com/cozumler/jethr-ik-yonetimi/)
+
+    *   [Further SAP Add-Ons](https://mdpgroup.com/basari-hikayeleri/#)
+        *   [MDP Firefighter](https://mdpgroup.com/cozumler/mdp-firefighter/)
+        *   [MDP Client (Fiori)](https://mdpgroup.com/cozumler/sap-custom-fiori-client/)
+        *   [Bilgi Yönetim Sistemi](https://mdpgroup.com/cozumler/bilgi-yonetim-sistemi/)
+        *   [Mobil Tahsilat](https://mdpgroup.com/cozumler/sap-mobil-tahsilat/)
+        *   [Mobil Sipariş](https://mdpgroup.com/cozumler/sap-mobil-siparis/)
+        *   [İleti Yönetim Sistemi (İYS) Entegrasyonu](https://mdpgroup.com/cozumler/ileti-yonetim-sistemi-entegrasyonu/)
+        *   [U-ETDS Entegrasyonu](https://mdpgroup.com/cozumler/sap-u-etds-cozumu/)
+        *   [Kargo Entegrasyonu](https://mdpgroup.com/sap-kargo-entegrasyonu/)
+
+    *   [Non-SAP Çözümler](https://mdpgroup.com/basari-hikayeleri/#)
+        *   [MIP – Entegrasyon Yazılımı](https://mdpgroup.com/cozumler/mip-entegrasyon-yazilimi/)
+        *   [JetLM Lojistik Yönetimi](https://mdpgroup.com/cozumler/jetlm-lojistik-yonetimi/)
+        *   [Sürekli İyileştirme](https://mdpgroup.com/cozumler/surekli-iyilestirme-cozumu/)
+        *   [Öneri Sistemi](https://mdpgroup.com/cozumler/oneri-sistemi/)
+        *   [Dijital 5S](https://mdpgroup.com/cozumler/dijital-5s-cozumu/)
+        *   [Kaizen Yazılımı](https://mdpgroup.com/cozumler/kaizen-yazilimi/)
+
+*   [Danışmanlık](https://mdpgroup.com/danismanlik/)
+    
+
+    *   [SAP EWM](https://mdpgroup.com/danismanlik/sap-ewm/)
+    *   [SAP PI/PO](https://mdpgroup.com/danismanlik/sap-pi-po/)
+    *   [SAP Integration Suite](https://mdpgroup.com/danismanlik/sap-integration-suite/)
+    *   [SAP ABAP](https://mdpgroup.com/danismanlik/sap-abap/)
+    *   [SAP Fiori](https://mdpgroup.com/danismanlik/sap-fiori/)
+    *   [SAP EDI](https://mdpgroup.com/danismanlik/sap-edi/)
+    *   [SAP Signavio](https://mdpgroup.com/danismanlik/sap-signavio/)
+    *   [SAP TM](https://mdpgroup.com/danismanlik/sap-transportation-management-tm/)
+    *   [SAP GTS](https://mdpgroup.com/danismanlik/sap-gts/)
+    *   [SAP MFS](https://mdpgroup.com/danismanlik/sap-mfs/)
+    *   [Azure Entegrasyonu](https://mdpgroup.com/azure-integration-services-cozumleri/)
+
+*   [Yapay Zeka](https://mdpgroup.com/yapay-zeka/)
+*   [Blog](https://mdpgroup.com/blog/)
+*   [İçerikler](https://mdpgroup.com/basari-hikayeleri/#)
+    
+
+    *   [Etkinlikler](https://mdpgroup.com/etkinlikler/)
+    *   [Katalog](https://mdpgroup.com/katalog/)
+    *   [E-Kitap](https://mdpgroup.com/e-kitap/)
+    *   [Başarı Hikayeleri](https://mdpgroup.com/basari-hikayeleri/)
+    *   [Bizden Haberler](https://mdpgroup.com/bizden-haberler/)
+
+*   [Referanslar](https://mdpgroup.com/referanslar/)
+*   [İletişim](https://mdpgroup.com/iletisim/)
+
+*   [![Image 7: English](blob:http://localhost/d883beb4362fe84660fab16ca0c3a516)](https://mdpgroup.com/en/case-studies/)
+*   [![Image 8: Türkçe](blob:http://localhost/7c24eb4a3e18324906b4e0adc59e084e)](https://mdpgroup.com/basari-hikayeleri/)
+*   [![Image 9: Deutsch](blob:http://localhost/f7175783fb143a77de78739839c9b35f)](https://mdpgroup.com/de/)
+
+*   [Kurumsal](https://mdpgroup.com/basari-hikayeleri/#)
+    *   [](javascript:;)
+    *   [Hakkımızda](https://mdpgroup.com/kurumsal/)
+    *   [Başarı Hikayeleri](https://mdpgroup.com/basari-hikayeleri/)
+    *   [MDP Akademi](https://mdpgroup.com/mdp-akademi/)
+    *   [Politikalarımız](https://mdpgroup.com/politikalarimiz/)
+    *   [Kariyer](https://mdpgroup.com/?page_id=9)
+    *   [Kariyer Fırsatları](https://mdpgroup.com/kariyer-firsatlari/)
+
+*   [Çözümler](https://mdpgroup.com/basari-hikayeleri/#)
+    *   [](javascript:;)
+    *   [Mevduat ve Döviz İşlem Portali](https://mdpgroup.com/cozumler/sap-mevduat-ve-doviz-islemleri/)
+    *   [Doğrudan Borçlandırma Sistemi](https://mdpgroup.com/cozumler/sap-dogrudan-borclandirma/)
+    *   [e-Hesap Özeti](https://mdpgroup.com/cozumler/sap-ekstre-hesap-ozeti/)
+    *   [Sanal Pos Entegrasyonu & Muhasebeleştirme](https://mdpgroup.com/cozumler/sap-sanal-pos-entegrasyonu-muhasebelestirme/)
+    *   [e-Ödeme](https://mdpgroup.com/cozumler/sap-e-odeme/)
+    *   [e-Arşiv Fatura](https://mdpgroup.com/cozumler/sap-e-arsiv-fatura/)
+    *   [e-Defter](https://mdpgroup.com/cozumler/e-defter/)
+    *   [e-Defter Saklama](https://mdpgroup.com/cozumler/e-defter-saklama/)
+    *   [e-Fatura](https://mdpgroup.com/cozumler/e-fatura/)
+    *   [e-İrsaliye](https://mdpgroup.com/cozumler/e-irsaliye/)
+    *   [Gelen e-Fatura](https://mdpgroup.com/cozumler/sap-gelen-fatura/)
+    *   [e-Mutabakat](https://mdpgroup.com/cozumler/e-mutabakat/)
+    *   [e-Beyanname](https://mdpgroup.com/cozumler/mdp-sap-e-beyanname/)
+    *   [Ekstre Karşılaştırma](https://mdpgroup.com/cozumler/ekstre-karsilastirma/)
+    *   [Gelen e-Arşiv Fatura](https://mdpgroup.com/cozumler/gelen-e-arsiv/)
+    *   [E-Arşiv Fatura Görüntüleme](https://mdpgroup.com/cozumler/e-arsiv-fatura-goruntuleme/)
+    *   [Lokal e-Belge Saklama](https://mdpgroup.com/cozumler/lokal-e-belge-saklama/)
+    *   [Gelen e-İrsaliye Çözümü](https://mdpgroup.com/cozumler/gelen-e-irsaliye/)
+    *   [e-Muhasebe Fişi](https://mdpgroup.com/cozumler/e-muhasebe-fisi/)
+    *   [e-Müstahsil](https://mdpgroup.com/cozumler/e-mustahsil-makbuzu/)
+    *   [Dijital Gider Pusulası](https://mdpgroup.com/cozumler/e-gider-pusulasi-cozumu/)
+    *   [İzin Yönetimi](https://mdpgroup.com/cozumler/sap-izin-yonetimi/)
+    *   [Seyahat Yönetimi](https://mdpgroup.com/cozumler/sap-seyahat-yonetimi/)
+    *   [Organizasyon Şeması](https://mdpgroup.com/cozumler/sap-organizasyon-semasi/)
+    *   [Ücret Yönetimi](https://mdpgroup.com/cozumler/sap-ucret-yonetimi/)
+    *   [Masraf Yönetimi](https://mdpgroup.com/cozumler/sap-masraf-yonetimi/)
+    *   [Provizyon Talep Formu](https://mdpgroup.com/cozumler/sap-provizyon-talep-formu/)
+    *   [SAP SuccessFactors Entegrasyonu](https://mdpgroup.com/cozumler/sap-successfactors-entegrasyonu/)
+    *   [Sürekli İyileştirme](https://mdpgroup.com/cozumler/surekli-iyilestirme-cozumu/)
+    *   [MIP – Entegrasyon Yazılımı](https://mdpgroup.com/cozumler/mip-entegrasyon-yazilimi/)
+    *   [Öneri Sistemi](https://mdpgroup.com/cozumler/oneri-sistemi/)
+    *   [Dijital 5S](https://mdpgroup.com/cozumler/dijital-5s-cozumu/)
+    *   [Kaizen Yazılımı](https://mdpgroup.com/cozumler/kaizen-yazilimi/)
+    *   [İSG Uygulaması](https://mdpgroup.com/cozumler/sap-isg-uygulamasi/)
+    *   [Custom MDM](https://mdpgroup.com/cozumler/sap-custom-mdm/)
+    *   [U-ETDS](https://mdpgroup.com/cozumler/sap-u-etds-cozumu/)
+    *   [Bilgi Yönetimi](https://mdpgroup.com/cozumler/bilgi-yonetim-sistemi/)
+    *   [JetSRM Tedarikçi Portali](https://mdpgroup.com/cozumler/jetsrm-tedarikci-portali/)
+    *   [MDP SAP Yapay Zeka Asistanı](https://mdpgroup.com/?page_id=18079)
+    *   [JetBAYİ Bayi Portalı](https://mdpgroup.com/cozumler/jetcrm-b2b-musteri-portali/)
+    *   [MDP Firefighter](https://mdpgroup.com/cozumler/mdp-firefighter/)
+    *   [SAP & Kargo Entegrasyonu](https://mdpgroup.com/sap-kargo-entegrasyonu/)
+    *   [Mobil Tahsilat](https://mdpgroup.com/cozumler/sap-mobil-tahsilat/)
+    *   [Pre-packaged Mappings EDIFACT](https://mdpgroup.com/cozumler/pre-packaged-mappings-edifact/)
+    *   [Pre-packaged Mappings ANSI X12](https://mdpgroup.com/cozumler/pre-packaged-mappings-ansi-x12/)
+    *   [Pre-packaged Mappings VDA](https://mdpgroup.com/cozumler/pre-packaged-mappings-vda/)
+
+*   [Danışmanlık](https://mdpgroup.com/basari-hikayeleri/#)
+    *   [](javascript:;)
+    *   [SAP EWM](https://mdpgroup.com/danismanlik/sap-ewm/)
+    *   [SAP PI/PO](https://mdpgroup.com/danismanlik/sap-pi-po/)
+    *   [SAP Integration Suite](https://mdpgroup.com/danismanlik/sap-integration-suite/)
+    *   [SAP ABAP](https://mdpgroup.com/danismanlik/sap-abap/)
+    *   [SAP Fiori](https://mdpgroup.com/danismanlik/sap-fiori/)
+    *   [SAP AIF](https://mdpgroup.com/danismanlik/sap-aif/)
+    *   [SAP EDI](https://mdpgroup.com/danismanlik/sap-edi/)
+    *   [SAP MII](https://mdpgroup.com/danismanlik/sap-mii/)
+    *   [Yapay Zeka](https://mdpgroup.com/yapay-zeka/)
+    *   [SAP Ariba](https://mdpgroup.com/?page_id=10701)
+    *   [SAP Signavio](https://mdpgroup.com/danismanlik/sap-signavio/)
+    *   [SAP MFS](https://mdpgroup.com/danismanlik/sap-mfs/)
+    *   [WMS](https://mdpgroup.com/danismanlik/depo-yonetim-sistemi-wms/)
+    *   [.NET Yazılım Geliştirme](https://mdpgroup.com/dotnet-yazilim-gelistirme/)
+
+*   [Kurumsal Yapay Zeka Danışmanlığı](https://mdpgroup.com/yapay-zeka/)
+*   [Blog](https://mdpgroup.com/blog/)
+*   [Etkinlikler](https://mdpgroup.com/etkinlikler/)
+*   [Bizden Haberler](https://mdpgroup.com/bizden-haberler/)
+*   [Katalog](https://mdpgroup.com/katalog/)
+*   [Referanslar](https://mdpgroup.com/referanslar/)
+*   [İletişim](https://mdpgroup.com/iletisim/)
+
+# Başarı Hikayeleri
+
+[![Image 10: Başarı Hikayeleri_Cover_Arvato](https://mdpgroup.com/wp-content/uploads/2026/04/Basari-Hikayeleri_Cover_Arvato-1920x1000.png)](https://mdpgroup.com/basari-hikayeleri/arvato-lojistik-4-sap-ewm-egitim-programi-basariyla-tamamlandi/)
+
+## Eğitim:
+
+Arvato Lojistik
+
+[Detaya git→](https://mdpgroup.com/basari-hikayeleri/arvato-lojistik-4-sap-ewm-egitim-programi-basariyla-tamamlandi/)
+
+[![Image 11: Başarı Hikayeleri_Cover_Limak Çimento](https://mdpgroup.com/wp-content/uploads/2026/04/Basari-Hikayeleri_Cover_Limak-Cimento-1-1920x1000.png)](https://mdpgroup.com/basari-hikayeleri/limak-cimento-gelen-e-arsiv-fatura-sureclerini-mdp-group-ile-dijitallestirdi/)
+
+## Case Study:
+
+Limak Çimento
+
+[Detaya git→](https://mdpgroup.com/basari-hikayeleri/limak-cimento-gelen-e-arsiv-fatura-sureclerini-mdp-group-ile-dijitallestirdi/)
+
+[![Image 12: Başarı Hikayeleri_Borusan Boru_Cover](https://mdpgroup.com/wp-content/uploads/2026/04/Basari-Hikayeleri_Borusan-Boru_Cover-1920x1000.png)](https://mdpgroup.com/basari-hikayeleri/sap-tm-entegrasyonu-borusan-boru/)
+
+## Case Study:
+
+Borusan Boru
+
+[Detaya git→](https://mdpgroup.com/basari-hikayeleri/sap-tm-entegrasyonu-borusan-boru/)
+
+[![Image 13: Başarı Hikayeleri_Cover_Danone](https://mdpgroup.com/wp-content/uploads/2026/04/Basari-Hikayeleri_Cover_Danone-1920x1001.png)](https://mdpgroup.com/basari-hikayeleri/danone-turkiye-sap-gelen-e-fatura-sureclerini-mdp-group-ile-dijitallestirdi/)
+
+## Case Study:
+
+Danone
+
+[Detaya git→](https://mdpgroup.com/basari-hikayeleri/danone-turkiye-sap-gelen-e-fatura-sureclerini-mdp-group-ile-dijitallestirdi/)
+
+[![Image 14: Başarı Hikayeleri_Cover_Zorlu OEPSAŞ](https://mdpgroup.com/wp-content/uploads/2026/04/Basari-Hikayeleri_Cover_Zorlu-OEPSAS-1920x1000.png)](https://mdpgroup.com/basari-hikayeleri/zorlu-enerji-oepsas-e-mutabakat-projesi-ile-verimliligi-nasil-sagladi/)
+
+## Case Study:
+
+Zorlu-OEPSAŞ
+
+[Detaya git→](https://mdpgroup.com/basari-hikayeleri/zorlu-enerji-oepsas-e-mutabakat-projesi-ile-verimliligi-nasil-sagladi/)
+
+[![Image 15: Başarı Hikayeleri_Cover_OEDAS](https://mdpgroup.com/wp-content/uploads/2026/04/Basari-Hikayeleri_Cover_OEDAS-1920x1001.png)](https://mdpgroup.com/basari-hikayeleri/oedas-e-mutabakat-projesi-ile-verimliligi-nasil-sagladi/)
+
+## Case Study:
+
+OEDAŞ
+
+[Detaya git→](https://mdpgroup.com/basari-hikayeleri/oedas-e-mutabakat-projesi-ile-verimliligi-nasil-sagladi/)
+
+[![Image 16: Başarı Hikayeleri_Cover_Enerjisa-](https://mdpgroup.com/wp-content/uploads/2026/04/Basari-Hikayeleri_Cover_Enerjisa--1920x1000.png)](https://mdpgroup.com/basari-hikayeleri/enerjisa-gelen-e-arsiv-fatura-sureclerini-mdp-group-ile-dijitallestirdi/)
+
+## Case Study:
+
+Enerjisa
+
+[Detaya git→](https://mdpgroup.com/basari-hikayeleri/enerjisa-gelen-e-arsiv-fatura-sureclerini-mdp-group-ile-dijitallestirdi/)
+
+![Image 17: e-Hesap Özeti](https://mdpgroup.com/wp-content/uploads/2024/06/Case-Study_-e-Hesap-Ozeti.png)
+
+## Case Study: e-Hesap Özeti
+
+PDF'i indirmek için [tıklayınız](https://mdpgroup.com/basari-hikayeleri/banka-hesap-hareketleri-sap-entegrasyonu/).
+
+![Image 18: e-Muhasebe Fişi](https://mdpgroup.com/wp-content/uploads/2024/06/Case-Study_-e-Muhasebe-Fisi.png)
+
+## Case Study: e-Muhasebe Fişi
+
+PDF'i indirmek için [tıklayınız](https://mdpgroup.com/basari-hikayeleri/sap-e-muhasebe-fisi/).
+
+![Image 19: Case Study - MDP Fiori Usage Tracker](https://mdpgroup.com/wp-content/uploads/2024/05/Case-Study-MDP-Fiori-Usage-Tracker.png)
+
+## Case Study: MDP Fiori Usage Tracker
+
+PDF'i indirmek için [tıklayınız](https://mdpgroup.com/basari-hikayeleri/fiori-kullanim-analizi/).
+
+![Image 20: SAP EWM-Perakende](https://mdpgroup.com/wp-content/uploads/2024/05/Case-Study-SAP-EWM-Perakende.png)
+
+## Case Study: SAP EWM - Perakende
+
+PDF'i indirmek için [tıklayınız](https://mdpgroup.com/basari-hikayeleri/perakende-sektorunde-sap-ewm-karisik-parti-sorunu/).
+
+![Image 21: Case Study- e-İrsaliye Havuz Yönetimi](https://mdpgroup.com/wp-content/uploads/2024/05/Case-Study_-e-Irsaliye-Havuz-Yonetimi.png)
+
+## Case Study: ABAP Yazılımı ile e-İrsaliye Havuz Yönetimi
+
+PDF'i indirmek için [tıklayınız](https://mdpgroup.com/basari-hikayeleri/abap-yazilimiyla-e-irsaliye-havuz-yonetimi/).
+
+![Image 22: SAP EWM Hızlı Tüketim Sektörü](https://mdpgroup.com/wp-content/uploads/2024/05/Case-Study-SAP-EWM-Hizli-Tuketim-Uretim-Sektoru.png)
+
+## Case Study: SAP EWM Hızlı Tüketim Sektörü
+
+PDF'i indirmek için [tıklayınız](https://mdpgroup.com/basari-hikayeleri/perakende-sektorunde-sap-ewm-karisik-parti-sorunu/).
+
+![Image 23: Lokal e-Belge Saklama](https://mdpgroup.com/wp-content/uploads/2024/05/Case-Study_-Lokal-e-Belge-Saklama.png)
+
+## Case Study: Lokal e-Belge Saklama
+
+PDF'i indirmek için [tıklayınız](https://mdpgroup.com/basari-hikayeleri/eski-e-belgelerin-lokalde-saklanmasi/).
+
+![Image 24: Case Study- Dijital Gider Pusulası](https://mdpgroup.com/wp-content/uploads/2024/05/Case-Study-Dijital-Gider-Pusulasi.png)
+
+## Case Study: Dijital Gider Pusulası
+
+PDF'i indirmek için [tıklayınız](https://mdpgroup.com/basari-hikayeleri/dijital-gider-pusulasina-gecis/).
+
+![Image 25: Case Study - MIP](https://mdpgroup.com/wp-content/uploads/2024/05/Case-Study-MIP.png)
+
+## Case Study: MIP
+
+PDF'i indirmek için [tıklayınız](https://mdpgroup.com/basari-hikayeleri/tedarikci-entegrasyonlari-abap-mip/).
+
+![Image 26: Case Study SAP Gelen e-Arşiv](https://mdpgroup.com/wp-content/uploads/2024/05/Case-Study_-Gelen-e-Arsiv.png)
+
+## Case Study: Gelen e-Arşiv Çözümü
+
+PDF'i indirmek için [tıklayınız](https://mdpgroup.com/basari-hikayeleri/gelen-earsiv-sap/).
+
+## JetSRM Tedarikçi Portali: Şölen
+
+Türkiye’nin yenilikçi şirketlerinden Şölen'in Bilgi Teknolojileri Direktörü Ökkeş Bahar ve Satınalma Direktörü Kaan Şahin, tedarikçi ilişkilerini JetSRM Tedarikçi Portali'ne taşıma sürecindeki deneyimlerini ve memnuniyetlerini bizlerle paylaştı.
+
+## İşletme Süreçleri Dijital Dönüşüm Projesi: Metro İstanbul
+
+Metro İstanbul Bilgi Teknolojileri Direktörü Cihat Yediyıldız, MDP Group ile birlikte gerçekleştirdikleri "İşletme Süreçleri Dijital Dönüşüm Projesi" süreçlerindeki deneyimlerini ve memnuniyetini bizlerle paylaştı. Metro İstanbul, gerçekleştirilen proje kapsamında manuel veri girişi ve veri raporlama süreçlerini SAP Fiori entegre uygulamalara taşıyarak zaman tasarrufu sağlarken aynı zamanda veri doğruluğu ve erişebilirlik açısından çeşitli faydalar elde etti.
+
+## JetCRM Müşteri Portali: Çimsa
+
+Türkiye’nin yenilikçi şirketlerinden Çimsa'nın Dijital Veri Analitiği Müdürü Durhasan Pınar ve Satış & Operasyon Uzmanı İbrahim Noyan Özdemir, müşteri ilişkileri yönetimi süreçlerini JetCRM Müşteri Portali'ne taşıma sürecindeki deneyimlerini ve memnuniyetlerini bizlerle paylaştı.
+
+![Image 27: Gelen e-Belge](https://mdpgroup.com/wp-content/uploads/2022/04/0.jpg)
+
+## Gelen e-Arşiv Fatura Çözümü: Multinet
+
+İş ortaklarından her ay binlerce sayıda e-Arşiv Fatura alan Multinet, Gelen e-Arşiv Fatura çözümümüz ile e-Faturaya geçmemiş mükelleflerinden aldıkları 2000 TL üzeri e-Arşiv faturaları sistemlerine otomatik aktarmaya başladı. Multinet Muhasebe Müdürü Özlem Dişkaya, çözümümüz ile ilgili memnuniyetini bizlerle paylaştı.
+
+![Image 28: SAP ABAP Danışmanlığı](https://mdpgroup.com/wp-content/uploads/2022/04/1619698327017.jpeg)
+
+## SAP ABAP Danışmanlığı: Borusan Lojistik
+
+Lojistik sektörünü öncü firmalarından Borusan Lojistik, ERP süreçlerini MDP Group SAP ABAP desteği ile nasıl daha hızlı ve verimli hale getirdi? Borusan Lojistik'te SAP Yöneticisi olarak görev yapan Berna Ergül, danışmanlık sürecinden duyduğu memnuniyeti bizlerle paylaştı.
+
+![Image 29: SAP Entegrasyonları](https://mdpgroup.com/wp-content/uploads/2022/04/lincoln-testimotional-scaled.jpg)
+
+## SAP Entegrasyonları Projesi: Lincoln Electric
+
+Lincoln Electric Türkiye SAP Sistemleri Direktörü Timur Yüksekten, MDP Group ile birlikte başarıyla gerçekleştirdikleri entegrasyon projelerindeki memnuniyeti paylaştı.
+
+## Başarı Hikayeleri
+
+**Bizimle İletişime Geçebilirsiniz!**
+
+2013'den bu yana 5 kıtada 450’den fazla iş ortağımız ile birlikte 1100’den fazla projeyi başarıyla hayata geçirdik. Çözüm ve danışmanlık hizmetlerimiz hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+*   [](https://www.facebook.com/digitalmdp/)
+*   [](http://www.instagram.com/digitalmdp)
+*   [](https://twitter.com/digitalmdp)
+*   [](https://www.linkedin.com/company/digitalmdp)
+*   [](https://open.spotify.com/show/3rgNqEflTRpStgCqZINSgY?si=92f04e141c264816)
+
+![Image 30: MDP Group](https://mdpgroup.com/wp-content/themes/mdpgroup/assets/img/logo.svg)
+
+*   [Referanslar](https://mdpgroup.com/referanslar/)
+*   [Hakkımızda](https://mdpgroup.com/kurumsal/)
+*   [Geri Bildirim](https://mdpgroup.com/sikayet-geri-bildirim-ve-tesekkur/)
+*   [SAP Destek](https://mdpgroup.com/sap-destek-hizmetleri/)
+*   [Yazılım Geliştirme](https://mdpgroup.com/yazilim-gelistirme-hizmetleri/)
+*   [Blog](https://mdpgroup.com/blog/)
+*   [KVKK](https://mdpgroup.com/kvkk/)
+*   [İletişim](https://mdpgroup.com/iletisim/)
+*   [Kariyer](https://mdpgroup.com/?page_id=9)
+
+**E-Posta:**[info@mdpgroup.com](mailto:info@mdpgrup.com)
+
+**İstanbul Ofis**
+
+ Bayar Cd. Ş.M.F.Öngül Sk. No:3 Kadıköy
+
+ Türkiye
+
+**Zürih Ofis**
+
+ MDP Group AG Rosstrasse 53 8832 Wollerau
+
+ İsviçre
+
+ © 2026 MDP GROUP
+
+![Image 31: Peppol](https://mdpgroup.com/wp-content/uploads/2025/04/PEPPOL_WHITE.png)![Image 32: SAP](https://mdpgroup.com/wp-content/uploads/2025/04/SAP_white.png)![Image 33: Great Place to Work](https://mdpgroup.com/wp-content/uploads/2025/04/Great_to_place_work_white-1-1.png)![Image 34: ISO](https://mdpgroup.com/wp-content/uploads/2025/04/ISO_WHITE.png)![Image 35: ISO 9001](https://mdpgroup.com/wp-content/uploads/2025/04/ISO_9001_WHITE.png)![Image 36: EcoVadis](https://mdpgroup.com/wp-content/uploads/2025/04/ECOVADIS_WHITE.png)
+
+Mailiniz başarıyla gönderilmiştir en kısa sürede sizinle iletişime geçilecektir.
+
+Mesajınız ulaştırılamadı! Lütfen daha sonra tekrar deneyin.
+
+
+
+Title: Bizden Haberler | MDP Group
+
+URL Source: https://mdpgroup.com/bizden-haberler/
+
+Markdown Content:
+# Bizden Haberler | MDP Group
+
+[![Image 9: MDP Group](https://mdpgroup.com/wp-content/uploads/2020/03/l.png.webp)](https://mdpgroup.com/ "MDP Group")
+
+*   [Kurumsal](https://mdpgroup.com/kurumsal/)
+    
+
+    *   [Hakkımızda](https://mdpgroup.com/kurumsal/)
+    *   [Ar-Ge](https://mdpgroup.com/arge/)
+    *   [Başarı Hikayeleri](https://mdpgroup.com/basari-hikayeleri/)
+    *   [MDP Akademi](https://mdpgroup.com/mdp-akademi/)
+    *   [Kariyer](https://mdpgroup.com/?page_id=9)
+    *   [Kariyer Fırsatları](https://mdpgroup.com/kariyer-firsatlari/)
+    *   [Politikalarımız](https://mdpgroup.com/politikalarimiz/)
+    *   [Banka Bilgilerimiz](https://mdpgroup.com/banka-hesap-bilgilerimiz/)
+
+*   [Çözümler](https://mdpgroup.com/bizden-haberler/#)
+    
+
+    *   [SAP FI Add Ons](https://mdpgroup.com/bizden-haberler/#)
+        *   [e-Mutabakat](https://mdpgroup.com/cozumler/e-mutabakat/)
+        *   [e-Hesap Özeti](https://mdpgroup.com/cozumler/sap-ekstre-hesap-ozeti/)
+        *   [e-Beyanname](https://mdpgroup.com/cozumler/mdp-sap-e-beyanname/)
+        *   [e-Ödeme](https://mdpgroup.com/cozumler/sap-e-odeme/)
+        *   [Ekstre Karşılaştırma](https://mdpgroup.com/cozumler/ekstre-karsilastirma/)
+        *   [Sanal Pos Entegrasyonu & Muhasebeleştirme](https://mdpgroup.com/cozumler/sap-sanal-pos-entegrasyonu-muhasebelestirme/)
+        *   [Doğrudan Borçlandırma Sistemi](https://mdpgroup.com/cozumler/sap-dogrudan-borclandirma/)
+        *   [Kur Farkı Faturası](https://mdpgroup.com/cozumler/sap-kur-farki-faturasi/)
+        *   [Fiori e-Hesap Özeti](https://mdpgroup.com/cozumler/sap-fiori-e-hesap-ozeti/)
+        *   [Operasyon Detay Bütçeleme](https://mdpgroup.com/cozumler/operasyon-detay-butceleme/)
+        *   [Mevduat ve Döviz İşlem Portalı](https://mdpgroup.com/cozumler/sap-mevduat-ve-doviz-islemleri/)
+
+    *   [SAP e-Dönüşüm](https://mdpgroup.com/cozumler/e-donusum)
+        *   [e-Fatura](https://mdpgroup.com/cozumler/e-fatura/)
+        *   [e-Arşiv Fatura](https://mdpgroup.com/cozumler/sap-e-arsiv-fatura/)
+        *   [e-Defter](https://mdpgroup.com/cozumler/e-defter/)
+        *   [e-İrsaliye](https://mdpgroup.com/cozumler/e-irsaliye/)
+        *   [Gelen e-Fatura](https://mdpgroup.com/cozumler/sap-gelen-fatura/)
+        *   [Gelen e-Arşiv Fatura](https://mdpgroup.com/cozumler/gelen-e-arsiv/)
+        *   [E-Arşiv Fatura Görüntüleme](https://mdpgroup.com/cozumler/e-arsiv-fatura-goruntuleme/)
+        *   [Gelen e-İrsaliye](https://mdpgroup.com/cozumler/gelen-e-irsaliye/)
+        *   [e-Muhasebe Fişi](https://mdpgroup.com/cozumler/e-muhasebe-fisi/)
+        *   [Lokal e-Belge Saklama](https://mdpgroup.com/cozumler/lokal-e-belge-saklama/)
+        *   [e-Müstahsil](https://mdpgroup.com/cozumler/e-mustahsil-makbuzu/)
+        *   [e-Gider Pusulası](https://mdpgroup.com/cozumler/e-gider-pusulasi-cozumu/)
+        *   [Peppol e-Fatura](https://mdpgroup.com/cozumler/peppol-e-fatura/)
+
+    *   [SAP HR Add-Ons](https://mdpgroup.com/bizden-haberler/#)
+        *   [Masraf Yönetimi](https://mdpgroup.com/cozumler/sap-masraf-yonetimi/)
+        *   [İzin Yönetimi](https://mdpgroup.com/cozumler/sap-izin-yonetimi/)
+        *   [Provizyon Talep Formu](https://mdpgroup.com/cozumler/sap-provizyon-talep-formu/)
+        *   [Seyahat Yönetimi](https://mdpgroup.com/cozumler/sap-seyahat-yonetimi/)
+        *   [Ücret Yönetimi](https://mdpgroup.com/cozumler/sap-ucret-yonetimi/)
+        *   [Organizasyon Şeması](https://mdpgroup.com/cozumler/sap-organizasyon-semasi/)
+        *   [SAP SuccessFactors Entegrasyonu](https://mdpgroup.com/cozumler/sap-successfactors-entegrasyonu/)
+
+    *   [SAP Portal Çözümler](https://mdpgroup.com/bizden-haberler/#)
+        *   [JetSRM Tedarikçi Portali](https://mdpgroup.com/cozumler/jetsrm-tedarikci-portali/)
+        *   [JetBAYİ Bayi Portali](https://mdpgroup.com/cozumler/jetcrm-b2b-musteri-portali/)
+        *   [JetHR İK Yönetimi](https://mdpgroup.com/cozumler/jethr-ik-yonetimi/)
+
+    *   [Further SAP Add-Ons](https://mdpgroup.com/bizden-haberler/#)
+        *   [MDP Firefighter](https://mdpgroup.com/cozumler/mdp-firefighter/)
+        *   [MDP Client (Fiori)](https://mdpgroup.com/cozumler/sap-custom-fiori-client/)
+        *   [Bilgi Yönetim Sistemi](https://mdpgroup.com/cozumler/bilgi-yonetim-sistemi/)
+        *   [Mobil Tahsilat](https://mdpgroup.com/cozumler/sap-mobil-tahsilat/)
+        *   [Mobil Sipariş](https://mdpgroup.com/cozumler/sap-mobil-siparis/)
+        *   [İleti Yönetim Sistemi (İYS) Entegrasyonu](https://mdpgroup.com/cozumler/ileti-yonetim-sistemi-entegrasyonu/)
+        *   [U-ETDS Entegrasyonu](https://mdpgroup.com/cozumler/sap-u-etds-cozumu/)
+        *   [Kargo Entegrasyonu](https://mdpgroup.com/sap-kargo-entegrasyonu/)
+
+    *   [Non-SAP Çözümler](https://mdpgroup.com/bizden-haberler/#)
+        *   [MIP – Entegrasyon Yazılımı](https://mdpgroup.com/cozumler/mip-entegrasyon-yazilimi/)
+        *   [JetLM Lojistik Yönetimi](https://mdpgroup.com/cozumler/jetlm-lojistik-yonetimi/)
+        *   [Sürekli İyileştirme](https://mdpgroup.com/cozumler/surekli-iyilestirme-cozumu/)
+        *   [Öneri Sistemi](https://mdpgroup.com/cozumler/oneri-sistemi/)
+        *   [Dijital 5S](https://mdpgroup.com/cozumler/dijital-5s-cozumu/)
+        *   [Kaizen Yazılımı](https://mdpgroup.com/cozumler/kaizen-yazilimi/)
+
+*   [Danışmanlık](https://mdpgroup.com/danismanlik/)
+    
+
+    *   [SAP EWM](https://mdpgroup.com/danismanlik/sap-ewm/)
+    *   [SAP PI/PO](https://mdpgroup.com/danismanlik/sap-pi-po/)
+    *   [SAP Integration Suite](https://mdpgroup.com/danismanlik/sap-integration-suite/)
+    *   [SAP ABAP](https://mdpgroup.com/danismanlik/sap-abap/)
+    *   [SAP Fiori](https://mdpgroup.com/danismanlik/sap-fiori/)
+    *   [SAP EDI](https://mdpgroup.com/danismanlik/sap-edi/)
+    *   [SAP Signavio](https://mdpgroup.com/danismanlik/sap-signavio/)
+    *   [SAP TM](https://mdpgroup.com/danismanlik/sap-transportation-management-tm/)
+    *   [SAP GTS](https://mdpgroup.com/danismanlik/sap-gts/)
+    *   [SAP MFS](https://mdpgroup.com/danismanlik/sap-mfs/)
+    *   [Azure Entegrasyonu](https://mdpgroup.com/azure-integration-services-cozumleri/)
+
+*   [Yapay Zeka](https://mdpgroup.com/yapay-zeka/)
+*   [Blog](https://mdpgroup.com/blog/)
+*   [İçerikler](https://mdpgroup.com/bizden-haberler/#)
+    
+
+    *   [Etkinlikler](https://mdpgroup.com/etkinlikler/)
+    *   [Katalog](https://mdpgroup.com/katalog/)
+    *   [E-Kitap](https://mdpgroup.com/e-kitap/)
+    *   [Başarı Hikayeleri](https://mdpgroup.com/basari-hikayeleri/)
+    *   [Bizden Haberler](https://mdpgroup.com/bizden-haberler/)
+
+*   [Referanslar](https://mdpgroup.com/referanslar/)
+*   [İletişim](https://mdpgroup.com/iletisim/)
+
+*   [![Image 10: English](blob:http://localhost/d883beb4362fe84660fab16ca0c3a516)](https://mdpgroup.com/en/)
+*   [![Image 11: Türkçe](blob:http://localhost/7c24eb4a3e18324906b4e0adc59e084e)](https://mdpgroup.com/bizden-haberler/)
+*   [![Image 12: Deutsch](blob:http://localhost/f7175783fb143a77de78739839c9b35f)](https://mdpgroup.com/de/)
+
+*   [Kurumsal](https://mdpgroup.com/bizden-haberler/#)
+    *   [](javascript:;)
+    *   [Hakkımızda](https://mdpgroup.com/kurumsal/)
+    *   [Başarı Hikayeleri](https://mdpgroup.com/basari-hikayeleri/)
+    *   [MDP Akademi](https://mdpgroup.com/mdp-akademi/)
+    *   [Politikalarımız](https://mdpgroup.com/politikalarimiz/)
+    *   [Kariyer](https://mdpgroup.com/?page_id=9)
+    *   [Kariyer Fırsatları](https://mdpgroup.com/kariyer-firsatlari/)
+
+*   [Çözümler](https://mdpgroup.com/bizden-haberler/#)
+    *   [](javascript:;)
+    *   [Mevduat ve Döviz İşlem Portali](https://mdpgroup.com/cozumler/sap-mevduat-ve-doviz-islemleri/)
+    *   [Doğrudan Borçlandırma Sistemi](https://mdpgroup.com/cozumler/sap-dogrudan-borclandirma/)
+    *   [e-Hesap Özeti](https://mdpgroup.com/cozumler/sap-ekstre-hesap-ozeti/)
+    *   [Sanal Pos Entegrasyonu & Muhasebeleştirme](https://mdpgroup.com/cozumler/sap-sanal-pos-entegrasyonu-muhasebelestirme/)
+    *   [e-Ödeme](https://mdpgroup.com/cozumler/sap-e-odeme/)
+    *   [e-Arşiv Fatura](https://mdpgroup.com/cozumler/sap-e-arsiv-fatura/)
+    *   [e-Defter](https://mdpgroup.com/cozumler/e-defter/)
+    *   [e-Defter Saklama](https://mdpgroup.com/cozumler/e-defter-saklama/)
+    *   [e-Fatura](https://mdpgroup.com/cozumler/e-fatura/)
+    *   [e-İrsaliye](https://mdpgroup.com/cozumler/e-irsaliye/)
+    *   [Gelen e-Fatura](https://mdpgroup.com/cozumler/sap-gelen-fatura/)
+    *   [e-Mutabakat](https://mdpgroup.com/cozumler/e-mutabakat/)
+    *   [e-Beyanname](https://mdpgroup.com/cozumler/mdp-sap-e-beyanname/)
+    *   [Ekstre Karşılaştırma](https://mdpgroup.com/cozumler/ekstre-karsilastirma/)
+    *   [Gelen e-Arşiv Fatura](https://mdpgroup.com/cozumler/gelen-e-arsiv/)
+    *   [E-Arşiv Fatura Görüntüleme](https://mdpgroup.com/cozumler/e-arsiv-fatura-goruntuleme/)
+    *   [Lokal e-Belge Saklama](https://mdpgroup.com/cozumler/lokal-e-belge-saklama/)
+    *   [Gelen e-İrsaliye Çözümü](https://mdpgroup.com/cozumler/gelen-e-irsaliye/)
+    *   [e-Muhasebe Fişi](https://mdpgroup.com/cozumler/e-muhasebe-fisi/)
+    *   [e-Müstahsil](https://mdpgroup.com/cozumler/e-mustahsil-makbuzu/)
+    *   [Dijital Gider Pusulası](https://mdpgroup.com/cozumler/e-gider-pusulasi-cozumu/)
+    *   [İzin Yönetimi](https://mdpgroup.com/cozumler/sap-izin-yonetimi/)
+    *   [Seyahat Yönetimi](https://mdpgroup.com/cozumler/sap-seyahat-yonetimi/)
+    *   [Organizasyon Şeması](https://mdpgroup.com/cozumler/sap-organizasyon-semasi/)
+    *   [Ücret Yönetimi](https://mdpgroup.com/cozumler/sap-ucret-yonetimi/)
+    *   [Masraf Yönetimi](https://mdpgroup.com/cozumler/sap-masraf-yonetimi/)
+    *   [Provizyon Talep Formu](https://mdpgroup.com/cozumler/sap-provizyon-talep-formu/)
+    *   [SAP SuccessFactors Entegrasyonu](https://mdpgroup.com/cozumler/sap-successfactors-entegrasyonu/)
+    *   [Sürekli İyileştirme](https://mdpgroup.com/cozumler/surekli-iyilestirme-cozumu/)
+    *   [MIP – Entegrasyon Yazılımı](https://mdpgroup.com/cozumler/mip-entegrasyon-yazilimi/)
+    *   [Öneri Sistemi](https://mdpgroup.com/cozumler/oneri-sistemi/)
+    *   [Dijital 5S](https://mdpgroup.com/cozumler/dijital-5s-cozumu/)
+    *   [Kaizen Yazılımı](https://mdpgroup.com/cozumler/kaizen-yazilimi/)
+    *   [İSG Uygulaması](https://mdpgroup.com/cozumler/sap-isg-uygulamasi/)
+    *   [Custom MDM](https://mdpgroup.com/cozumler/sap-custom-mdm/)
+    *   [U-ETDS](https://mdpgroup.com/cozumler/sap-u-etds-cozumu/)
+    *   [Bilgi Yönetimi](https://mdpgroup.com/cozumler/bilgi-yonetim-sistemi/)
+    *   [JetSRM Tedarikçi Portali](https://mdpgroup.com/cozumler/jetsrm-tedarikci-portali/)
+    *   [MDP SAP Yapay Zeka Asistanı](https://mdpgroup.com/?page_id=18079)
+    *   [JetBAYİ Bayi Portalı](https://mdpgroup.com/cozumler/jetcrm-b2b-musteri-portali/)
+    *   [MDP Firefighter](https://mdpgroup.com/cozumler/mdp-firefighter/)
+    *   [SAP & Kargo Entegrasyonu](https://mdpgroup.com/sap-kargo-entegrasyonu/)
+    *   [Mobil Tahsilat](https://mdpgroup.com/cozumler/sap-mobil-tahsilat/)
+    *   [Pre-packaged Mappings EDIFACT](https://mdpgroup.com/cozumler/pre-packaged-mappings-edifact/)
+    *   [Pre-packaged Mappings ANSI X12](https://mdpgroup.com/cozumler/pre-packaged-mappings-ansi-x12/)
+    *   [Pre-packaged Mappings VDA](https://mdpgroup.com/cozumler/pre-packaged-mappings-vda/)
+
+*   [Danışmanlık](https://mdpgroup.com/bizden-haberler/#)
+    *   [](javascript:;)
+    *   [SAP EWM](https://mdpgroup.com/danismanlik/sap-ewm/)
+    *   [SAP PI/PO](https://mdpgroup.com/danismanlik/sap-pi-po/)
+    *   [SAP Integration Suite](https://mdpgroup.com/danismanlik/sap-integration-suite/)
+    *   [SAP ABAP](https://mdpgroup.com/danismanlik/sap-abap/)
+    *   [SAP Fiori](https://mdpgroup.com/danismanlik/sap-fiori/)
+    *   [SAP AIF](https://mdpgroup.com/danismanlik/sap-aif/)
+    *   [SAP EDI](https://mdpgroup.com/danismanlik/sap-edi/)
+    *   [SAP MII](https://mdpgroup.com/danismanlik/sap-mii/)
+    *   [Yapay Zeka](https://mdpgroup.com/yapay-zeka/)
+    *   [SAP Ariba](https://mdpgroup.com/?page_id=10701)
+    *   [SAP Signavio](https://mdpgroup.com/danismanlik/sap-signavio/)
+    *   [SAP MFS](https://mdpgroup.com/danismanlik/sap-mfs/)
+    *   [WMS](https://mdpgroup.com/danismanlik/depo-yonetim-sistemi-wms/)
+    *   [.NET Yazılım Geliştirme](https://mdpgroup.com/dotnet-yazilim-gelistirme/)
+
+*   [Kurumsal Yapay Zeka Danışmanlığı](https://mdpgroup.com/yapay-zeka/)
+*   [Blog](https://mdpgroup.com/blog/)
+*   [Etkinlikler](https://mdpgroup.com/etkinlikler/)
+*   [Bizden Haberler](https://mdpgroup.com/bizden-haberler/)
+*   [Katalog](https://mdpgroup.com/katalog/)
+*   [Referanslar](https://mdpgroup.com/referanslar/)
+*   [İletişim](https://mdpgroup.com/iletisim/)
+
+# Bizden Haberler
+
+[![Image 13: 1 2](https://mdpgroup.com/wp-content/uploads/2025/09/1-2-500x300.jpg)](https://mdpgroup.com/bizden-haberler/mdp-e-turquality-programi-katildi/ "SAP PI/PO Migration Checklist")
+
+## MDP e-Turquality Programı'na Katılımı
+
+MDP Group olarak, **E-Turquality (Bilişimin Yıldızları) Programı’na kabul edildiğimizi** duyurmaktan heyecan ve mutluluk duyuyoruz!
+
+[Devamını Görüntüle](https://mdpgroup.com/bizden-haberler/mdp-e-turquality-programi-katildi/)
+
+[![Image 14: MDP Group Peppol Access Point](https://mdpgroup.com/wp-content/uploads/2025/09/2-2-500x300.jpg)](https://mdpgroup.com/bizden-haberler/mdp-peppol-access-point-unvanini-aldi/ "SAP PI/PO Migration Checklist")
+
+## MDP, PEPPOL Access Point Unvanını Aldı!
+
+MDP Group olarak, dijital dönüşümdeki yetkinliğimizi bir adım daha ileri taşıyarak **PEPPOL Access Point** unvanını almaya hak kazandığımızı duyurmaktan büyük gurur duyuyoruz.
+
+[Devamını Görüntüle](https://mdpgroup.com/bizden-haberler/mdp-peppol-access-point-unvanini-aldi/)
+
+[![Image 15: SAP Technology Day](https://mdpgroup.com/wp-content/uploads/2025/09/2192-500x300.png)](https://mdpgroup.com/bizden-haberler/mdp-technology-day/ "SAP PI/PO Migration Checklist")
+
+## MDP Technology Day
+
+MDP Technology Day etkinliğinde iş ortaklarımızla bir araya gelerek SAP teknolojileri ve çözümlerimiz hakkında bilgiler sunduk.
+
+[Devamını Görüntüle](https://mdpgroup.com/bizden-haberler/mdp-technology-day/)
+
+[![Image 16: yarı-yıl](https://mdpgroup.com/wp-content/uploads/2025/09/yari-yil-500x300.jpeg)](https://mdpgroup.com/bizden-haberler/2024-ilk-yarisini-degerlendirdik/ "SAP PI/PO Migration Checklist")
+
+## Ekiplerimizle 2024'ün İlk Yarısını Değerlendirdik!
+
+MDP Group olarak yılın ilk yarısını değerlendirmek ve geleceğe yönelik planlarımızı paylaşmak için bir araya geldik.
+
+[Devamını Görüntüle](https://mdpgroup.com/bizden-haberler/2024-ilk-yarisini-degerlendirdik/)
+
+[![Image 17: MDP Group, Türkiye İhracatçılar Meclisi tarafından düzenlenen İnoSuit programına katıldı.](https://mdpgroup.com/wp-content/uploads/2024/04/MDP-Group-Turkiye-Ihracatcilar-Meclisi-tarafindan-duzenlenen-InoSuit-programina-katildi.png.webp)](https://mdpgroup.com/bizden-haberler/inosuit-programina-katilim/ "SAP PI/PO Migration Checklist")
+
+## MDP Group, İnoSuit programına katıldı.
+
+MDP Group, Türkiye İhracatçılar Meclisi (TİM) tarafından düzenlenen İnoSuit programına katıldı.
+
+[Devamını Görüntüle](https://mdpgroup.com/bizden-haberler/inosuit-programina-katilim/)
+
+[![Image 18: Yeniden 'Great Place To Work' seçilmiş bir şirket olmaktan dolayı mutluluk duyuyoruz!](https://mdpgroup.com/wp-content/uploads/2024/04/Yeniden-Great-Place-To-Work-secilmis-bir-sirket-olmaktan-dolayi-mutluluk-duyuyoruz.png.webp)](https://mdpgroup.com/bizden-haberler/mdp-group-great-place-to-work-sertifikasini-kazandi/ "SAP PI/PO Migration Checklist")
+
+## MDP Group, Yeniden Great Place to Work Sertifikası’nı Kazandı!
+
+Yeniden 'Great Place To Work' seçilmiş bir şirket olmaktan dolayı mutluluk duyuyoruz!
+
+[Devamını Görüntüle](https://mdpgroup.com/bizden-haberler/mdp-group-great-place-to-work-sertifikasini-kazandi/)
+
+[![Image 19: MDP Group 10. Yılını Kutladı!](https://mdpgroup.com/wp-content/uploads/2024/04/MDP-Group-10.-Yilini-Kutladi.png.webp)](https://mdpgroup.com/bizden-haberler/mdp-group-10-yilini-kutladi/ "SAP PI/PO Migration Checklist")
+
+## MDP Group, 10. Yılını Kutladı!
+
+MDP Group, kuruluşunun 10. yıl dönümünü büyük bir coşkuyla kutladı.
+
+[Devamını Görüntüle](https://mdpgroup.com/bizden-haberler/mdp-group-10-yilini-kutladi/)
+
+[![Image 20: MIP Lansman Etkinliği](https://mdpgroup.com/wp-content/uploads/2024/04/MIP-lansman-final.png.webp)](https://mdpgroup.com/bizden-haberler/mdp-group-great-place-to-work-sertifikasini-kazandi/ "SAP PI/PO Migration Checklist")
+
+## MIP Lansman Etkinliği Gerçekleştirildi
+
+MDP Group, yeni entegrasyon çözümü MIP'nin lansman etkinliğini online olarak gerçekleştirdi.
+
+[Devamını Görüntüle](https://mdpgroup.com/bizden-haberler/mip-lansman-etkinligi-gerceklestirildi/)
+
+## Bizden Haberler
+
+**Bizimle İletişime Geçebilirsiniz!**
+
+2013'den bu yana 5 kıtada 450’den fazla iş ortağımız ile birlikte 1100’den fazla projeyi başarıyla hayata geçirdik. Çözüm ve danışmanlık hizmetlerimiz hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+*   [](https://www.facebook.com/digitalmdp/)
+*   [](http://www.instagram.com/digitalmdp)
+*   [](https://twitter.com/digitalmdp)
+*   [](https://www.linkedin.com/company/digitalmdp)
+*   [](https://open.spotify.com/show/3rgNqEflTRpStgCqZINSgY?si=92f04e141c264816)
+
+![Image 21: MDP Group](https://mdpgroup.com/wp-content/themes/mdpgroup/assets/img/logo.svg)
+
+*   [Referanslar](https://mdpgroup.com/referanslar/)
+*   [Hakkımızda](https://mdpgroup.com/kurumsal/)
+*   [Geri Bildirim](https://mdpgroup.com/sikayet-geri-bildirim-ve-tesekkur/)
+*   [SAP Destek](https://mdpgroup.com/sap-destek-hizmetleri/)
+*   [Yazılım Geliştirme](https://mdpgroup.com/yazilim-gelistirme-hizmetleri/)
+*   [Blog](https://mdpgroup.com/blog/)
+*   [KVKK](https://mdpgroup.com/kvkk/)
+*   [İletişim](https://mdpgroup.com/iletisim/)
+*   [Kariyer](https://mdpgroup.com/?page_id=9)
+
+**E-Posta:**[info@mdpgroup.com](mailto:info@mdpgrup.com)
+
+**İstanbul Ofis**
+
+ Bayar Cd. Ş.M.F.Öngül Sk. No:3 Kadıköy
+
+ Türkiye
+
+**Zürih Ofis**
+
+ MDP Group AG Rosstrasse 53 8832 Wollerau
+
+ İsviçre
+
+ © 2026 MDP GROUP
+
+![Image 22: Peppol](https://mdpgroup.com/wp-content/uploads/2025/04/PEPPOL_WHITE.png.webp)![Image 23: SAP](https://mdpgroup.com/wp-content/uploads/2025/04/SAP_white.png.webp)![Image 24: Great Place to Work](https://mdpgroup.com/wp-content/uploads/2025/04/Great_to_place_work_white-1-1.png.webp)![Image 25: ISO](https://mdpgroup.com/wp-content/uploads/2025/04/ISO_WHITE.png.webp)![Image 26: ISO 9001](https://mdpgroup.com/wp-content/uploads/2025/04/ISO_9001_WHITE.png.webp)![Image 27: EcoVadis](https://mdpgroup.com/wp-content/uploads/2025/04/ECOVADIS_WHITE.png.webp)
+
+Mailiniz başarıyla gönderilmiştir en kısa sürede sizinle iletişime geçilecektir.
+
+Mesajınız ulaştırılamadı! Lütfen daha sonra tekrar deneyin.
+

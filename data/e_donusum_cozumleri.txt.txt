@@ -1,0 +1,2190 @@
+Title: e-Fatura Çözümü | SAP ile Uyumlu | MDP Group
+
+URL Source: https://mdpgroup.com/cozumler/e-fatura/
+
+Markdown Content:
+[![Image 1: MDP Group](https://mdpgroup.com/wp-content/uploads/2020/03/l.png.webp)](https://mdpgroup.com/ "MDP Group")
+
+## SAP e-Fatura Çözümü ile Süreçlerinizi Otomatikleştirin ve Verimliliğinizi Artırın.
+
+MDP Group olarak **SAP kullanıcılarına özel** geliştirdiğimiz **e-Fatura çözümümüz** ile tüm fatura süreçlerinizi **tek platform** üzerinden, **GİB mevzuatına tam uyumlu** şekilde yönetmenizi sağlıyoruz. Operasyonel iş yükünüzü azaltırken süreçlerinizi **daha verimli, daha güvenli** ve**daha hızlı** hale getiriyoruz.
+
+![Image 2: MDP_SAP_eFatura_Çözümü](https://mdpgroup.com/wp-content/uploads/2025/05/SAP_GIB_E_Fatura-1.png.webp)
+
+## Neden MDP SAP e-Fatura Çözümü
+
+## SAP ile Tam Entegre 
+
+e-Fatura
+
+SAP e-Fatura Çözümümüz, fatura süreçlerinizi tamamen SAP sisteminiz üzerinden yönetmenize imkan tanır. SAP ERP dışına çıkmadan fatura oluşturma, gönderme, saklama ve yanıt verme gibi tüm süreçlerinizi verimli bir şekilde yönetebilirsiniz.
+
+## GİB Formatına Uyumlu
+
+e-Fatura
+
+SAP içinde oluşturduğunuz e-faturalarınızı, GİB formatına uygun XML yapısında otomatik olarak hazırlayıp gönderebilirsiniz. Ayrıca, GİB veya özel entegratör aracılığıyla tarafınıza gönderilen faturalar SAP sisteminize otomatik olarak aktarılır.
+
+## Sistem Bağımsız
+
+(Esnek Çözüm)
+
+Çözümümüz, SAP kullanıcılarına sistem bağımsız ve esnek bir yapı sunar. SAP’nin farklı modülleri (SAP FI, MM, SD) ve farklı versiyonlarıyla (SAP S/4HANA, ECC) entegre çalışır. Hangi SAP sistemini kullanırsanız kullanın, MDP e-fatura çözümü sisteminize uyum sağlar.
+
+## İş Süreçlerine Özgü Geliştirme
+
+İşletmenizin süreç ve sistemlerine uyum sağlamak amacıyla, özel müşteri senaryolarına uygun geliştirmeler yapıyoruz. SAP dışı sistemlerden veri okuma, özel tablolar üzerinde işlem yapma veya mevcut altyapınıza entegre çözümlerle, tüm ihtiyaçlarınıza yanıt veriyoruz.
+
+## Entegratör Bağımsız
+
+MDP SAP e-Fatura Çözümü, entegratör bağımsız yapısıyla işletmelere esnek bir kullanım imkânı sunar. e-Fatura süreçlerinizi, ister anlaşmalı olduğumuz özel entegratörler aracılığıyla, ister kendi tercih ettiğiniz entegratörle yönetebilirsiniz. Ayrıca, doğrudan entegrasyon seçeneğiyle e-Fatura altyapısını sisteminize entegre etme imkânı da sağlıyoruz.
+
+## Mevzuata Uyumlu
+
+Mevzuat değişikliklerini yakından takip ediyor, sistemlerinize hızla entegre ediyoruz. GİB regülasyonlarına tam uyumlu e-Fatura çözümümüzle yasal gereklilikleri zahmetsizce karşılamanızı sağlıyoruz.
+
+### Şimdi iletişime geçin, yeni e-fatura çözümüne geçiş sürecinizi planlayalım.
+
+## Referanslarımız
+
+## e-Fatura Süreçlerinizde Güvenilir İş Ortağınız: MDP Group
+
+## Hızlı Destek
+
+e-Fatura çözümlerimizde yalnızca proje teslimine odaklanmıyoruz. İşletmenizin değişen ihtiyaçlarını karşılamak için sürekli destek hizmetleri sunuyoruz. Karşılaştığınız sorunlara veya yeni ihtiyaçlarınıza hızlı çözümler üreten ekibimizle doğrudan iletişime geçerek profesyonel destek alabilirsiniz.
+
+## Kolay e-Fatura Geçiş Süreci
+
+Mevcut e-Fatura çözümünüzde tanımlı kuralları ve süreç düzeninizi analiz ederek kapsamlı bir rapor hazırlıyoruz. Bu analiz doğrultusunda mevcut iş kurallarınızı ve eklemek istediğiniz yeni kuralları birlikte belirleyip onayınıza sunuyoruz. Onaylanan kuralları, aynı yapıda ve işleyişte MDP e-Fatura çözümüne aktarıyoruz.
+
+## Kanıtlanmış Tecrübe
+
+Perakende, üretim, sanayi ve enerji gibi farklı sektörlerde edindiğimiz deneyimle, ihtiyaçlarınızı daha iyi anlayarak sektörel farklara uygun özelleştirilmiş çözümler sunuyoruz. Türkiye’de faaliyet gösteren global şirketlerle uzun yıllara dayanan iş birliği tecrübemizle, en karmaşık e-fatura süreçlerini başarıyla yönetiyoruz.
+
+### SAP e-Fatura Çözümü Size Ne Sağlar?
+
+*   SAP sisteminde oluşturduğunuz e-faturaları GİB regülasyonuna uygun formatta otomatik olarak düzenleyebilirsiniz.
+*   Gönderilen ve alınan faturaları SAP üzerinden anlık takip edebilirsiniz.
+*   Hatırlatma mailleri gönderebilir, tahsilat süreçlerinizi hızlandırabilirsiniz.
+*   SAP e-fatura otomasyonu ile faturalama süreçlerinizin verimliliğini artırır.
+*   Hızlı fatura gönderimi ve dönem kapanışı sağlar.
+*   SAP sisteminden e-Faturalarınızı XML veya PDF olarak indirebilirsiniz.
+*   Arşivinizdeki e-Faturaları gün, hafta ve aya göre filtreleme imkanı sunar.
+*   Fatura kaybı ihtimalini ortadan kaldırabilirsiniz.
+*   E-faturalara kolay ve hızlı erişim sağlar.
+
+### SAP e-Fatura Geçişiniz için İhtiyaç Duyduğunuz Tüm Desteği Sunuyoruz. 
+
+Uzman SAP Danışmanlarımız Sizin İçin Hazır.
+
+### e-Fatura Nedir?
+
+eFatura,elektronik ortamda hazırlanan fatura türüdür.eFaturalar, e-İmza veya mali mühür ile imzalanır, zaman damgası taşır ve yasal olarak kağıt faturadan farksızdır. e-Fatura uygulamasına geçildikten sonra kağıt fatura düzenlenemez. e-Fatura sistemine kayıtlı olan mükelleflere elektronik fatura, sisteme kayıtlı olmayan mükelleflere e-Arşiv Fatura düzenlenmesi gerekmektedir.
+
+### e-Faturanın Avantajları Nelerdir?
+
+e-Fatura, Türkiye'de belirli kriterleri sağlayan firmalar için bir zorunluluktur. Türkiye'nin dijital dönüşüm sürecinde uygulamaya aldığı en önemli regülasyonlardan biridir.
+
+e-Faturanın sağladığı temel faydalar şunlardır:
+
+*   Kağıt, kartuş, arşivleme, kargo, noter gibi maliyetleri ortadan kaldırarak tasarruf sağlar.
+*   Operasyonel iş yükünü azaltır, çalışanlara zaman kazandırır ve verimliliğini artırır.
+*   Arşivleme maliyetlerini ortadan kaldırır.
+*   Fatura süreçlerindeki iş süreçleri kolaylaştırır ve iş gücü tasarrufu sağlar.
+*   Gelir İdaresi Başkanlığı'nın regülasyonlarına uyumlu olunmasını sağlar ve ceza risklerini ortadan kaldırır.
+*   ERP sistemleriyle entegrasyon sağladığı için iş süreçlerindeki hata riskini minimize eder.
+*   Faturanın kaybolması, geç gitmesi, yanlış tutar gibi nedenlerden dolayı oluşabilecek finansal kayıpların önüne geçer.
+
+### e-Fatura Kimler İçin Zorunlu? Kimler e-Fatura'ya Geçebilir?
+
+GİB’in yayınladığı tebliğe göre e-faturaya geçiş zorunluluğu olanlar aşağıdaki gibidir:
+
+*   Yıllık brüt cirosu 5 milyon TL ve üzerinde olan işletmeler
+*   EPDK (Enerji Piyasası Düzenleme Kurumu) lisanslı işletmeler ve bayiler
+*   Sebze ve meyve t
+*   Tütün, alkollü içecek ve meşrubat üreten ve ithal edenler
+*   Sebze ve meyve ticareti yapan toptancılar, komisyoncular ve tüccarlar
+*   E-ticaret platformları, gayrimenkul ve motorlu araç satış ya da kiralama ilanları sunan web siteleri ile dijital reklam hizmeti sağlayan aracı kuruluşlar.
+
+e-Fatura sistemine kayıtlı olan mükelleflere e-fatura, E-fatura sistemine kayıtlı olmayan mükelleflere e-Arşiv Fatura düzenlenmesi gerekmektedir. Cirosu e Faturaya zorunlu geçiş limitine ulaşmayan işletmeler de gönüllü olarak e Fatura kullanıcısı olabilmektedir.
+
+### e-Fatura Başvurusu Nasıl Yapılır?
+
+E-fatura mükellefi olmak için yapmanız gereken ilk şey Kamu Sertifikasyon Merkezi’nden mali mühür başvurusu yapmanız gerekir.
+
+Mali mührünüzü temin ettikten sonra Gelir İdaresi Başkanlığı (GİB) web sitesinden elektronik fatura başvurusu yapmanız gerekir.
+
+### e-Fatura için Özel Entegratör Şart mı?
+
+Hayır, e-fatura uygulamasını kullanmak için özel entegratör kullanmak zorunda değilsiniz. Gelir İdaresi Başkanlığı(GİB), üç farklı e-fatura entegrasyon yöntemi sunar.
+
+**1. GİB Portal**
+
+GİB'in sunduğu ücretsiz e-fatura portalı üzerinden süreçlerinizi yönetebilirsiniz.
+
+**2. Doğrudan Entegrasyon**
+
+Kendi bilgi işlem sistemlerinizi, GİB sistemine doğrudan entegre ederek e-fatura süreçlerinizi yönetebilirsiniz.
+
+**3. Özel Entegratör**
+
+GİB'in yetki verdiği özel entegratör firmalarıyla elektronik fatura göndermeye ve almaya başlayabilirsiniz.
+
+**MDP Group'ta özel entegratör veya doğrudan entegrasyon yöntemlerinden birini tercih ederek elektronik fatura sistemine geçiş yapabilirsiniz.**
+
+### e-Fatura Entegratör Değişikliği Nasıl Yapılır?
+
+MDP Group olarak entegratör bağımsız e-Fatura çözümü sunuyoruz. İsterseniz anlaşmalı olduğumuz özel entegratörler arasından firmanıza en uygun olanı seçebilir, isterseniz de belirlediğiniz özel entegratör ile sürecinize sorunsuz şekilde devam edebilirsiniz
+
+### e-Faturaların Arşiv Süresi Ne Kadardır?
+
+e-Faturaların vergi kanunlarına göre 5 yıl, Ticaret Kanununa göre 10 yıl muhafaza edilmeleri zorunludur. e-Fatura mükellefi firmaların e-Faturalarını arşivleme ve ibraz yükümlülükleri kendilerine aittir.
+
+Elektronik imzanın ve Mali Mührün doğruluk ve geçerlilik kontrolünün yapılabilmesi için faturalar elektronik ortamda arşivlenmelidir.
+
+### e-Fatura Saklama Zorunluluğu Kaç Yıldır?
+
+e-Faturaların vergi kanunlarına göre 5 yıl, Ticaret Kanununa göre 10 yıl muhafaza edilmeleri zorunludur. Bu yükümlülük mükelleflere aittir. Elektronik imzanın ve Mali Mührün doğruluk ve geçerlilik kontrolünün yapılabilmesi nedeniyle e-Faturaların çıktı halinde muhafaza edilmesi geçerli sayılmamaktadır.
+
+Doğrudan entegrasyon tercih eden mükelleflerin, e-Faturalarını kendi bilgi işlem altyapıları dahilinde arşivlemeleri gerekir. Özel entegratör ile çalışan mükellefler, elektronik kayıt saklama hizmetlerinden faydalanabilirler.
+
+Her iki durumda,**e-Fatura çözümü sayesinde arşivlenen e-Faturaları SAP sistemi üzerinden görüntülemek ve istenen kriterlere göre filtrelemek mümkündür**. Böylece gönderilen e-Faturaların takibini sağlamak ve çıktılarına erişmek çok kolaydır.
+
+### e-Fatura'ya Geçtikten Sonra Kağıt Fatura Kesebilir miyim?
+
+e-Fatura uygulamasına geçtikten sonra e-Fatura mükelleflerine kesilen kağıt faturalar yok hükmündedir. Yalnızca e-Fatura uygulamasına geçmemiş mükelleflere kağıt fatura düzenlemeye devam edilebilmektedir.
+
+### Gönderdiğim e-Faturayı İptal Edebilir miyim?
+
+Gönderdiğiniz ve işlemin başarıyla tamamlandığı e-Faturanın iptali ancak alıcı tarafın faturayı reddetmesi durumunda gerçekleşir. Alıcı taraf e-Faturaya kabul cevabı vermişse veya e-faturanın gönderiminden azami 7 gün geçmişse alıcı tarafından iade e-Fatura gönderilmesi gerekmektedir.
+
+### Geriye Dönük e-Fatura Gönderebilir miyim?
+
+Vergi Usul Kanunu’na göre malın teslimi ya da hizmetin yapıldığı tarihten itibaren 7 gün kadar geriye dönük e-Fatura gönderilebilmektedir. Düzenlenme tarihi 7 günden eski olan e-Faturaların gönderilmesi mümkün olmakla birlikte özel usul cezası uygulanır.
+
+### İhracat İşlemleri için e-Fatura Kesmek Zorunda mıyım?
+
+Katma Değer Vergisi Kanunu’nda “Mal ihracı ve Yolcu beraberi eşya ihracı (Türkiye’de ikamet etmeyenlere KDV hesaplanarak yapılan satışlar) kapsamında fatura düzenleyecek olanlar, e-Fatura olarak düzenleyeceklerdir.” maddesi bulunmaktadır. İhracat işlemlerinde e-Fatura kullanım zorunluluğu yalnızca hali hazırda e-Fatura uygulamasına dahil olan mükellefleri kapsamaktadır. e-Fatura uygulamasına geçmemiş ihracatçı mükellefler matbu fatura kullanmaya devam edebilirler.
+
+## e-Fatura Çözümü
+
+**Bizimle İletişime Geçebilirsiniz!**
+
+2013'den bu yana 5 kıtada 450’den fazla iş ortağımız ile birlikte 1100’den fazla projeyi başarıyla hayata geçirdik. Çözüm ve danışmanlık hizmetlerimiz hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+Mailiniz başarıyla gönderilmiştir en kısa sürede sizinle iletişime geçilecektir.
+
+Mesajınız ulaştırılamadı! Lütfen daha sonra tekrar deneyin.
+
+
+
+
+
+
+Title: e-Arşiv Fatura | SAP ile Tam Entegre | MDP Group
+
+URL Source: https://mdpgroup.com/cozumler/sap-e-arsiv-fatura/
+
+Markdown Content:
+[![Image 1: MDP Group](https://mdpgroup.com/wp-content/uploads/2020/03/l.png.webp)](https://mdpgroup.com/ "MDP Group")
+
+## e-Arşiv Çözümü ile işletmenizin fatura süreçlerini uçtan uca dijitalleştirin,
+
+zaman ve iş gücünden tasarruf edin.
+
+MDP Group olarak, 10 yılı aşkın sektörel deneyimimizle SAP kullanıcılarına e-Arşiv Fatura çözümleri sunuyoruz. Süreçlerinizi daha verimli, hızlı ve sorunsuz bir şekilde yönetmenize destek oluyoruz.
+
+## Referanslarımız
+
+## MDP e-Arşiv Fatura Çözümü Avantajları
+
+### SAP ile %100 Uyumlu e-Arşiv Fatura
+
+SAP e-Arşiv fatura çözümü, e-arşiv fatura düzenleme, gönderme ve saklama işlemlerinizin tamamını SAP üzerinden yönetmenizi sağlar. SAP'de oluşturduğunuz faturaları e-arşiv formatına çevirip mali mühürlü şekilde GİB'e otomatik olarak gönderebilirsiniz. e-Fatura mükellefi olmayan alıcılara PDF olarak fatura gönderebilirsiniz. e-Arşiv faturalarınızı SAP'de saklayabilirsiniz.
+
+### Entegratör Bağımsız
+
+İş ihtiyaçlarının zamanla değiştiğinin farkındayız, bu nedenle çözümlerimizi esnek bir yapıda, entegratör bağımsız bir şekilde sunuyoruz. İş ortaklığı yaptığımız özel entegratörler arasından, ihtiyaçlarınıza en uygun entegratörü seçebilir, SAP e-arşiv fatura çözümünü sorunsuz bir şekilde kullanabilirsiniz.
+
+### Sistem Bağımsız
+
+e-Arşiv fatura çözümümüz, SAP’nin farklı versiyonlarında çalışabilen sistem bağımsız ve esnek bir yapıya sahiptir. İster Rise, İster HANA ister farklı bir SAP altyapısı kullanıyor olun, e-arşiv paketimiz her versiyonda uyumlu bir şekilde çalışır.
+
+### Hızlı Regülasyon Güncellemeleri
+
+Regülasyonları, vergi düzenlemelerini ve duyuruları sürekli takip ediyor ve gerekli değişiklikleri gerçek zamanlı olarak güncelliyoruz. Mevzuata tam uyumlu e-arşiv fatura çözümü sunarak vergisel riskleri en aza indirmenizi sağlıyoruz.
+
+## SAP e-Arşiv Fatura Çözümü ile Neler Yapabilirsiniz?
+
+*   Ek bir yazılım veya donanıma ihtiyaç duymadan tüm e-arşiv fatura süreçlerinizi SAP üzerinden yönetebilirsiniz.
+*   Özel entegratör ile bağımsız kullanabilirsiniz.
+*   E-Arşiv düzenleyip gönderebilir, gönderdiğiniz e-arşiv faturaların takibini yapabilirsiniz.
+*   Gönderilen e-arşiv faturayı iptal edebilirsiniz.
+*   E-arşiv faturalar gönderildiğinde mail ile bildirim sağlayabilirsiniz.
+*   SAP tabanlı e-arşiv çözümümüzle raporlama süreçlerinizi hızlandırabilirsiniz.
+*   e-Arşiv faturaları 10 yıl boyunca elektronik ortamda saklayabilirsiniz.
+*   Dijital ortamda arşivlenen e-belgelerinizin kaybolma riskini ortadan kaldırabilirsiniz.
+*   Filtreleme özellikleri sayesinde ihtiyacınız olan bir faturaya, saniyeler içinde erişebilirsiniz.
+*   E-arşiv fatura işlemlerinizi her zaman kanunlar çerçevesinde yürütebilirsiniz.
+*   Denetim süreçlerinizi daha kolay ve verimli şekilde yürütebilirsiniz.
+*   Kağıt tüketimini azaltarak sürdürülebilirliğe katkı sağlayabilirsiniz.
+
+## e-Arşiv Fatura Uygulaması için Neden MDP Group’u Tercih Etmelisiniz?
+
+### Süreçlerinize Özel e-Arşiv Fatura Geliştirme İmkanı
+
+Her sektörün, her işletmenin kendine özgü süreçleri vardır. Bu nedenle iş ihtiyaçlarınıza göre uyarlanabilen e-arşiv fatura çözümleri geliştiriyoruz. Sistemlerinizi ihtiyaçlarınıza uygun hale getirerek verimli ve kolaylaştırılmış süreçlere sahip olmanızı sağlıyoruz.
+
+### Satış Sonrası Sürekli Destek İmkanı
+
+Sadece proje teslimine odaklanmıyoruz, satış sonrasında da size destek olmaya devam ediyoruz. İster teknik bir çözüme, ister yeni iş ihtiyaçlarınıza yönelik değişikliklere ihtiyacınız olsun, ekibimiz her zaman yanınızda oluyor.
+
+### Kanıtlanmış Tecrübe ve Uzmanlık
+
+Perakende, üretim, sanayi gibi pek çok farklı sektörde kazandığımız deneyim, iş süreçlerinizi daha iyi anlamamızı ve benzersiz ihtiyaçlarınıza özel çözümler geliştirmemizi sağlıyor. Hangi sektörde olursanız olun, MDP'nin uzmanlığı sayesinde dijital dönüşüm hedeflerinize ulaşabilirsiniz.
+
+### SAP ile tam entegre e-arşiv fatura çözümlerimizle iş süreçlerinizi daha verimli yönetin.
+
+## Sıkça Sorulan Sorular
+
+### e-Arşiv Fatura Nedir?
+
+e-Arşiv Fatura, e-Fatura kapsamında olmayan vergi mükellefi tüzel kişilere ve vergi mükellefi olmayan şahıslara gönderilen, kâğıt faturadaki tüm bilgileri içeren ve yasal olarak kâğıt faturadan hiçbir farkı olmayan elektronik evraklara verilen isimdir.
+
+e-Arşiv fatura uygulaması ile faturalarınızı dijital ortamda kolayca oluşturabilir, e-Faturaya kayıtlı olmayan mükelleflere hızlı bir şekilde iletebilir ve gönderilen faturaları saklayabilirsiniz. İstenildiği takdirde, e-Arşiv Fatura A4 kağıdına çıktı alınarak da iletilebilir.
+
+### e-Arşiv Fatura Kimler İçin Zorunlu?
+
+01/01/2020 itibariyle tüm e-fatura mükelleflerinin e-arşiv fatura uygulamasına geçme zorunluluğu getirilmiştir. Bunun dışında vergi mükellefi olmayanlara aynı gün içinde 6.900 TL'nin üzerinde fatura kesen işletmeler ile vergi mükelleflerine vergiler dahil 6.900 TL'nin üzerinde fatura kesen işletmelerin bu faturaları e-arşiv faturası olarak düzenlemeleri gerekmektedir.
+
+### e-Arşiv Uygulamasına Geçmek İçin e-Fatura Uygulamasına Kayıtlı Olmak Gerekli Midir?
+
+Gelir İdaresi Başkanlığı tarafından belirlenen kurallara göre e-Arşiv fatura uygulamasına geçmek isteyen kullanıcılar önce e-Fatura kullanıcısı olmalıdır.
+
+### e-Arşiv İle e-Fatura Uygulaması Arasındaki Farklar Nelerdir?
+
+*   e-Arşiv fatura e-fatura kapsamı dışındaki firmalara ve son kullanıcılara kesilirken e-Fatura yalnızca e-Fatura uygulaması kapsamında olan kullanıcılara kesilir.
+*   e-Arşiv fatura hem e-posta üzerinden hem de kağıt olarak alıcıya gönderilebilir ancak e-Fatura GİB sistemi üzerinden alıcıya iletilir.
+*   e-Arşiv fatura GİB’e iletilmediğinden belirli bir format zorunluluğu yoktur. e-Fatura ise UBL-TR formatında olmak zorundadır.
+*   e-Arşiv faturada GİB’e sadece ay sonlarında rapor verilirken e-Fatura, GİB üzerinden iletildiği için ayrıca bir raporlama yapılmaz.
+*   e-Arşiv faturada belgeler zaman damgası ve mali mühür ile onaylanır ve saklanır. e-Faturada ise belgelerde zaman damgası kullanımı yoktur yalnızca mali mühür ile imzalanır.
+
+### Hangi Faturalar e-Arşiv Kapsamında Kesilmelidir?
+
+e-Fatura dışındaki tüm satışlar için e-Arşiv faturası kesilmelidir. Konsinye satış, perakende satış, toptan satış, bayi satış, masraf alış i adesi ve e-ticaret faturaları e-Arşiv kapsamında kesilmelidir.
+
+### e-Fatura Kullanıcısına e-Arşiv Faturası Kesilebilir Mi?
+
+e-Fatura kullanıcısına e-Fatura kesilmesi zorunludur. e-Arşiv fatura e-Fatura mükellefi olmayan kişilere kesilir.
+
+### e-Arşiv Fatura Geriye Dönük Düzenlenebilir Mi?
+
+Vergi Usul Kanunu’na göre malın teslimi ya da hizmetin yapıldığı tarihten itibaren 7 gün kadar geriye dönük e-Fatura ve e-Arşiv fatura gönderilebilmektedir. Düzenlenme tarihi 7 günden eski olan e-Arşiv faturaların gönderilmesi mümkün olmakla birlikte özel usul cezası uygulanır. Özel usul cezasının oranı %10'dur.
+
+### e-Arşiv Faturalarımı Nasıl Görebilirim?
+
+e-Arşiv fatura mükellefleri, e-Arşiv faturalarını Gelir İdaresi Başkanlığı e-Belge düzenleme portalından görüntüleyebilmektedir. SAP e-Arşiv çözümünü kullanan mükellefler ise e-Arşiv faturalarını GİB sistemine girmeden SAP sisteminden e-Arşiv fatura düzenleyebilir, gönderebilir ve göndermiş oldukları faturaların takibini gerçekleştirebilirler.
+
+### e-Arşiv Faturalarının Arşivlenmesi Nasıl Olmalıdır?
+
+e-Arşiv uygulaması kapsamında düzenlenen faturalar; e-Fatura uygulamasına kayıtlı olmayan mükelleflere e-Arşiv uygulaması kapsamında düzenlenen faturanın kağıt fatura olarak teslim edilmesi esastır.Vergi mükellefi olmayan kişilere düzenlenen fatura, alıcının rızasına bağlı olarak kağıt veya elektronik ortamda teslim edilir. Her iki durumda da e-Arşiv uygulaması kapsamında kesilen faturaların 2. nüshaları elektronik ortamda saklanmalı ve Gelir İdaresi Başkanlığı’nın belirlediği standart formatta aylık olarak raporlanmalıdır.
+
+### e-Arşiv Fatura Nasıl İptal Edilir?
+
+e-Arşiv Fatura GİB sistemi üzerinden iletilmemektedir. Alıcı e-Arşiv faturaya red işlemi yapamadığından dolayı iptali mümkün değildir. e-Arşiv faturayı iptal etmek için; i ptal edilecek fatura üzerinden iptal faturası oluşturulur. İptal faturası yeni bir belge olarak kayıtlara alınır. Faturanın iptal edildiği bilgisinin alıcıya bildirilmesi ve bilgisi dahilinde olduğunun doğrulanması göndericinin sorumluluğundadır.
+
+### e-Arşiv Faturalarımı Nasıl Görebilirim?
+
+MDP Group ile e-Arşiv fatura sistemine geçiş sağlayabilirsiniz. ERP sistemi olarak SAP kullanan firmalar, çözümümüz ile e-Arşiv faturalarını SAP sistemleri içerisinde kolayca oluşturarak yasal gereksinimlerini karşılayabilirler. Ürünümüz hakkında detaylı bilgi almak için aşağıdaki formu doldurarak bizimle iletişime geçebilirsiniz.
+
+### Yurtdışına Satışta e-Arşiv Faturası Nasıl Kullanılır?
+
+Yurtdışına satış mal ve hizmet ihracı olarak iki ayrı kategoride değerlendirilir. Mal ihracında e-Fatura düzenlenmesi zorunludur ancak hizmet ihracı bu kapsamda değerlendirilmez. Hizmet ihracında gönderici e-Arşiv kullanıcısı ise e-Arşiv fatura düzenlenmelidir.
+
+Yurtdışına e-Arşiv fatura keserken herhangi bir tutar limiti olmaksızın alıcı vergi kimlik numarasına 10 adet 2 (2222222222) yazılarak işlem gerçekleştirilir.
+
+## e-Arşiv Fatura Çözümü
+
+**Bizimle İletişime Geçebilirsiniz!**
+
+2013'den bu yana 5 kıtada 450’den fazla iş ortağımız ile birlikte 1100’den fazla projeyi başarıyla hayata geçirdik. Çözüm ve danışmanlık hizmetlerimiz hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+Mailiniz başarıyla gönderilmiştir en kısa sürede sizinle iletişime geçilecektir.
+
+Mesajınız ulaştırılamadı! Lütfen daha sonra tekrar deneyin.
+
+
+
+
+Title: e-Defter | SAP ile Tam Entegre | MDP Group
+
+URL Source: https://mdpgroup.com/cozumler/e-defter/
+
+Markdown Content:
+[![Image 1: MDP Group](https://mdpgroup.com/wp-content/uploads/2020/03/l.png.webp)](https://mdpgroup.com/ "MDP Group")
+
+## e-Defter Çözümü
+
+## SAP e-Defter Çözümü ile Süreçlerinizi Uçtan Uca, Hızlı ve Kolayca Yönetin.
+
+MDP Group olarak, 10 yılı aşkın deneyimimizle SAP kullanıcılarına özel e-Defter çözümleri sunuyoruz. Türkiye e-Defter mevzuatına tam uyumlu çözümlerimizle, muhasebe kayıtlarınızı şeffaf ve güvenilir bir şekilde yönetmenizi sağlıyoruz. Mevzuat gerekliliklerine uyum sağlamanın ötesinde, iş ihtiyaçlarınıza özel geliştirmelerle uçtan uca e-Defter sürecinizi optimize ediyoruz.
+
+## Neden MDP SAP e-Defter Çözümü
+
+Muhasebe ve e-defter yükümlülüklerinizi doğrudan SAP sistemi üzerinden yönetmenize olanak tanır. Bu sayede sistemden çıkış yapmadan yevmiye defteri, defter-i kebir ve berat dosyalarınızı kolayca hazırlayabilir, raporlayabilir ve doğrulayabilirsiniz.
+
+## Doğrudan Entegrasyon
+
+e-Defter çözümümüz, doğrudan entegrasyon yöntemi ile çalışmaktadır. İşletmenizin ihtiyaçlarına en uygun şekilde SAP sisteminizle entegre olarak, mevzuata tam uyumlu bir e-Defter süreci sunar.
+
+## Sistem Bağımsız
+
+SAP e-Defter yazılımımız, SAP’nin tüm versiyonlarıyla (Rise, HANA vb.) uyumlu bir şekilde çalışır. İster SAP Rise, ister SAP HANA kullanın, çözümümüz SAP altyapınıza kolayca entegre olur ve e-defter süreçlerinizi kesintisiz bir şekilde yönetmenizi sağlar.
+
+## Güncel e-Defter Mevzuatına Uyumlu
+
+Gelir İdaresi Başkanlığı (GİB) tarafından yapılan tüm düzenlemeleri yakından takip ediyor ve sistemlerimize anında entegre ediyoruz. Böylece, e-Defter süreçlerinizin her zaman güncel mevzuata uyumlu olmasını sağlıyoruz.
+
+### e-Defter geçiş sürecinizde size destek oluyor, iş süreçlerinizdeki yoğunluğu azaltıyor ve verimliliğinizi artırıyoruz.
+
+## Referanslarımız
+
+## e-Defter Süreçlerinizde Güvenilir İş Ortağınız: MDP Group
+
+## İş Süreçlerinize Özgü Geliştirme
+
+İşletmenizin süreçlerini kolaylaştıracak şekilde özelleştirilmiş e-defter çözümleri geliştiriyoruz. Bu sayede, e-defter ile ilgili iş yükünü azaltıyor, işlerinizi daha verimli ve kolay bir şekilde yönetmenize yardımcı oluyoruz.
+
+## Hızlı Kurulum
+
+Hızlı kurulum ve implementasyonla, e-Defter çözümümüzü kısa sürede SAP sisteminize entegre ediyor ve hızla kullanıma sunuyoruz.
+
+## Sürekli Destek ve Bakım
+
+MDP Group olarak, elektronik defter süreçlerinizde değişen iş ihtiyaçlarınızı karşılamak veya karşılaştığınız sorunları hızla çözmek için sürekli destek & bakım hizmetleri sunuyoruz. İhtiyaç duyduğunuz her konuda ekibimizle doğrudan iletişime geçebilir, hızlı bir şekilde destek alabilirsiniz.
+
+## Kanıtlanmış Uzmanlık
+
+Perakende, üretim, sanayi ve enerji gibi farklı sektörlerdeki deneyimimizle geliştirdiğimiz e-Defter çözümümüzü, kullanıcı geri bildirimleriyle sürekli güncelledik ve iyileştirdik. Böylece bugün en güvenilir ve tecrübeli çözümlerden biri haline geldi.
+
+## SAP e-Fatura Defter Size Ne Sağlar?
+
+*   GİB standartlarına uygun yevmiye defteri, defter-i kebir ve berat dosyalarını hazırlarsınız.
+*   Kayıtlarda hızlı ve kolay düzeltme yaparsınız.
+*   GİB onaylı beratları XML veya PDF formatında alırsınız.
+*   İmzalı veya mali mühürlü e-defter beratlarınızı GİB’e tek tuşla gönderirsiniz.
+*   Belgeleri, 10 yıllık yasal süre boyunca dijital olarak arşivlersiniz.
+*   E-Defter saklama işlemlerinizi SAP üzerinden yaparsınız.
+*   Yevmiye numarası ile e-defterlere hızlıca erişim sağlar ve rapor oluşturursunuz.
+*   e-Defter denetim süreçlerinizi hızlandırırsınız.
+*   e-Defter ile ilgili kontrollerinizi anlık olarak yaparsınız.
+
+## Sıkça Sorulan Sorular
+
+### e-Defter Beratı Nedir?
+
+Ba ş kan l ı k tar af ı nd an bel irl en en stand art lar ı g ö z ö n ü nd e bul und ur ular ak, Başkanlığın Mali Mü hr ü ile on ay lan m ı ş ele kt ron ik dos ya hal ind e, te bl i ğ de y er al an us ul ve es as lar do ğ r ult us unda o lu ş tur ul an de fter le re ili ş kin bil g iler içeren elektronik dosyadır.
+
+### e-Defter Nedir?
+
+e-Defter, firmalar için tutulması zorunlu olan büyük defter (defter-i kebir) ve yevmiye defterlerinin Vergi Usulleri Kanunu (VUK) ve Türk Ticaret Kanunu (TTK) yönetmeliklerine uygun olarak elektronik dosya biçiminde hazırlanması ve elektronik ortamda muhafaza edilmesidir. Bu sayede, muhasebe kayıtlarının denetleme işlemlerinin de elektronik ortamda gerçekleştirilmesi mümkündür. e-Defter uygulamasına geçen firmaların, ticari defter kapanış tasdiki onayını takiben, çıktı olarak yevmiye defteri ve büyük defter kullanma zorunlulukları ortadan kalkar.
+
+### e-Defter Standardı Nedir?
+
+X B RL o lar ak bil inen e X t ensible Business Reporting Language (Gen i ş let ile bil ir İ ş Rap or l ama D ili) te kn ol oj isi, de fter ler in ele kt ron ik o lar ak haz ı r lan abil mes i i ç in XML format ı nda bir stand art o lar ak k ull an ı l m ak t ad ı r ve bu stand art ul us lar ar as ı o lar ak k abul edilmektedir.
+
+### e-Defter Kimler İçin Zorunludur?
+
+2021 hesap dönemi için cirosu 4 milyon TL üzeri olan mükelleflerin 1 Temmuz 2022 tarihine kadar e-fatura uygulamasına, 1 Ocak 2023 tarihine kadar da e-defter uygulamasına geçiş yapması zorunludur.
+
+Ayrıca e-Defter uygulamasının sağladığı kolaylıklardan faydalanabilmek adına kullanıcılar e-Defter uygulamasına gönüllü olarak da geçiş yapılabilir.
+
+### Gönüllü Olarak e-Deftere Geçilir mi?
+
+Evet, mükelleflerin gönüllü olarak e-defter uygulamasına geçme hakkı vardır.
+
+### e-Fatura Kullanıcısı e-Deftere Geçmek Zorunda mı?
+
+e-Fatura sistemine zorunlu olarak geçen mükelleflerin, e-defter sistemine de zorunlu olarak geçmesi gerekmektedir. Ancak mükellefin e-faturaya geçme zorunluluğu bulunmuyorsa, e-deftere de geçmek zorunda değildir.
+
+### e-Fatura Kullanıcısı Olmadan e-Defter Kullanıcısı Olunur mu?
+
+Geçmişte e-defter uygulamasına geçmenin ön koşulu, e-fatura mükellefi olmaktı. Ancak yapılan değişikliklerle bu koşul kaldırılmıştır. Kısacası, e-Fatura kullanıcısı olmayan mükellefler isteğe bağlı olarak e-defter kullanabilmektedir.
+
+### Hem Kağıt Hem Elektronik Defter Tutmak Mümkün mü?
+
+Hayır, defterlerini elektronik ortamda tutmaya başlayan mükellefler, defterlerini kâğıt olarak tutamazlar.
+
+### e-Defter Kullanıcılarının Muhasebe Kayıtlarının İçeriğini GİB’e Aktarması Gerekir mi?
+
+Hayır, e-defter sistemine geçiş yaptıktan sonra muhasebe kayıtlarının içeriğinin Gelir İdaresi Başkanlığı’na gönderilmesine gerek yoktur. E-Defter beratının GİB’e gönderilmesi yeterli olmaktadır.
+
+### e-Defter Sisteminde Yapılan Hatalar Düzeltilir mi?
+
+E-De fter beratının yasal süresi dolmadan, e-defterdeki hataların düzeltilmesi mümkündür. XAncak burada G İ B tar af ı nd an m ü kel le f ler i ç in tan ı nan y as al de ğ i ş ik lik s ü res ine d ikk at ed il mel id ir. Süre geçmediği takdirde yapılası gereken, sistemdeki hatalı defter beratını silip, yerine düzeltilen defter beratını yüklemektir.
+
+### e-Defter Uygulamasına Nasıl Başvuru Yapılır?
+
+e-Defter başvuruları, e-defter resmi internet sitesi üzerinden başvuru formu ve taahhütname doldurularak yapılmaktadır. Gerçek kişi iseniz form ve taahhütnameyi e-imza ile imzalamanız; tüzel kişi iseniz başvuruyu yapan kuruma ait mali mühür ile belgeleri onaylamanız gerekmektedir. Aynı zamanda aşağıdaki belgelerin ve adımların da başvuru sırasında gerçekleştirilmesi gerekmektedir;
+
+*   Zaman damgası veya mali mühür
+*   GİB uyumluluk onayı almış bir yazılıma sahip olunması,
+*   Mükellefin ait olduğu mevcut programın e-defter formatına göre güncellenmesi,
+*   e-Defter mükellef tarafından saklanacaksa, uygun bir arşivleme opsiyonunun tercih edilmesi gerekmektedir.
+
+### SAP e-Defter danışmanlık hizmetimiz hakkında daha fazla bilgi almak ve süreçlerinizi kolaylaştırmak için 
+
+bizimle iletişime geçin.
+
+## e-Defter Çözümü
+
+**Bizimle İletişime Geçebilirsiniz!**
+
+2013'den bu yana 5 kıtada 450’den fazla iş ortağımız ile birlikte 1100’den fazla projeyi başarıyla hayata geçirdik. Çözüm ve danışmanlık hizmetlerimiz hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+Mailiniz başarıyla gönderilmiştir en kısa sürede sizinle iletişime geçilecektir.
+
+Mesajınız ulaştırılamadı! Lütfen daha sonra tekrar deneyin.
+
+Title: SAP ile Tam Entegre e-İrsaliye Çözümü | MDP Group
+
+URL Source: https://mdpgroup.com/cozumler/e-irsaliye/
+
+Markdown Content:
+[![Image 1: MDP Group](https://mdpgroup.com/wp-content/uploads/2020/03/l.png.webp)](https://mdpgroup.com/ "MDP Group")
+
+## e-İrsaliye Çözümü ile Sevkiyat Operasyonlarınızı Dijitalleştirin,
+
+Süreçlerinize Hız ve Verimlilik Kazandırın.
+
+MDP Group olarak, 10 yılı aşkın tecrübemizle SAP kullanıcılarına özel e-irsaliye çözümleri sunuyoruz. e-İrsaliye mevzuatına tam uyumlu çözümlerimizle, süreçlerinizi uçtan uca dijitalleştiriyor, operasyonel verimliliğinizi artırıyoruz.
+
+## MDP e-İrsaliye Çözümünün Avantajları
+
+### SAP ile Tam Entegre e-İrsaliye Çözümü
+
+SAP sisteminizin dışına çıkmadan e-irsaliye hazırlama, gönderme, takip etme, yanıt verme ve raporlama gibi tüm süreçlerinizi tek bir noktadan yönetebilirsiniz.
+
+### SAP'nin Farklı Versiyonlarıyla Uyumlu
+
+e-İrsaliye çözümümüz, SAP’nin tüm versiyonları (Rise, HANA vb.) ile uyumlu çalışacak şekilde tasarlanmıştır. Her türlü SAP altyapısına kolayca entegre olur ve e-irsaliye süreçlerinizi mevcut SAP sisteminiz üzerinden sorunsuz bir şekilde yönetmenizi sağlar.
+
+### Entegratör Bağımsız ve Esnek Yapı
+
+SAP ile uyumlu e-irsaliye çözümünü, doğrudan entegrasyon yöntemi ile tamamen sizin sunucularınızda; özel entegratör yöntemi ile MDP’nin iş birliği yaptığı entegratörler aracılığıyla kullanabilirsiniz.
+
+### Düzenli Güncellemeler ve Mevzuat Uyumu
+
+Gelir İdaresi Başkanlığı (GİB) tarafından yapılan düzenlemeleri yakından takip ediyor ve sistemlerinizi anında güncelliyoruz. Uyumsuzluk risklerini ortadan kaldırırken, düzenli güncellemelerle sevkiyat ve taşımacılık süreçlerinizi güvende tutuyoruz.
+
+E-İrsaliye ile sevk irsaliyelerinizi elektronik ortamda düzenleyin,
+
+sevkiyat operasyonlarınızı hızlı, güvenli ve şeffaf bir şekilde yönetin.
+
+## e-İrsaliye Uygulamasında Neden MDP Group'u Seçmelisiniz?
+
+## Özelleştirilebilir
+
+e-İrsaliye Çözümü
+
+E-İrsaliye çözümümüz, ihtiyaçlarınıza özel olarak uyarlanabilir bir yapıya sahiptir. Sevkiyat süreçlerinize özgü geliştirmelerle, uçtan uca tüm ihtiyaçlarınıza yanıt veren kapsamlı ve esnek bir çözüm sunuyoruz.
+
+### Satış Sonrası Teknik Destek
+
+MDP olarak, proje geçişinden sonra da müşterilerimizle iş birliğimizi sürdürürüz. Karşılaştığınız her türlü soruna hızlı ve etkili çözümler sunar, birebir iletişimle çözüm süresini en aza indiririz.
+
+### Sektörel Deneyim ve Tecrübe
+
+Perakende, üretim, finans ve enerji gibi pek çok sektörde e-İrsaliye çözümleri geliştirerek en karmaşık işletme senaryolarında dahi başarı elde ettik. Sektörel deneyim ve bilgi birikimimiz, her türlü ihtiyaca yaratıcı ve etkili çözümler sunmamızı sağlıyor.
+
+## Referanslarımız
+
+## SAP e-İrsaliye Çözümü Size Ne Sağlar?
+
+*   SAP’de oluşturduğunuz irsaliyeleri, e-irsaliye formatına çevirip mali mühürlü şekilde GİB’e otomatik olarak gönderirsiniz.
+*   e-İrsaliyelerinizi XML veya PDF formatında indirirsiniz.
+*   Elektronik irsaliyeleri mail olarak gönderebilir veya çıktısını alabilirsiniz.
+*   Diğer mükelleflerden gelen e-irsaliyeleri alırsınız.
+*   Giden ve gelen e-irsaliyelere kabul veya ret yanıtları verirsiniz.
+*   Kısmi kabul veya ret imkanı ile eksik miktar, fazla miktar gibi nedenlerle irsaliyelere tek kalem olarak yanıt verebilirsiniz.
+*   Sevkiyatlarınızın hangi araçlar ve kişiler tarafından taşındığını geriye dönük olarak detaylı bir şekilde raporlarsınız.
+*   Tüm irsaliyeleri SAP’de kolayca takip edersiniz.
+*   Uyuşmazlıkları hızlı bir şekilde çözersiniz.
+*   Alıcı yanıtlarını SAP üzerinden hızlıca görürsünüz.
+*   Gelen irsaliyeleri görüntüleyerek hataları tespit edersiniz.
+*   Geçmiş irsaliyelere erişim sağlarsınız.
+*   Otomatikleştirilmiş e-irsaliye süreçleri ile dağıtım ve denetim süreçlerini hızlandırırsınız.
+*   Sevk süreçlerinizi pratik hale getirir ve verimliliği artırırsınız.
+*   Sevkiyat sırasında evrakların kaybolmasını önlersiniz.
+*   Tedarik zinciri süreçlerinizi etkin bir şekilde yönetirsiniz.
+*   Baskı, kargo gibi süreçleri ortadan kaldırır; zamandan ve maliyetten tasarruf sağlarsınız.
+*   Yasalara uyum sağlayarak cezai riskleri azaltırsınız.
+
+### SAP e-İrsaliye Çözümü ile Sevkiyat Süreçlerinizin Tamamını SAP Üzerinden Yönetmeye Şimdi Başlayın.
+
+![Image 2](https://mdpgroup.com/assets/img/quick-transfer.svg)
+
+Hızlı sevkiyat
+
+![Image 3](https://mdpgroup.com/assets/img/high-control.svg)
+
+Yüksek izlenebilirlik
+
+![Image 4](https://mdpgroup.com/assets/img/electronic-archive.svg)
+
+Elektronik arşivleme
+
+## e-İrsaliye Hakkında Sık Sorulan Sorular
+
+### e-İrsaliye Nedir?
+
+e-İrsaliye, ticari bir malın taşınması ve sevki sürecinde kullanılması gereken irsaliye belgesinin elektronik ortamda hazırlanmış halidir. Sevk İrsaliyesinde bulunması gereken bilgilere ek olarak, e-İrsaliyede sevkiyatı gerçekleştiren aracın plaka ve şoför bilgileri veya taşımayı yapan kargo firmasının bilgileri de yer almalıdır.
+
+Gelir İdaresi Başkanlığı tarafından yayınlanan kanun ve mevzuatlar çerçevesinde kağıt irsaliye ile aynı hukuki nitelikte olan ancak dijital ortamda düzenlenip alıcının posta kutusuna gönderilip, alıcının malları kabul veya red durumunu bildiren yanıtının yine aynı uygulama üzerinden satıcıya bildirildiği bir uygulamadır.
+
+### e-İrsaliye'de Hangi Bilgiler Bulunmalıdır?
+
+*   e-İrsaliyeyi düzenleyenin adı soyadı, ticaret unvanı, adres, vergi dairesi ve hesap numarası,
+*   e-İrsaliyenin düzenlendiği tarih ve belge numarası,
+*   Alıcının adı soyadı, ticaret unvanı, adresi, eğer varsa vergi dairesi ve hesap numarası,
+*   Taşınan malın türü (nevi) ve miktarı,
+*   Saat ve dakika olarak düzenlenmiş fiili sevk zamanı,
+
+e-İrsaliye üzerinde bulunması gereken bilgilerdir.
+
+### e-İrsaliye Kim Tarafından Düzenlenmelidir?
+
+e-İrsaliye malı taşıyan ya da taşıttıran tarafından düzenlenir. Taşınacak olan mal bir kargo ya da lojistik firması bünyesinde bulunan depolardan sevk edilecekse e-İrsaliye malı taşıyan lojistik firması tarafından da düzenlenebilecektir.
+
+### e-İrsaliye Zorunlu mu?
+
+e-Fatura mükellefi olan ve 2022 ve müteakip hesap dönemlerinde 10 milyon TL'nin üzerindeki brüt satış hasılatına sahip olan tüm mükelleflerin e-irsaliyeye geçme zorunluluğu bulunmaktadır.
+
+### Düzenlenen e-İrsaliyenin Kağıt Çıktısını Almak Gerekli Midir?
+
+Sevkiyatı gerçekleştiren kişinin e-İrsaliye çıktısını araçta bulundurması gerekmektedir.
+
+### Hem Kağıt Hem e-İrsaliye Düzenlenir mi?
+
+Mükellefler, e-irsaliye uygulamasına ilk kez dahil oldukları ayın sonuna kadar kâğıt irsaliye düzenleyip alabilirler. Ancak, bu sürenin sonunda tamamen e-irsaliye düzenlemeleri gerekmektedir.
+
+### Kağıt İrsaliye Düzenlenebilecek Durumlar Nelerdir?
+
+*   Gelir İdaresi Başkanlığı ve di ğ er e-bel ge m ü kel le fi k am u k ur um ve k ur ulu ş lar ı n ı n s ist em ler ind e me yd ana ge le b ile ce k te kn ik ar ı z al ar, g ü ven lik k es int iler i ve ya bu s ist em ler de plan lan an b ak ı ml ar,
+*   İspatlanması şartı ile, mükelleflerin veya özel entegratörlerin bilgi işlem sisteminde meydana gelen arızalar, kesintiler veya bakımlar, ispatlanması gereken durumlar,
+*   Mali mührün ya da e-imzasının arızalanması ya da çalınması durumunda, yeni bir mali mühür veya e-imza alınana kadar,
+*   Bakanlık veya GİB tarafından yayımlanan bir tebliğe göre, özel durumlar nedeniyle e-belgelerin kâğıt olarak düzenlenmesine izin verildiği durumlarda e-irsaliye matbu olarak düzenlenebilmektedir.
+
+### Kağıt İrsaliye ile e-İrsaliye Birbirinden Farklı mı?
+
+Düzenleme yöntemi olarak birbirinden farklı olsa da hukuki açıdan e-irsaliye ile kâğıt irsaliye aynı niteliklere ve geçerliliğe sahiptir.
+
+### Alıcı, e-İrsaliyeye Kabul veya Red Yanıtı Verebilir mi?
+
+E-İrsaliye sistemi, alıcı tarafından tam kabul veya kısmi kabul yanıtlarının verilmesine olanak sağlamaktadır. Ancak, ancak fiili sevk tarihi geçmiş olan e-İrsaliye, fiziksel teslimat koşullarının başlamış veya tamamlanmış olması ve irsaliyenin işlevini yerine getirmiş olması durumunda reddedilemez.
+
+### Alıcının e-İrsaliyeyi Yanıtlama Süresi Ne Kadar?
+
+Alıcıların gönderilen e-İrsaliyeye 7 gün içinde yanıt vermeleri gerekmektedir. Yanıtlanmamış e-irsaliyelerin durumu “Kabul” olarak değerlendirilmektedir.
+
+### e-İrsaliye İptal Edilir mi?
+
+E-İrsaliye belgesinin iptali söz konusu değildir. Ancak, ürün sevk edilmeden önce e-irsaliye içeriğinin, malın içeriğinin ya da alıcının hatalı olduğu tespit edildiğinde, tüm içeriğe “irsaliye yanıtı” ile “ret” yanıtı verilebilir.
+
+### Teslim Edilen Ürünün İadesinde Yeniden e-İrsaliye Düzenlenir mi?
+
+Ürünlerin iadesi ve geri taşınması için e-irsaliye düzenlenmesi gerekmektedir. İade edilmek istenen ürünün e-irsaliyesini taşıma işlemini gerçekleştirecek olan tarafın düzenlemelerini yapması gerekmektedir.
+
+### Geçmişe Dönük e-İrsaliye Düzenlenir mi?
+
+Kağıt irsaliyeden dönüştürülen e-irsaliye dışında eski tarihli bir e-irsaliye düzenlenmesi mümkün değildir.
+
+### Fiili Sevk Tarihi ile e-İrsaliye Tarihi Arasındaki Zaman Aralığı Ne Kadar Olmalı?
+
+Herhangi bir zaman kısıtlılığı yoktur. e-İrsaliye tarihi ile fiili sevk tarihi arasındaki zaman aralığı taraflar arasındaki anlaşmaya ve lojistik imkânlara bağlı olarak belirlenmektedir.
+
+## e-İrsaliye Çözümü
+
+**Bizimle İletişime Geçebilirsiniz!**
+
+2013'den bu yana 5 kıtada 450’den fazla iş ortağımız ile birlikte 1100’den fazla projeyi başarıyla hayata geçirdik. Çözüm ve danışmanlık hizmetlerimiz hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+Mailiniz başarıyla gönderilmiştir en kısa sürede sizinle iletişime geçilecektir.
+
+Mesajınız ulaştırılamadı! Lütfen daha sonra tekrar deneyin.
+
+Title: SAP Gelen e-Fatura Çözümü | MDP Group
+
+URL Source: https://mdpgroup.com/cozumler/sap-gelen-fatura/
+
+Markdown Content:
+# SAP Gelen e-Fatura Çözümü | MDP Group
+
+[![Image 1: MDP Group](https://mdpgroup.com/wp-content/uploads/2020/03/l.png.webp)](https://mdpgroup.com/ "MDP Group")
+
+*   [Kurumsal](https://mdpgroup.com/kurumsal/)
+    
+
+    *   [Hakkımızda](https://mdpgroup.com/kurumsal/)
+    *   [Ar-Ge](https://mdpgroup.com/arge/)
+    *   [Başarı Hikayeleri](https://mdpgroup.com/basari-hikayeleri/)
+    *   [MDP Akademi](https://mdpgroup.com/mdp-akademi/)
+    *   [Kariyer](https://mdpgroup.com/?page_id=9)
+    *   [Kariyer Fırsatları](https://mdpgroup.com/kariyer-firsatlari/)
+    *   [Politikalarımız](https://mdpgroup.com/politikalarimiz/)
+    *   [Banka Bilgilerimiz](https://mdpgroup.com/banka-hesap-bilgilerimiz/)
+
+*   [Çözümler](https://mdpgroup.com/cozumler/sap-gelen-fatura/#)
+    
+
+    *   [SAP FI Add Ons](https://mdpgroup.com/cozumler/sap-gelen-fatura/#)
+        *   [e-Mutabakat](https://mdpgroup.com/cozumler/e-mutabakat/)
+        *   [e-Hesap Özeti](https://mdpgroup.com/cozumler/sap-ekstre-hesap-ozeti/)
+        *   [e-Beyanname](https://mdpgroup.com/cozumler/mdp-sap-e-beyanname/)
+        *   [e-Ödeme](https://mdpgroup.com/cozumler/sap-e-odeme/)
+        *   [Ekstre Karşılaştırma](https://mdpgroup.com/cozumler/ekstre-karsilastirma/)
+        *   [Sanal Pos Entegrasyonu & Muhasebeleştirme](https://mdpgroup.com/cozumler/sap-sanal-pos-entegrasyonu-muhasebelestirme/)
+        *   [Doğrudan Borçlandırma Sistemi](https://mdpgroup.com/cozumler/sap-dogrudan-borclandirma/)
+        *   [Kur Farkı Faturası](https://mdpgroup.com/cozumler/sap-kur-farki-faturasi/)
+        *   [Fiori e-Hesap Özeti](https://mdpgroup.com/cozumler/sap-fiori-e-hesap-ozeti/)
+        *   [Operasyon Detay Bütçeleme](https://mdpgroup.com/cozumler/operasyon-detay-butceleme/)
+        *   [Mevduat ve Döviz İşlem Portalı](https://mdpgroup.com/cozumler/sap-mevduat-ve-doviz-islemleri/)
+
+    *   [SAP e-Dönüşüm](https://mdpgroup.com/cozumler/e-donusum)
+        *   [e-Fatura](https://mdpgroup.com/cozumler/e-fatura/)
+        *   [e-Arşiv Fatura](https://mdpgroup.com/cozumler/sap-e-arsiv-fatura/)
+        *   [e-Defter](https://mdpgroup.com/cozumler/e-defter/)
+        *   [e-İrsaliye](https://mdpgroup.com/cozumler/e-irsaliye/)
+        *   [Gelen e-Fatura](https://mdpgroup.com/cozumler/sap-gelen-fatura/)
+        *   [Gelen e-Arşiv Fatura](https://mdpgroup.com/cozumler/gelen-e-arsiv/)
+        *   [E-Arşiv Fatura Görüntüleme](https://mdpgroup.com/cozumler/e-arsiv-fatura-goruntuleme/)
+        *   [Gelen e-İrsaliye](https://mdpgroup.com/cozumler/gelen-e-irsaliye/)
+        *   [e-Muhasebe Fişi](https://mdpgroup.com/cozumler/e-muhasebe-fisi/)
+        *   [Lokal e-Belge Saklama](https://mdpgroup.com/cozumler/lokal-e-belge-saklama/)
+        *   [e-Müstahsil](https://mdpgroup.com/cozumler/e-mustahsil-makbuzu/)
+        *   [e-Gider Pusulası](https://mdpgroup.com/cozumler/e-gider-pusulasi-cozumu/)
+        *   [Peppol e-Fatura](https://mdpgroup.com/cozumler/peppol-e-fatura/)
+
+    *   [SAP HR Add-Ons](https://mdpgroup.com/cozumler/sap-gelen-fatura/#)
+        *   [Masraf Yönetimi](https://mdpgroup.com/cozumler/sap-masraf-yonetimi/)
+        *   [İzin Yönetimi](https://mdpgroup.com/cozumler/sap-izin-yonetimi/)
+        *   [Provizyon Talep Formu](https://mdpgroup.com/cozumler/sap-provizyon-talep-formu/)
+        *   [Seyahat Yönetimi](https://mdpgroup.com/cozumler/sap-seyahat-yonetimi/)
+        *   [Ücret Yönetimi](https://mdpgroup.com/cozumler/sap-ucret-yonetimi/)
+        *   [Organizasyon Şeması](https://mdpgroup.com/cozumler/sap-organizasyon-semasi/)
+        *   [SAP SuccessFactors Entegrasyonu](https://mdpgroup.com/cozumler/sap-successfactors-entegrasyonu/)
+
+    *   [SAP Portal Çözümler](https://mdpgroup.com/cozumler/sap-gelen-fatura/#)
+        *   [JetSRM Tedarikçi Portali](https://mdpgroup.com/cozumler/jetsrm-tedarikci-portali/)
+        *   [JetBAYİ Bayi Portali](https://mdpgroup.com/cozumler/jetcrm-b2b-musteri-portali/)
+        *   [JetHR İK Yönetimi](https://mdpgroup.com/cozumler/jethr-ik-yonetimi/)
+
+    *   [Further SAP Add-Ons](https://mdpgroup.com/cozumler/sap-gelen-fatura/#)
+        *   [MDP Firefighter](https://mdpgroup.com/cozumler/mdp-firefighter/)
+        *   [MDP Client (Fiori)](https://mdpgroup.com/cozumler/sap-custom-fiori-client/)
+        *   [Bilgi Yönetim Sistemi](https://mdpgroup.com/cozumler/bilgi-yonetim-sistemi/)
+        *   [Mobil Tahsilat](https://mdpgroup.com/cozumler/sap-mobil-tahsilat/)
+        *   [Mobil Sipariş](https://mdpgroup.com/cozumler/sap-mobil-siparis/)
+        *   [İleti Yönetim Sistemi (İYS) Entegrasyonu](https://mdpgroup.com/cozumler/ileti-yonetim-sistemi-entegrasyonu/)
+        *   [U-ETDS Entegrasyonu](https://mdpgroup.com/cozumler/sap-u-etds-cozumu/)
+        *   [Kargo Entegrasyonu](https://mdpgroup.com/sap-kargo-entegrasyonu/)
+
+    *   [Non-SAP Çözümler](https://mdpgroup.com/cozumler/sap-gelen-fatura/#)
+        *   [MIP – Entegrasyon Yazılımı](https://mdpgroup.com/cozumler/mip-entegrasyon-yazilimi/)
+        *   [JetLM Lojistik Yönetimi](https://mdpgroup.com/cozumler/jetlm-lojistik-yonetimi/)
+        *   [Sürekli İyileştirme](https://mdpgroup.com/cozumler/surekli-iyilestirme-cozumu/)
+        *   [Öneri Sistemi](https://mdpgroup.com/cozumler/oneri-sistemi/)
+        *   [Dijital 5S](https://mdpgroup.com/cozumler/dijital-5s-cozumu/)
+        *   [Kaizen Yazılımı](https://mdpgroup.com/cozumler/kaizen-yazilimi/)
+
+*   [Danışmanlık](https://mdpgroup.com/danismanlik/)
+    
+
+    *   [SAP EWM](https://mdpgroup.com/danismanlik/sap-ewm/)
+    *   [SAP PI/PO](https://mdpgroup.com/danismanlik/sap-pi-po/)
+    *   [SAP Integration Suite](https://mdpgroup.com/danismanlik/sap-integration-suite/)
+    *   [SAP ABAP](https://mdpgroup.com/danismanlik/sap-abap/)
+    *   [SAP Fiori](https://mdpgroup.com/danismanlik/sap-fiori/)
+    *   [SAP EDI](https://mdpgroup.com/danismanlik/sap-edi/)
+    *   [SAP Signavio](https://mdpgroup.com/danismanlik/sap-signavio/)
+    *   [SAP TM](https://mdpgroup.com/danismanlik/sap-transportation-management-tm/)
+    *   [SAP GTS](https://mdpgroup.com/danismanlik/sap-gts/)
+    *   [SAP MFS](https://mdpgroup.com/danismanlik/sap-mfs/)
+    *   [Azure Entegrasyonu](https://mdpgroup.com/azure-integration-services-cozumleri/)
+
+*   [Yapay Zeka](https://mdpgroup.com/yapay-zeka/)
+*   [Blog](https://mdpgroup.com/blog/)
+*   [İçerikler](https://mdpgroup.com/cozumler/sap-gelen-fatura/#)
+    
+
+    *   [Etkinlikler](https://mdpgroup.com/etkinlikler/)
+    *   [Katalog](https://mdpgroup.com/katalog/)
+    *   [E-Kitap](https://mdpgroup.com/e-kitap/)
+    *   [Başarı Hikayeleri](https://mdpgroup.com/basari-hikayeleri/)
+    *   [Bizden Haberler](https://mdpgroup.com/bizden-haberler/)
+
+*   [Referanslar](https://mdpgroup.com/referanslar/)
+*   [İletişim](https://mdpgroup.com/iletisim/)
+
+*   [![Image 2: English](blob:http://localhost/d883beb4362fe84660fab16ca0c3a516)](https://mdpgroup.com/en/)
+*   [![Image 3: Türkçe](blob:http://localhost/7c24eb4a3e18324906b4e0adc59e084e)](https://mdpgroup.com/cozumler/sap-gelen-fatura/)
+*   [![Image 4: Deutsch](blob:http://localhost/f7175783fb143a77de78739839c9b35f)](https://mdpgroup.com/de/)
+
+*   [Kurumsal](https://mdpgroup.com/cozumler/sap-gelen-fatura/#)
+    *   [](javascript:;)
+    *   [Hakkımızda](https://mdpgroup.com/kurumsal/)
+    *   [Başarı Hikayeleri](https://mdpgroup.com/basari-hikayeleri/)
+    *   [MDP Akademi](https://mdpgroup.com/mdp-akademi/)
+    *   [Politikalarımız](https://mdpgroup.com/politikalarimiz/)
+    *   [Kariyer](https://mdpgroup.com/?page_id=9)
+    *   [Kariyer Fırsatları](https://mdpgroup.com/kariyer-firsatlari/)
+
+*   [Çözümler](https://mdpgroup.com/cozumler/sap-gelen-fatura/#)
+    *   [](javascript:;)
+    *   [Mevduat ve Döviz İşlem Portali](https://mdpgroup.com/cozumler/sap-mevduat-ve-doviz-islemleri/)
+    *   [Doğrudan Borçlandırma Sistemi](https://mdpgroup.com/cozumler/sap-dogrudan-borclandirma/)
+    *   [e-Hesap Özeti](https://mdpgroup.com/cozumler/sap-ekstre-hesap-ozeti/)
+    *   [Sanal Pos Entegrasyonu & Muhasebeleştirme](https://mdpgroup.com/cozumler/sap-sanal-pos-entegrasyonu-muhasebelestirme/)
+    *   [e-Ödeme](https://mdpgroup.com/cozumler/sap-e-odeme/)
+    *   [e-Arşiv Fatura](https://mdpgroup.com/cozumler/sap-e-arsiv-fatura/)
+    *   [e-Defter](https://mdpgroup.com/cozumler/e-defter/)
+    *   [e-Defter Saklama](https://mdpgroup.com/cozumler/e-defter-saklama/)
+    *   [e-Fatura](https://mdpgroup.com/cozumler/e-fatura/)
+    *   [e-İrsaliye](https://mdpgroup.com/cozumler/e-irsaliye/)
+    *   [Gelen e-Fatura](https://mdpgroup.com/cozumler/sap-gelen-fatura/)
+    *   [e-Mutabakat](https://mdpgroup.com/cozumler/e-mutabakat/)
+    *   [e-Beyanname](https://mdpgroup.com/cozumler/mdp-sap-e-beyanname/)
+    *   [Ekstre Karşılaştırma](https://mdpgroup.com/cozumler/ekstre-karsilastirma/)
+    *   [Gelen e-Arşiv Fatura](https://mdpgroup.com/cozumler/gelen-e-arsiv/)
+    *   [E-Arşiv Fatura Görüntüleme](https://mdpgroup.com/cozumler/e-arsiv-fatura-goruntuleme/)
+    *   [Lokal e-Belge Saklama](https://mdpgroup.com/cozumler/lokal-e-belge-saklama/)
+    *   [Gelen e-İrsaliye Çözümü](https://mdpgroup.com/cozumler/gelen-e-irsaliye/)
+    *   [e-Muhasebe Fişi](https://mdpgroup.com/cozumler/e-muhasebe-fisi/)
+    *   [e-Müstahsil](https://mdpgroup.com/cozumler/e-mustahsil-makbuzu/)
+    *   [Dijital Gider Pusulası](https://mdpgroup.com/cozumler/e-gider-pusulasi-cozumu/)
+    *   [İzin Yönetimi](https://mdpgroup.com/cozumler/sap-izin-yonetimi/)
+    *   [Seyahat Yönetimi](https://mdpgroup.com/cozumler/sap-seyahat-yonetimi/)
+    *   [Organizasyon Şeması](https://mdpgroup.com/cozumler/sap-organizasyon-semasi/)
+    *   [Ücret Yönetimi](https://mdpgroup.com/cozumler/sap-ucret-yonetimi/)
+    *   [Masraf Yönetimi](https://mdpgroup.com/cozumler/sap-masraf-yonetimi/)
+    *   [Provizyon Talep Formu](https://mdpgroup.com/cozumler/sap-provizyon-talep-formu/)
+    *   [SAP SuccessFactors Entegrasyonu](https://mdpgroup.com/cozumler/sap-successfactors-entegrasyonu/)
+    *   [Sürekli İyileştirme](https://mdpgroup.com/cozumler/surekli-iyilestirme-cozumu/)
+    *   [MIP – Entegrasyon Yazılımı](https://mdpgroup.com/cozumler/mip-entegrasyon-yazilimi/)
+    *   [Öneri Sistemi](https://mdpgroup.com/cozumler/oneri-sistemi/)
+    *   [Dijital 5S](https://mdpgroup.com/cozumler/dijital-5s-cozumu/)
+    *   [Kaizen Yazılımı](https://mdpgroup.com/cozumler/kaizen-yazilimi/)
+    *   [İSG Uygulaması](https://mdpgroup.com/cozumler/sap-isg-uygulamasi/)
+    *   [Custom MDM](https://mdpgroup.com/cozumler/sap-custom-mdm/)
+    *   [U-ETDS](https://mdpgroup.com/cozumler/sap-u-etds-cozumu/)
+    *   [Bilgi Yönetimi](https://mdpgroup.com/cozumler/bilgi-yonetim-sistemi/)
+    *   [JetSRM Tedarikçi Portali](https://mdpgroup.com/cozumler/jetsrm-tedarikci-portali/)
+    *   [MDP SAP Yapay Zeka Asistanı](https://mdpgroup.com/?page_id=18079)
+    *   [JetBAYİ Bayi Portalı](https://mdpgroup.com/cozumler/jetcrm-b2b-musteri-portali/)
+    *   [MDP Firefighter](https://mdpgroup.com/cozumler/mdp-firefighter/)
+    *   [SAP & Kargo Entegrasyonu](https://mdpgroup.com/sap-kargo-entegrasyonu/)
+    *   [Mobil Tahsilat](https://mdpgroup.com/cozumler/sap-mobil-tahsilat/)
+    *   [Pre-packaged Mappings EDIFACT](https://mdpgroup.com/cozumler/pre-packaged-mappings-edifact/)
+    *   [Pre-packaged Mappings ANSI X12](https://mdpgroup.com/cozumler/pre-packaged-mappings-ansi-x12/)
+    *   [Pre-packaged Mappings VDA](https://mdpgroup.com/cozumler/pre-packaged-mappings-vda/)
+
+*   [Danışmanlık](https://mdpgroup.com/cozumler/sap-gelen-fatura/#)
+    *   [](javascript:;)
+    *   [SAP EWM](https://mdpgroup.com/danismanlik/sap-ewm/)
+    *   [SAP PI/PO](https://mdpgroup.com/danismanlik/sap-pi-po/)
+    *   [SAP Integration Suite](https://mdpgroup.com/danismanlik/sap-integration-suite/)
+    *   [SAP ABAP](https://mdpgroup.com/danismanlik/sap-abap/)
+    *   [SAP Fiori](https://mdpgroup.com/danismanlik/sap-fiori/)
+    *   [SAP AIF](https://mdpgroup.com/danismanlik/sap-aif/)
+    *   [SAP EDI](https://mdpgroup.com/danismanlik/sap-edi/)
+    *   [SAP MII](https://mdpgroup.com/danismanlik/sap-mii/)
+    *   [Yapay Zeka](https://mdpgroup.com/yapay-zeka/)
+    *   [SAP Ariba](https://mdpgroup.com/?page_id=10701)
+    *   [SAP Signavio](https://mdpgroup.com/danismanlik/sap-signavio/)
+    *   [SAP MFS](https://mdpgroup.com/danismanlik/sap-mfs/)
+    *   [WMS](https://mdpgroup.com/danismanlik/depo-yonetim-sistemi-wms/)
+    *   [.NET Yazılım Geliştirme](https://mdpgroup.com/dotnet-yazilim-gelistirme/)
+
+*   [Kurumsal Yapay Zeka Danışmanlığı](https://mdpgroup.com/yapay-zeka/)
+*   [Blog](https://mdpgroup.com/blog/)
+*   [Etkinlikler](https://mdpgroup.com/etkinlikler/)
+*   [Bizden Haberler](https://mdpgroup.com/bizden-haberler/)
+*   [Katalog](https://mdpgroup.com/katalog/)
+*   [Referanslar](https://mdpgroup.com/referanslar/)
+*   [İletişim](https://mdpgroup.com/iletisim/)
+
+# Gelen e-Fatura Çözümü
+
+## Gelen e-Fatura Çözümü Nedir?
+
+Gelen e-Fatura çözümü SAP kullanan e-Fatura mükellefleri için geliştirilmiştir. Bu çözüm, kullanıcıların**gelen e-Faturalarını SAP sistemlerine otomatik aktarır**. Gelen e-Faturaların takibi hızlı ve kolay bir şekilde SAP raporları üzerinden gerçekleşir. Çözümün özellikleri arasında gelen e-Faturalar için bildirim alma seçeneği, e-Faturalara onay veya ret yanıtı verme ve e-Faturaları ticari bazlı listeleme imkânı da bulunmaktadır.
+
+## Gelen e-Fatura Çözümü Nasıl Çalışır?
+
+İki tarafın da e-Fatura mükellefi olması durumunda, fatura göndericisi e-Faturayı sisteme aktarır. Bunu takiben alıcı, **SAP sistemi üzerinden gelen e-Faturaları görüntüleyebilir, listeleyebilir ve onay-ret yanıtı verebilir**.
+
+## Kimler Gelen e-Fatura çözümünden faydalanabilir?
+
+Gelir İdaresi Başkanlığı (GİB) tarafından e-Dönüşüm kapsamında yapılan düzenleme sonucunda, e-Fatura uygulamasına kayıtlı mükelleflerin diğer kullanıcılara faturalarını e-Fatura olarak düzenlemeleri zorunludur. E-Fatura uygulamasına geçme zorunluluğu bulunan mükellefler, Hazine ve Maliye Bakanlığının yayımladığı [Genel Tebliğ](https://www.gib.gov.tr/sites/default/files/fileadmin/mevzuatek/vukteb509_1.pdf?id=100)'de listelenmiştir. Gelen e-Fatura çözümü, gelen e-Faturaları tek portal üzerinden görüntülemek ve takip etmek isteyen e-Fatura mükelleflerine kolay arşivleme, iş yükünü minimize etme ve fatura kaybını ortadan kaldırma gibi faydalar sağlamaktadır.
+
+#### Referanslarımız
+
+*   ![Image 5: coşkunöz logo](https://mdpgroup.com/wp-content/uploads/2020/04/coskunoz-holding-e1646132499623.jpg.webp)
+*   ![Image 6: Sarkuysan Logo](https://mdpgroup.com/wp-content/uploads/2020/04/sarkuysan.jpg.webp)
+*   ![Image 7: Borusan Logo](https://mdpgroup.com/wp-content/uploads/2020/04/borusanenerji.jpg.webp)
+*   ![Image 8: Borusan Lojistik Logo](https://mdpgroup.com/wp-content/uploads/2020/04/borusonlojistik.jpg.webp)
+*   ![Image 9: Borçelik Logo](https://mdpgroup.com/wp-content/uploads/2020/04/borcelik.jpg.webp)
+*   ![Image 10: Şölen Logo](https://mdpgroup.com/wp-content/uploads/2021/03/solen-logo-7CF628A716-seeklogo.com_.png)
+*   ![Image 11: Borusan Otomotiv Logo](https://mdpgroup.com/wp-content/uploads/2020/04/borusanotomotiv-e1646132306774.jpg.webp)
+*   ![Image 12: Kopaş Kozmetik](https://mdpgroup.com/wp-content/uploads/2023/09/kopas%CC%A7.png.webp)
+*   ![Image 13: Multinet Logo](https://mdpgroup.com/wp-content/uploads/2020/04/multinet-logo-e1646132263105.png)
+*   ![Image 14: ontex logo](https://mdpgroup.com/wp-content/uploads/2020/04/ontex.jpg.webp)
+*   ![Image 15: keskinoğlu](https://mdpgroup.com/wp-content/uploads/2023/09/keskinog%CC%86lu.png.webp)
+*   ![Image 16: mutlu-aku-logo](https://mdpgroup.com/wp-content/uploads/2023/11/mutlu-aku-logo.png)
+*   ![Image 17: Simit Sarayı Logo](https://mdpgroup.com/wp-content/uploads/2020/04/simitsarayi.jpg.webp)
+*   ![Image 18: abcdeterjan](https://mdpgroup.com/wp-content/uploads/2023/11/abcdeterjan.png.webp)
+*   ![Image 19: dogan_holding logo](https://mdpgroup.com/wp-content/uploads/2023/11/dogan_holding-logo.jpeg.webp)
+*   ![Image 20: metal-yapi](https://mdpgroup.com/wp-content/uploads/2023/11/metal-yapi.jpg.webp)
+*   ![Image 21: Nexans](https://mdpgroup.com/wp-content/uploads/2023/11/Nexans.png)
+*   ![Image 22: Vanleeuwen](https://mdpgroup.com/wp-content/uploads/2023/11/Vanleeuwen.jpeg.webp)
+
+## Gelen e-Fatura Çözümünün Avantajları
+
+*   SAP ile %100 entegre çalışır
+*   Gelen e-Faturalar otomatik olarak arşivlenir
+*   Gelen e-Faturalar gün, hafta ve aya göre filtrelenebilir
+*   Gelen e-Faturalar için bildirim alınabilir
+*   Temel fatura iptallerine otomatik iade faturası kesilir ve gönderilir
+*   Üzerinde aksiyon alınmayan faturalar için otomatik mail gönderilir
+*   Ticari faturalar için otomatik ticari yanıt gönderimi sağlanır
+*   Operasyonel iş yükünü ve maliyeti minimize eder
+*   Fatura kaybı ihtimalini ortadan kaldırır
+
+## Gelen e-Fatura Çözümü
+
+**Bizimle İletişime Geçebilirsiniz!**
+
+2013'den bu yana 5 kıtada 450’den fazla iş ortağımız ile birlikte 1100’den fazla projeyi başarıyla hayata geçirdik. Çözüm ve danışmanlık hizmetlerimiz hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+*   [](https://www.facebook.com/digitalmdp/)
+*   [](http://www.instagram.com/digitalmdp)
+*   [](https://twitter.com/digitalmdp)
+*   [](https://www.linkedin.com/company/digitalmdp)
+*   [](https://open.spotify.com/show/3rgNqEflTRpStgCqZINSgY?si=92f04e141c264816)
+
+![Image 23: MDP Group](https://mdpgroup.com/wp-content/themes/mdpgroup/assets/img/logo.svg)
+
+*   [Referanslar](https://mdpgroup.com/referanslar/)
+*   [Hakkımızda](https://mdpgroup.com/kurumsal/)
+*   [Geri Bildirim](https://mdpgroup.com/sikayet-geri-bildirim-ve-tesekkur/)
+*   [SAP Destek](https://mdpgroup.com/sap-destek-hizmetleri/)
+*   [Yazılım Geliştirme](https://mdpgroup.com/yazilim-gelistirme-hizmetleri/)
+*   [Blog](https://mdpgroup.com/blog/)
+*   [KVKK](https://mdpgroup.com/kvkk/)
+*   [İletişim](https://mdpgroup.com/iletisim/)
+*   [Kariyer](https://mdpgroup.com/?page_id=9)
+
+**E-Posta:**[info@mdpgroup.com](mailto:info@mdpgrup.com)
+
+**İstanbul Ofis**
+
+ Bayar Cd. Ş.M.F.Öngül Sk. No:3 Kadıköy
+
+ Türkiye
+
+**Zürih Ofis**
+
+ MDP Group AG Rosstrasse 53 8832 Wollerau
+
+ İsviçre
+
+ © 2026 MDP GROUP
+
+![Image 24: Peppol](https://mdpgroup.com/wp-content/uploads/2025/04/PEPPOL_WHITE.png.webp)![Image 25: SAP](https://mdpgroup.com/wp-content/uploads/2025/04/SAP_white.png.webp)![Image 26: Great Place to Work](https://mdpgroup.com/wp-content/uploads/2025/04/Great_to_place_work_white-1-1.png.webp)![Image 27: ISO](https://mdpgroup.com/wp-content/uploads/2025/04/ISO_WHITE.png.webp)![Image 28: ISO 9001](https://mdpgroup.com/wp-content/uploads/2025/04/ISO_9001_WHITE.png.webp)![Image 29: EcoVadis](https://mdpgroup.com/wp-content/uploads/2025/04/ECOVADIS_WHITE.png.webp)
+
+Mailiniz başarıyla gönderilmiştir en kısa sürede sizinle iletişime geçilecektir.
+
+Mesajınız ulaştırılamadı! Lütfen daha sonra tekrar deneyin.
+
+
+
+Title: Gelen e-İrsaliye Çözümü | MDP Group
+
+URL Source: https://mdpgroup.com/cozumler/gelen-e-irsaliye/
+
+Markdown Content:
+# Gelen e-İrsaliye Çözümü | MDP Group
+
+[![Image 2: MDP Group](https://mdpgroup.com/wp-content/uploads/2020/03/l.png.webp)](https://mdpgroup.com/ "MDP Group")
+
+*   [Kurumsal](https://mdpgroup.com/kurumsal/)
+    
+
+    *   [Hakkımızda](https://mdpgroup.com/kurumsal/)
+    *   [Ar-Ge](https://mdpgroup.com/arge/)
+    *   [Başarı Hikayeleri](https://mdpgroup.com/basari-hikayeleri/)
+    *   [MDP Akademi](https://mdpgroup.com/mdp-akademi/)
+    *   [Kariyer](https://mdpgroup.com/?page_id=9)
+    *   [Kariyer Fırsatları](https://mdpgroup.com/kariyer-firsatlari/)
+    *   [Politikalarımız](https://mdpgroup.com/politikalarimiz/)
+    *   [Banka Bilgilerimiz](https://mdpgroup.com/banka-hesap-bilgilerimiz/)
+
+*   [Çözümler](https://mdpgroup.com/cozumler/gelen-e-irsaliye/#)
+    
+
+    *   [SAP FI Add Ons](https://mdpgroup.com/cozumler/gelen-e-irsaliye/#)
+        *   [e-Mutabakat](https://mdpgroup.com/cozumler/e-mutabakat/)
+        *   [e-Hesap Özeti](https://mdpgroup.com/cozumler/sap-ekstre-hesap-ozeti/)
+        *   [e-Beyanname](https://mdpgroup.com/cozumler/mdp-sap-e-beyanname/)
+        *   [e-Ödeme](https://mdpgroup.com/cozumler/sap-e-odeme/)
+        *   [Ekstre Karşılaştırma](https://mdpgroup.com/cozumler/ekstre-karsilastirma/)
+        *   [Sanal Pos Entegrasyonu & Muhasebeleştirme](https://mdpgroup.com/cozumler/sap-sanal-pos-entegrasyonu-muhasebelestirme/)
+        *   [Doğrudan Borçlandırma Sistemi](https://mdpgroup.com/cozumler/sap-dogrudan-borclandirma/)
+        *   [Kur Farkı Faturası](https://mdpgroup.com/cozumler/sap-kur-farki-faturasi/)
+        *   [Fiori e-Hesap Özeti](https://mdpgroup.com/cozumler/sap-fiori-e-hesap-ozeti/)
+        *   [Operasyon Detay Bütçeleme](https://mdpgroup.com/cozumler/operasyon-detay-butceleme/)
+        *   [Mevduat ve Döviz İşlem Portalı](https://mdpgroup.com/cozumler/sap-mevduat-ve-doviz-islemleri/)
+
+    *   [SAP e-Dönüşüm](https://mdpgroup.com/cozumler/e-donusum)
+        *   [e-Fatura](https://mdpgroup.com/cozumler/e-fatura/)
+        *   [e-Arşiv Fatura](https://mdpgroup.com/cozumler/sap-e-arsiv-fatura/)
+        *   [e-Defter](https://mdpgroup.com/cozumler/e-defter/)
+        *   [e-İrsaliye](https://mdpgroup.com/cozumler/e-irsaliye/)
+        *   [Gelen e-Fatura](https://mdpgroup.com/cozumler/sap-gelen-fatura/)
+        *   [Gelen e-Arşiv Fatura](https://mdpgroup.com/cozumler/gelen-e-arsiv/)
+        *   [E-Arşiv Fatura Görüntüleme](https://mdpgroup.com/cozumler/e-arsiv-fatura-goruntuleme/)
+        *   [Gelen e-İrsaliye](https://mdpgroup.com/cozumler/gelen-e-irsaliye/)
+        *   [e-Muhasebe Fişi](https://mdpgroup.com/cozumler/e-muhasebe-fisi/)
+        *   [Lokal e-Belge Saklama](https://mdpgroup.com/cozumler/lokal-e-belge-saklama/)
+        *   [e-Müstahsil](https://mdpgroup.com/cozumler/e-mustahsil-makbuzu/)
+        *   [e-Gider Pusulası](https://mdpgroup.com/cozumler/e-gider-pusulasi-cozumu/)
+        *   [Peppol e-Fatura](https://mdpgroup.com/cozumler/peppol-e-fatura/)
+
+    *   [SAP HR Add-Ons](https://mdpgroup.com/cozumler/gelen-e-irsaliye/#)
+        *   [Masraf Yönetimi](https://mdpgroup.com/cozumler/sap-masraf-yonetimi/)
+        *   [İzin Yönetimi](https://mdpgroup.com/cozumler/sap-izin-yonetimi/)
+        *   [Provizyon Talep Formu](https://mdpgroup.com/cozumler/sap-provizyon-talep-formu/)
+        *   [Seyahat Yönetimi](https://mdpgroup.com/cozumler/sap-seyahat-yonetimi/)
+        *   [Ücret Yönetimi](https://mdpgroup.com/cozumler/sap-ucret-yonetimi/)
+        *   [Organizasyon Şeması](https://mdpgroup.com/cozumler/sap-organizasyon-semasi/)
+        *   [SAP SuccessFactors Entegrasyonu](https://mdpgroup.com/cozumler/sap-successfactors-entegrasyonu/)
+
+    *   [SAP Portal Çözümler](https://mdpgroup.com/cozumler/gelen-e-irsaliye/#)
+        *   [JetSRM Tedarikçi Portali](https://mdpgroup.com/cozumler/jetsrm-tedarikci-portali/)
+        *   [JetBAYİ Bayi Portali](https://mdpgroup.com/cozumler/jetcrm-b2b-musteri-portali/)
+        *   [JetHR İK Yönetimi](https://mdpgroup.com/cozumler/jethr-ik-yonetimi/)
+
+    *   [Further SAP Add-Ons](https://mdpgroup.com/cozumler/gelen-e-irsaliye/#)
+        *   [MDP Firefighter](https://mdpgroup.com/cozumler/mdp-firefighter/)
+        *   [MDP Client (Fiori)](https://mdpgroup.com/cozumler/sap-custom-fiori-client/)
+        *   [Bilgi Yönetim Sistemi](https://mdpgroup.com/cozumler/bilgi-yonetim-sistemi/)
+        *   [Mobil Tahsilat](https://mdpgroup.com/cozumler/sap-mobil-tahsilat/)
+        *   [Mobil Sipariş](https://mdpgroup.com/cozumler/sap-mobil-siparis/)
+        *   [İleti Yönetim Sistemi (İYS) Entegrasyonu](https://mdpgroup.com/cozumler/ileti-yonetim-sistemi-entegrasyonu/)
+        *   [U-ETDS Entegrasyonu](https://mdpgroup.com/cozumler/sap-u-etds-cozumu/)
+        *   [Kargo Entegrasyonu](https://mdpgroup.com/sap-kargo-entegrasyonu/)
+
+    *   [Non-SAP Çözümler](https://mdpgroup.com/cozumler/gelen-e-irsaliye/#)
+        *   [MIP – Entegrasyon Yazılımı](https://mdpgroup.com/cozumler/mip-entegrasyon-yazilimi/)
+        *   [JetLM Lojistik Yönetimi](https://mdpgroup.com/cozumler/jetlm-lojistik-yonetimi/)
+        *   [Sürekli İyileştirme](https://mdpgroup.com/cozumler/surekli-iyilestirme-cozumu/)
+        *   [Öneri Sistemi](https://mdpgroup.com/cozumler/oneri-sistemi/)
+        *   [Dijital 5S](https://mdpgroup.com/cozumler/dijital-5s-cozumu/)
+        *   [Kaizen Yazılımı](https://mdpgroup.com/cozumler/kaizen-yazilimi/)
+
+*   [Danışmanlık](https://mdpgroup.com/danismanlik/)
+    
+
+    *   [SAP EWM](https://mdpgroup.com/danismanlik/sap-ewm/)
+    *   [SAP PI/PO](https://mdpgroup.com/danismanlik/sap-pi-po/)
+    *   [SAP Integration Suite](https://mdpgroup.com/danismanlik/sap-integration-suite/)
+    *   [SAP ABAP](https://mdpgroup.com/danismanlik/sap-abap/)
+    *   [SAP Fiori](https://mdpgroup.com/danismanlik/sap-fiori/)
+    *   [SAP EDI](https://mdpgroup.com/danismanlik/sap-edi/)
+    *   [SAP Signavio](https://mdpgroup.com/danismanlik/sap-signavio/)
+    *   [SAP TM](https://mdpgroup.com/danismanlik/sap-transportation-management-tm/)
+    *   [SAP GTS](https://mdpgroup.com/danismanlik/sap-gts/)
+    *   [SAP MFS](https://mdpgroup.com/danismanlik/sap-mfs/)
+    *   [Azure Entegrasyonu](https://mdpgroup.com/azure-integration-services-cozumleri/)
+
+*   [Yapay Zeka](https://mdpgroup.com/yapay-zeka/)
+*   [Blog](https://mdpgroup.com/blog/)
+*   [İçerikler](https://mdpgroup.com/cozumler/gelen-e-irsaliye/#)
+    
+
+    *   [Etkinlikler](https://mdpgroup.com/etkinlikler/)
+    *   [Katalog](https://mdpgroup.com/katalog/)
+    *   [E-Kitap](https://mdpgroup.com/e-kitap/)
+    *   [Başarı Hikayeleri](https://mdpgroup.com/basari-hikayeleri/)
+    *   [Bizden Haberler](https://mdpgroup.com/bizden-haberler/)
+
+*   [Referanslar](https://mdpgroup.com/referanslar/)
+*   [İletişim](https://mdpgroup.com/iletisim/)
+
+*   [![Image 3: English](blob:http://localhost/d883beb4362fe84660fab16ca0c3a516)](https://mdpgroup.com/en/solutions/sap-incoming-invoice/)
+*   [![Image 4: Türkçe](blob:http://localhost/7c24eb4a3e18324906b4e0adc59e084e)](https://mdpgroup.com/cozumler/gelen-e-irsaliye/)
+*   [![Image 5: Deutsch](blob:http://localhost/f7175783fb143a77de78739839c9b35f)](https://mdpgroup.com/de/)
+
+*   [Kurumsal](https://mdpgroup.com/cozumler/gelen-e-irsaliye/#)
+    *   [](javascript:;)
+    *   [Hakkımızda](https://mdpgroup.com/kurumsal/)
+    *   [Başarı Hikayeleri](https://mdpgroup.com/basari-hikayeleri/)
+    *   [MDP Akademi](https://mdpgroup.com/mdp-akademi/)
+    *   [Politikalarımız](https://mdpgroup.com/politikalarimiz/)
+    *   [Kariyer](https://mdpgroup.com/?page_id=9)
+    *   [Kariyer Fırsatları](https://mdpgroup.com/kariyer-firsatlari/)
+
+*   [Çözümler](https://mdpgroup.com/cozumler/gelen-e-irsaliye/#)
+    *   [](javascript:;)
+    *   [Mevduat ve Döviz İşlem Portali](https://mdpgroup.com/cozumler/sap-mevduat-ve-doviz-islemleri/)
+    *   [Doğrudan Borçlandırma Sistemi](https://mdpgroup.com/cozumler/sap-dogrudan-borclandirma/)
+    *   [e-Hesap Özeti](https://mdpgroup.com/cozumler/sap-ekstre-hesap-ozeti/)
+    *   [Sanal Pos Entegrasyonu & Muhasebeleştirme](https://mdpgroup.com/cozumler/sap-sanal-pos-entegrasyonu-muhasebelestirme/)
+    *   [e-Ödeme](https://mdpgroup.com/cozumler/sap-e-odeme/)
+    *   [e-Arşiv Fatura](https://mdpgroup.com/cozumler/sap-e-arsiv-fatura/)
+    *   [e-Defter](https://mdpgroup.com/cozumler/e-defter/)
+    *   [e-Defter Saklama](https://mdpgroup.com/cozumler/e-defter-saklama/)
+    *   [e-Fatura](https://mdpgroup.com/cozumler/e-fatura/)
+    *   [e-İrsaliye](https://mdpgroup.com/cozumler/e-irsaliye/)
+    *   [Gelen e-Fatura](https://mdpgroup.com/cozumler/sap-gelen-fatura/)
+    *   [e-Mutabakat](https://mdpgroup.com/cozumler/e-mutabakat/)
+    *   [e-Beyanname](https://mdpgroup.com/cozumler/mdp-sap-e-beyanname/)
+    *   [Ekstre Karşılaştırma](https://mdpgroup.com/cozumler/ekstre-karsilastirma/)
+    *   [Gelen e-Arşiv Fatura](https://mdpgroup.com/cozumler/gelen-e-arsiv/)
+    *   [E-Arşiv Fatura Görüntüleme](https://mdpgroup.com/cozumler/e-arsiv-fatura-goruntuleme/)
+    *   [Lokal e-Belge Saklama](https://mdpgroup.com/cozumler/lokal-e-belge-saklama/)
+    *   [Gelen e-İrsaliye Çözümü](https://mdpgroup.com/cozumler/gelen-e-irsaliye/)
+    *   [e-Muhasebe Fişi](https://mdpgroup.com/cozumler/e-muhasebe-fisi/)
+    *   [e-Müstahsil](https://mdpgroup.com/cozumler/e-mustahsil-makbuzu/)
+    *   [Dijital Gider Pusulası](https://mdpgroup.com/cozumler/e-gider-pusulasi-cozumu/)
+    *   [İzin Yönetimi](https://mdpgroup.com/cozumler/sap-izin-yonetimi/)
+    *   [Seyahat Yönetimi](https://mdpgroup.com/cozumler/sap-seyahat-yonetimi/)
+    *   [Organizasyon Şeması](https://mdpgroup.com/cozumler/sap-organizasyon-semasi/)
+    *   [Ücret Yönetimi](https://mdpgroup.com/cozumler/sap-ucret-yonetimi/)
+    *   [Masraf Yönetimi](https://mdpgroup.com/cozumler/sap-masraf-yonetimi/)
+    *   [Provizyon Talep Formu](https://mdpgroup.com/cozumler/sap-provizyon-talep-formu/)
+    *   [SAP SuccessFactors Entegrasyonu](https://mdpgroup.com/cozumler/sap-successfactors-entegrasyonu/)
+    *   [Sürekli İyileştirme](https://mdpgroup.com/cozumler/surekli-iyilestirme-cozumu/)
+    *   [MIP – Entegrasyon Yazılımı](https://mdpgroup.com/cozumler/mip-entegrasyon-yazilimi/)
+    *   [Öneri Sistemi](https://mdpgroup.com/cozumler/oneri-sistemi/)
+    *   [Dijital 5S](https://mdpgroup.com/cozumler/dijital-5s-cozumu/)
+    *   [Kaizen Yazılımı](https://mdpgroup.com/cozumler/kaizen-yazilimi/)
+    *   [İSG Uygulaması](https://mdpgroup.com/cozumler/sap-isg-uygulamasi/)
+    *   [Custom MDM](https://mdpgroup.com/cozumler/sap-custom-mdm/)
+    *   [U-ETDS](https://mdpgroup.com/cozumler/sap-u-etds-cozumu/)
+    *   [Bilgi Yönetimi](https://mdpgroup.com/cozumler/bilgi-yonetim-sistemi/)
+    *   [JetSRM Tedarikçi Portali](https://mdpgroup.com/cozumler/jetsrm-tedarikci-portali/)
+    *   [MDP SAP Yapay Zeka Asistanı](https://mdpgroup.com/?page_id=18079)
+    *   [JetBAYİ Bayi Portalı](https://mdpgroup.com/cozumler/jetcrm-b2b-musteri-portali/)
+    *   [MDP Firefighter](https://mdpgroup.com/cozumler/mdp-firefighter/)
+    *   [SAP & Kargo Entegrasyonu](https://mdpgroup.com/sap-kargo-entegrasyonu/)
+    *   [Mobil Tahsilat](https://mdpgroup.com/cozumler/sap-mobil-tahsilat/)
+    *   [Pre-packaged Mappings EDIFACT](https://mdpgroup.com/cozumler/pre-packaged-mappings-edifact/)
+    *   [Pre-packaged Mappings ANSI X12](https://mdpgroup.com/cozumler/pre-packaged-mappings-ansi-x12/)
+    *   [Pre-packaged Mappings VDA](https://mdpgroup.com/cozumler/pre-packaged-mappings-vda/)
+
+*   [Danışmanlık](https://mdpgroup.com/cozumler/gelen-e-irsaliye/#)
+    *   [](javascript:;)
+    *   [SAP EWM](https://mdpgroup.com/danismanlik/sap-ewm/)
+    *   [SAP PI/PO](https://mdpgroup.com/danismanlik/sap-pi-po/)
+    *   [SAP Integration Suite](https://mdpgroup.com/danismanlik/sap-integration-suite/)
+    *   [SAP ABAP](https://mdpgroup.com/danismanlik/sap-abap/)
+    *   [SAP Fiori](https://mdpgroup.com/danismanlik/sap-fiori/)
+    *   [SAP AIF](https://mdpgroup.com/danismanlik/sap-aif/)
+    *   [SAP EDI](https://mdpgroup.com/danismanlik/sap-edi/)
+    *   [SAP MII](https://mdpgroup.com/danismanlik/sap-mii/)
+    *   [Yapay Zeka](https://mdpgroup.com/yapay-zeka/)
+    *   [SAP Ariba](https://mdpgroup.com/?page_id=10701)
+    *   [SAP Signavio](https://mdpgroup.com/danismanlik/sap-signavio/)
+    *   [SAP MFS](https://mdpgroup.com/danismanlik/sap-mfs/)
+    *   [WMS](https://mdpgroup.com/danismanlik/depo-yonetim-sistemi-wms/)
+    *   [.NET Yazılım Geliştirme](https://mdpgroup.com/dotnet-yazilim-gelistirme/)
+
+*   [Kurumsal Yapay Zeka Danışmanlığı](https://mdpgroup.com/yapay-zeka/)
+*   [Blog](https://mdpgroup.com/blog/)
+*   [Etkinlikler](https://mdpgroup.com/etkinlikler/)
+*   [Bizden Haberler](https://mdpgroup.com/bizden-haberler/)
+*   [Katalog](https://mdpgroup.com/katalog/)
+*   [Referanslar](https://mdpgroup.com/referanslar/)
+*   [İletişim](https://mdpgroup.com/iletisim/)
+
+# Gelen e-İrsaliye Çözümü
+
+## Gelen e-İrsaliye Çözümü Nedir?
+
+Gelen e-İrsaliye çözümü SAP kullanan ve e-İrsaliye süreçleri bulunan mükellefler için geliştirilmiştir. Bu çözüm, işletmelerin adına düzenlenen e-İrsaliyelerin**otomatik olarak SAP sistemlerine aktarılmasını ve SAP içerisindeki mal girişlerinin yapılmasını sağlar.** Gelen e-İrsaliyelerin takibi hızlı ve kolay bir şekilde SAP raporları üzerinden gerçekleşir. Çözümün genel özellikleri arasında gelen e-İrsaliyeler için bildirim alma seçeneği, e-İrsaliyelere onay veya ret yanıtı verme yer almaktadır.
+
+![Image 6: Gelen e-İrsaliye Çözümü](https://mdpgroup.com/wp-content/uploads/2022/11/gelen-e-irsaliye1-e1668423814948-320x160.png%20320w)
+
+## Gelen e-İrsaliye Çözümünün Avantajları
+
+*   SAP ile %100 entegre çalışır
+*   Gelen e-İrsaliyeler otomatik olarak arşivlenir.
+*   Gelen e-İrsaliyeler gün, hafta ve aya göre filtrelenebilir.
+*   Gelen e-İrsaliyeler için bildirim oluşturulur.
+*   Gelen e-İrsaliyelerin içeriğindeki mallar için SAP sisteminde otomatik mal girişi gerçekleşir.
+*   Operasyonel iş yükünü ve maliyeti minimize eder.
+*   Onay yapısına uygun bir süreç tasarlanır.
+*   İrsaliye ve mal kaybı ihtimalini ortadan kaldırır.
+
+## Gelen e-İrsaliye Çözümü
+
+**Bizimle İletişime Geçebilirsiniz!**
+
+2013'den bu yana 5 kıtada 450’den fazla iş ortağımız ile birlikte 1100’den fazla projeyi başarıyla hayata geçirdik. Çözüm ve danışmanlık hizmetlerimiz hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+*   [](https://www.facebook.com/digitalmdp/)
+*   [](http://www.instagram.com/digitalmdp)
+*   [](https://twitter.com/digitalmdp)
+*   [](https://www.linkedin.com/company/digitalmdp)
+*   [](https://open.spotify.com/show/3rgNqEflTRpStgCqZINSgY?si=92f04e141c264816)
+
+![Image 8: MDP Group](https://mdpgroup.com/wp-content/themes/mdpgroup/assets/img/logo.svg)
+
+*   [Referanslar](https://mdpgroup.com/referanslar/)
+*   [Hakkımızda](https://mdpgroup.com/kurumsal/)
+*   [Geri Bildirim](https://mdpgroup.com/sikayet-geri-bildirim-ve-tesekkur/)
+*   [SAP Destek](https://mdpgroup.com/sap-destek-hizmetleri/)
+*   [Yazılım Geliştirme](https://mdpgroup.com/yazilim-gelistirme-hizmetleri/)
+*   [Blog](https://mdpgroup.com/blog/)
+*   [KVKK](https://mdpgroup.com/kvkk/)
+*   [İletişim](https://mdpgroup.com/iletisim/)
+*   [Kariyer](https://mdpgroup.com/?page_id=9)
+
+**E-Posta:**[info@mdpgroup.com](mailto:info@mdpgrup.com)
+
+**İstanbul Ofis**
+
+ Bayar Cd. Ş.M.F.Öngül Sk. No:3 Kadıköy
+
+ Türkiye
+
+**Zürih Ofis**
+
+ MDP Group AG Rosstrasse 53 8832 Wollerau
+
+ İsviçre
+
+ © 2026 MDP GROUP
+
+![Image 9: Peppol](https://mdpgroup.com/wp-content/uploads/2025/04/PEPPOL_WHITE.png.webp)![Image 10: SAP](https://mdpgroup.com/wp-content/uploads/2025/04/SAP_white.png.webp)![Image 11: Great Place to Work](https://mdpgroup.com/wp-content/uploads/2025/04/Great_to_place_work_white-1-1.png.webp)![Image 12: ISO](https://mdpgroup.com/wp-content/uploads/2025/04/ISO_WHITE.png.webp)![Image 13: ISO 9001](https://mdpgroup.com/wp-content/uploads/2025/04/ISO_9001_WHITE.png.webp)![Image 14: EcoVadis](https://mdpgroup.com/wp-content/uploads/2025/04/ECOVADIS_WHITE.png.webp)
+
+Mailiniz başarıyla gönderilmiştir en kısa sürede sizinle iletişime geçilecektir.
+
+Mesajınız ulaştırılamadı! Lütfen daha sonra tekrar deneyin.
+
+
+
+Title: SAP ile Entegre e-Muhasebe Fişi Çözümü | MDP Group
+
+URL Source: https://mdpgroup.com/cozumler/e-muhasebe-fisi/
+
+Markdown Content:
+[![Image 1: MDP Group](https://mdpgroup.com/wp-content/uploads/2020/03/l.png.webp)](https://mdpgroup.com/ "MDP Group")
+
+## SAP Sisteminizle Uyumlu e-Muhasebe Fişi Çözümü
+
+MDP Group olarak SAP kullanıcıları için e-Muhasebe Fişi çözümü sunuyoruz. Bu çözüm, SAP'de oluşturulan belgelerin GİB regülasyonlarına uygun formatta otomatik olarak hazırlanmasını sağlar. Tahsil, tediye/ödeme ve mahsup fişi oluşturma, imzalama ve saklama sürecinde yaşanan zaman kaybını ortadan kaldırır, hata riskini ise önemli ölçüde azaltır.
+
+![Image 2: MDP_E-Muhasebe_Web_2](https://mdpgroup.com/wp-content/uploads/2025/06/MDP_E-Muhasebe_Web_2-1412x736.png)
+
+## Neden MDP SAP e-Muhasebe Fişi Çözümü
+
+## SAP ile %100 Entegre
+
+e-Muhasebe fişlerinizi doğrudan SAP ERP sisteminiz üzerinden oluşturabilir, PDF/XML formatında indirip görüntüleyebilir, dijital olarak saklayabilir ve raporlama süreçlerinizi verimli şekilde yönetebilirsiniz.
+
+## Sistem Bağımsız
+
+Elektronik muhasebe fişi çözümümüz, sistem bağımsız bir yapıdadır. Rise, HANA, ECC gibi farklı SAP versiyonlarıyla ve farklı SAP modülleriyle tam uyumlu şekilde çalışır.
+
+## GİB Uyumlu Format Desteği
+
+Tahsil, tediye ve mahsup fişlerinizi GİB’in belirlediği formatta, dijital mali mühür ile imzalayarak arşivleyebilir, gerektiğinde ibraz edebilirsiniz.
+
+## Mevzuata Tam Uyumlu
+
+Regülasyonları sürekli takip ediyor ve yeni bir güncelleme geldiğinde eş zamanlı olarak sistemlerimizi güncelliyoruz. Yasal mevzuata uyumlu e-muhasebe fişi sunarak işletmenizin her zaman güncel, güvenli ve kesintisiz muhasebe süreçleri yürütmesini sağlıyoruz.
+
+### e-Muhasebe Fişi çözümü ile e-Muhasebe Fişlerinizin muhafazasını ve ibrazını 
+
+ek entegrasyona gerek duymadan SAP ile yönetin.
+
+## e-Muhasebe Fişi Uygulaması İçin 
+
+Neden MDP Group'u Tercih Etmelisiniz?
+
+## Satış Sonrası 7/24 Destek
+
+e-Dönüşüm çözümlerinde en önemli unsur, uzun vadeli güvenilirlik ve k esintisiz destektir. Sadece bir çözüm sunmakla kalmıyor, satış sonrasında da yanınızda oluyoruz. Uzman destek ekibimizle, karşılaşabileceğiniz her türlü ihtiyaca hızlı ve etkin çözümler sunarak iş sürekliliğinizi güvence altına alıyoruz.
+
+## Kullanıcı Dostu
+
+e-Dönüşüm yazılım çözümlerimiz, verimliliği artırmak ve kullanım kolaylığı sağlamak için kullanıcı dostu olarak tasarlandı. İş süreçlerinizi kısa sürede ve etkin bir şekilde yönetebilirsiniz.
+
+## Özel Geliştirme
+
+Her işletmenin ve sektörün kendine özgü dinamikleri olduğunun farkındayız. Bu yüzden, iş ihtiyaçlarınıza uygun e-Muhasebe Fişi çözümleri geliştiriyoruz. Süreçlerinizi optimize ederek sistemlerinizi en verimli hale getiriyor ve işleyişinizi kolaylaştırıyoruz.
+
+## SAP e-Muhasebe Fişi Çözümü Özellikleri
+
+*   Manuel veri girişi yapmanıza gerek kalmaz; e-Muhasebe Fişleriniz GİB’e uygun formatta otomatik olarak düzenlenir.
+*   e-Muhasebe Fişleri çoğunlukla dakikalar içerisinde oluşturulur (fiş yoğunluğuna göre değişkenlik gösterebilmektedir).
+*   Günlük e-Muhasebe Fişi belgeleriniz birkaç dakika içerisinde oluşturur, XML veya PDF dosyası olarak indirirsiniz.
+*   e-Muhasebe fişi arşivine SAP sisteminiz üzerinden erişebilir, elektronik ortamda ibraz edebilirsiniz.
+*   Geçmiş e-muhasebe fişlerine günlük, haftalık ve yıllık filtreleme ile hızlıca erişirsiniz.
+*   Matbu evrak çıktısı almanıza gerek kalmaz.Yazıcı, toner ve kağıt maliyetlerinden tasarruf sağlarsınız.
+
+### MDP ile iş süreçlerinizi daha kolay, hızlı ve verimli yönetmek mümkün.
+
+## Sık Sorulan Sorular
+
+### e-Muhasebe Fişi Nedir?
+
+Elektronik Muhasebe Fişi, içeriği ve yapısı Hazine ve Maliye Bakanlığı tarafından belirlenen formatta,**elektronik ortamda oluşturulmuş muhasebe fişidir**. Muhasebe işlemleri yevmiye defterine işlenmeden önce, yevmiye bilgilerini içeren e-Muhasebe Fişi, Mali Mühür ile zaman damgalı bir şekilde imzalanır. Mükellefler, e-Muhasebe Fişlerini muhafaza ve ibraz etmekle yükümlülerdir.
+
+### e-Muhasebe Fişi Çözümü Nedir?
+
+e-Muhasebe Fişi çözümü,**SAP ile %100 entegre**geliştirilmiş, kullanıcıların elektronik muhasebe fişi işlemlerini SAP sistemi üzerinden yönetebildikleri bir çözümdür. Kullanıcılar e-Muhasebe Fişlerini**SAP üzerinden oluşturabilir, gönderebilir, arşivleyebilir ve geçmiş e-Muhasebe Fişlerini görüntüleyebilirler**. Böylece SAP ile çalışan firmaların, e-Muhasebe Fişi veya e-Defter oluşturabilmeleri için, herhangi bir dosya indirmelerine, yüklemelerine, veya manuel olarak veri girmelerine gerek kalmaz
+
+Sistem, belgeleri**Hazine ve Maliye Bakanlığı tarafından istenilen formatta**,**Mali Mühür imzalı ve zaman damgalı**şekilde oluşturur ve muhafazasını sağlar.
+
+SAP kullanıcısı olmayan ancak SAP üzerinden oluşturulan e-Muhasebe fişlerini görüntülemesi gereken kişiler, Non-SAP arayüz portaline Admin kullanıcı tarafından eklenebilir. Sisteme giriş yaptıktan sonra, bu kullanıcılar kendilerine tanımlı e-Muhasebe fişlerini görüntüleyebilir ve bu fişleri zip formatında indirebilirler.
+
+### Elektronik Muhasebe Fişi Uygulaması, e-Defter Uygulamasından Farklı Bir Konu mu?
+
+Evet. Elektronik Muhasebe Fişi, Muhasebe uygulamasında kaydedilen her bir fişin, elektronik ortamda Hazine ve Maliye Bakanlığı tarafından istenilen dosya formatında elektronik imzalı ve zaman damgalı bir şekilde oluşturulması ve saklanmasıdır. E-Defter uygulaması ise, kaydedilen bu muhasebe fişlerinin farklı yapılarda tasnif edilerek, Yevmiye ve Kebir defteri şeklinde bir araya getirilmesi, beratların oluşturulması ve Hazine ve Maliye Bakanlığı sistemine gönderim süreçlerini kapsamaktadır.
+
+### e-Muhasebe Fişi Türleri Nelerdir?
+
+Temelde 3 adet muhasebe fişi bulunmaktadır:
+
+*   **Tahsil Fişi:**Tahsil fişi, bir işletmenin kasasına nakit girdilerinin nereden geldiğini ve hangi hesaba kayıt edileceğini göstermek için düzenlenen fiştir.
+*   **Tediye (Ödeme) Fişi:**Bir işletmenin kasasından nakit çıktılarının nereye, neden ödendiğini ve hangi hesaba borç olarak kayıt edileceğini göstermek için düzenlenmektedir.
+*   **Mahsup Fişi:**Kasa ile ilgili olmayan işlemler için düzenlenmektedir.
+
+### e-Muhasebe Fişi Zorunlu mu?
+
+1 Sıra No.lu Elektronik Defter Genel Tebliği 4.4.1 / (a) fıkrasına göre,
+
+_e-Defter dosyaları ve bunlara ait berat dosyaları birbirleri ile ilişkili şekilde elektronik ortamda, muhasebe fişleri ise kağıt ve/veya elektronik ortamda, istenildiğinde ibraz edilmek üzere muhafaza edilmek zorundadır._
+
+e-Defter uygulamasına tabi mükelleflerin muhasebe fişlerini kağıt ve/veya elektronik ortamda muhafaza edebilirler. E-Muhasebe Fişinin bir zorunluluğu bulunmamaktadır. Bununla beraber,Vergi Usul Kanunu'na göre mükelleflerin muhasebe kayıtlarını 10 gün içerisinde yasal defterlerine aktarmaları gerekirken, e-Muhasebe Fişi şeklinde oluşturulan defter kayıtları 45 gün içerisinde aktarılabilir.
+
+### e-Muhasebe Fişi Kağıt Olarak Muhafaza Edilir mi?
+
+Elektronik ortamda saklanması gerekli olan muhasebe fişlerinin veri bütünlüğü, zaman damgalı mali mühür ile garanti altına alındığından, kâğıt ortamda ayrıca saklanması saklanmasına gerek yoktur.
+
+### Elektronik Muhasebe Fişlerinin Mali Mühür veya NES ile İmzalanması Zorunlu mudur?
+
+Evet. Elektronik Muhasebe Fişleri;
+
+*   Defter kayıtlarının mükellefle düzenlenen aracılık ve sorumluluk sözleşmelerine istinaden serbest muhasebeci mali müşavirler tarafından gerçekleştirildiği durumlarda serbest muhasebeci mali müşavire ait NES veya Mali Mühürle,
+*   Defter kayıtlarının mükellefin kendisi veya işletmesinde istihdam ettiği serbest muhasebeci mali müşavir unvanına haiz meslek mensubu tarafından gerçekleştirildiği durumlarda ise mükellefin kendisi veya işletme bünyesinde istihdam ettiği serbest muhasebeci mali müşavire ait NES veya Mali Mühürle,
+
+ve zaman damgalı şekilde imzalanmak zorundadır.
+
+### e-Muhasebe Fişinde Zaman Damgası Olmak Zorunda mı?
+
+e-Muhasebe fişlerinin veri bütünlüğü ve güvenliği zaman damgalı mali mühür ile garanti altına alınmaktadır. Bu sebeple, mükellefler e-muhasebe fişlerini NES veya Mali Mühür kullanarak zaman damgalı olarak onaylamalıdır.
+
+### Oluşturulan e-Muhasebe Fişleri Şirket Bünyesindeki Bilgi İşlem Altyapısında Muhafaza Edilebilir mi?
+
+Evet. Elektronik Muhasebe Fişlerinizi, gerektiğinde ibraz edebilecek şekilde şirket bünyenizdeki bilgi işlem altyapınızda saklayabilir ve muhafaza edebilirsiniz.
+
+### E-Defter Kapsamında Yevmiye ve Kebir Defterlerini Elektronik Ortamda Oluşturan Firmaların, Muhasebe Fişlerini Ayrıca Kâğıt veya Elektronik Ortamda Saklamak Zorunda mıdır?
+
+Evet. 1 Sıra No.lu Elektronik Defter Genel Tebliği 4.4.1 / (a) fıkrasında e-Defter uygulamasına dahil olan mükelleflerin e-Defter ve berat dosyaları ile birlikte “Muhasebe Fişleri”ni de kağıt ve/veya elektronik ortamda muhafaza etmesinin zorunlu olduğu ifade edilmektedir.
+
+## e-Muhasebe Fişi Çözümü
+
+**Bizimle İletişime Geçebilirsiniz!**
+
+2013'den bu yana 5 kıtada 450’den fazla iş ortağımız ile birlikte 1100’den fazla projeyi başarıyla hayata geçirdik. Çözüm ve danışmanlık hizmetlerimiz hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+Mailiniz başarıyla gönderilmiştir en kısa sürede sizinle iletişime geçilecektir.
+
+Mesajınız ulaştırılamadı! Lütfen daha sonra tekrar deneyin.
+
+
+
+
+Title: Lokal e-Belge Saklama (LES) Çözümü | e-Fatura, E-Arşiv Arşivleme | MDP Group
+
+URL Source: https://mdpgroup.com/cozumler/lokal-e-belge-saklama/
+
+Markdown Content:
+# Lokal e-Belge Saklama (LES) Çözümü | e-Fatura, E-Arşiv Arşivleme | MDP Group
+
+[![Image 1: MDP Group](https://mdpgroup.com/wp-content/uploads/2020/03/l.png.webp)](https://mdpgroup.com/ "MDP Group")
+
+*   [Kurumsal](https://mdpgroup.com/kurumsal/)
+    
+
+    *   [Hakkımızda](https://mdpgroup.com/kurumsal/)
+    *   [Ar-Ge](https://mdpgroup.com/arge/)
+    *   [Başarı Hikayeleri](https://mdpgroup.com/basari-hikayeleri/)
+    *   [MDP Akademi](https://mdpgroup.com/mdp-akademi/)
+    *   [Kariyer](https://mdpgroup.com/?page_id=9)
+    *   [Kariyer Fırsatları](https://mdpgroup.com/kariyer-firsatlari/)
+    *   [Politikalarımız](https://mdpgroup.com/politikalarimiz/)
+    *   [Banka Bilgilerimiz](https://mdpgroup.com/banka-hesap-bilgilerimiz/)
+
+*   [Çözümler](https://mdpgroup.com/cozumler/lokal-e-belge-saklama/#)
+    
+
+    *   [SAP FI Add Ons](https://mdpgroup.com/cozumler/lokal-e-belge-saklama/#)
+        *   [e-Mutabakat](https://mdpgroup.com/cozumler/e-mutabakat/)
+        *   [e-Hesap Özeti](https://mdpgroup.com/cozumler/sap-ekstre-hesap-ozeti/)
+        *   [e-Beyanname](https://mdpgroup.com/cozumler/mdp-sap-e-beyanname/)
+        *   [e-Ödeme](https://mdpgroup.com/cozumler/sap-e-odeme/)
+        *   [Ekstre Karşılaştırma](https://mdpgroup.com/cozumler/ekstre-karsilastirma/)
+        *   [Sanal Pos Entegrasyonu & Muhasebeleştirme](https://mdpgroup.com/cozumler/sap-sanal-pos-entegrasyonu-muhasebelestirme/)
+        *   [Doğrudan Borçlandırma Sistemi](https://mdpgroup.com/cozumler/sap-dogrudan-borclandirma/)
+        *   [Kur Farkı Faturası](https://mdpgroup.com/cozumler/sap-kur-farki-faturasi/)
+        *   [Fiori e-Hesap Özeti](https://mdpgroup.com/cozumler/sap-fiori-e-hesap-ozeti/)
+        *   [Operasyon Detay Bütçeleme](https://mdpgroup.com/cozumler/operasyon-detay-butceleme/)
+        *   [Mevduat ve Döviz İşlem Portalı](https://mdpgroup.com/cozumler/sap-mevduat-ve-doviz-islemleri/)
+
+    *   [SAP e-Dönüşüm](https://mdpgroup.com/cozumler/e-donusum)
+        *   [e-Fatura](https://mdpgroup.com/cozumler/e-fatura/)
+        *   [e-Arşiv Fatura](https://mdpgroup.com/cozumler/sap-e-arsiv-fatura/)
+        *   [e-Defter](https://mdpgroup.com/cozumler/e-defter/)
+        *   [e-İrsaliye](https://mdpgroup.com/cozumler/e-irsaliye/)
+        *   [Gelen e-Fatura](https://mdpgroup.com/cozumler/sap-gelen-fatura/)
+        *   [Gelen e-Arşiv Fatura](https://mdpgroup.com/cozumler/gelen-e-arsiv/)
+        *   [E-Arşiv Fatura Görüntüleme](https://mdpgroup.com/cozumler/e-arsiv-fatura-goruntuleme/)
+        *   [Gelen e-İrsaliye](https://mdpgroup.com/cozumler/gelen-e-irsaliye/)
+        *   [e-Muhasebe Fişi](https://mdpgroup.com/cozumler/e-muhasebe-fisi/)
+        *   [Lokal e-Belge Saklama](https://mdpgroup.com/cozumler/lokal-e-belge-saklama/)
+        *   [e-Müstahsil](https://mdpgroup.com/cozumler/e-mustahsil-makbuzu/)
+        *   [e-Gider Pusulası](https://mdpgroup.com/cozumler/e-gider-pusulasi-cozumu/)
+        *   [Peppol e-Fatura](https://mdpgroup.com/cozumler/peppol-e-fatura/)
+
+    *   [SAP HR Add-Ons](https://mdpgroup.com/cozumler/lokal-e-belge-saklama/#)
+        *   [Masraf Yönetimi](https://mdpgroup.com/cozumler/sap-masraf-yonetimi/)
+        *   [İzin Yönetimi](https://mdpgroup.com/cozumler/sap-izin-yonetimi/)
+        *   [Provizyon Talep Formu](https://mdpgroup.com/cozumler/sap-provizyon-talep-formu/)
+        *   [Seyahat Yönetimi](https://mdpgroup.com/cozumler/sap-seyahat-yonetimi/)
+        *   [Ücret Yönetimi](https://mdpgroup.com/cozumler/sap-ucret-yonetimi/)
+        *   [Organizasyon Şeması](https://mdpgroup.com/cozumler/sap-organizasyon-semasi/)
+        *   [SAP SuccessFactors Entegrasyonu](https://mdpgroup.com/cozumler/sap-successfactors-entegrasyonu/)
+
+    *   [SAP Portal Çözümler](https://mdpgroup.com/cozumler/lokal-e-belge-saklama/#)
+        *   [JetSRM Tedarikçi Portali](https://mdpgroup.com/cozumler/jetsrm-tedarikci-portali/)
+        *   [JetBAYİ Bayi Portali](https://mdpgroup.com/cozumler/jetcrm-b2b-musteri-portali/)
+        *   [JetHR İK Yönetimi](https://mdpgroup.com/cozumler/jethr-ik-yonetimi/)
+
+    *   [Further SAP Add-Ons](https://mdpgroup.com/cozumler/lokal-e-belge-saklama/#)
+        *   [MDP Firefighter](https://mdpgroup.com/cozumler/mdp-firefighter/)
+        *   [MDP Client (Fiori)](https://mdpgroup.com/cozumler/sap-custom-fiori-client/)
+        *   [Bilgi Yönetim Sistemi](https://mdpgroup.com/cozumler/bilgi-yonetim-sistemi/)
+        *   [Mobil Tahsilat](https://mdpgroup.com/cozumler/sap-mobil-tahsilat/)
+        *   [Mobil Sipariş](https://mdpgroup.com/cozumler/sap-mobil-siparis/)
+        *   [İleti Yönetim Sistemi (İYS) Entegrasyonu](https://mdpgroup.com/cozumler/ileti-yonetim-sistemi-entegrasyonu/)
+        *   [U-ETDS Entegrasyonu](https://mdpgroup.com/cozumler/sap-u-etds-cozumu/)
+        *   [Kargo Entegrasyonu](https://mdpgroup.com/sap-kargo-entegrasyonu/)
+
+    *   [Non-SAP Çözümler](https://mdpgroup.com/cozumler/lokal-e-belge-saklama/#)
+        *   [MIP – Entegrasyon Yazılımı](https://mdpgroup.com/cozumler/mip-entegrasyon-yazilimi/)
+        *   [JetLM Lojistik Yönetimi](https://mdpgroup.com/cozumler/jetlm-lojistik-yonetimi/)
+        *   [Sürekli İyileştirme](https://mdpgroup.com/cozumler/surekli-iyilestirme-cozumu/)
+        *   [Öneri Sistemi](https://mdpgroup.com/cozumler/oneri-sistemi/)
+        *   [Dijital 5S](https://mdpgroup.com/cozumler/dijital-5s-cozumu/)
+        *   [Kaizen Yazılımı](https://mdpgroup.com/cozumler/kaizen-yazilimi/)
+
+*   [Danışmanlık](https://mdpgroup.com/danismanlik/)
+    
+
+    *   [SAP EWM](https://mdpgroup.com/danismanlik/sap-ewm/)
+    *   [SAP PI/PO](https://mdpgroup.com/danismanlik/sap-pi-po/)
+    *   [SAP Integration Suite](https://mdpgroup.com/danismanlik/sap-integration-suite/)
+    *   [SAP ABAP](https://mdpgroup.com/danismanlik/sap-abap/)
+    *   [SAP Fiori](https://mdpgroup.com/danismanlik/sap-fiori/)
+    *   [SAP EDI](https://mdpgroup.com/danismanlik/sap-edi/)
+    *   [SAP Signavio](https://mdpgroup.com/danismanlik/sap-signavio/)
+    *   [SAP TM](https://mdpgroup.com/danismanlik/sap-transportation-management-tm/)
+    *   [SAP GTS](https://mdpgroup.com/danismanlik/sap-gts/)
+    *   [SAP MFS](https://mdpgroup.com/danismanlik/sap-mfs/)
+    *   [Azure Entegrasyonu](https://mdpgroup.com/azure-integration-services-cozumleri/)
+
+*   [Yapay Zeka](https://mdpgroup.com/yapay-zeka/)
+*   [Blog](https://mdpgroup.com/blog/)
+*   [İçerikler](https://mdpgroup.com/cozumler/lokal-e-belge-saklama/#)
+    
+
+    *   [Etkinlikler](https://mdpgroup.com/etkinlikler/)
+    *   [Katalog](https://mdpgroup.com/katalog/)
+    *   [E-Kitap](https://mdpgroup.com/e-kitap/)
+    *   [Başarı Hikayeleri](https://mdpgroup.com/basari-hikayeleri/)
+    *   [Bizden Haberler](https://mdpgroup.com/bizden-haberler/)
+
+*   [Referanslar](https://mdpgroup.com/referanslar/)
+*   [İletişim](https://mdpgroup.com/iletisim/)
+
+*   [![Image 2: English](blob:http://localhost/d883beb4362fe84660fab16ca0c3a516)](https://mdpgroup.com/en/solutions/e-invoice/)
+*   [![Image 3: Türkçe](blob:http://localhost/7c24eb4a3e18324906b4e0adc59e084e)](https://mdpgroup.com/cozumler/lokal-e-belge-saklama/)
+*   [![Image 4: Deutsch](blob:http://localhost/f7175783fb143a77de78739839c9b35f)](https://mdpgroup.com/de/)
+
+*   [Kurumsal](https://mdpgroup.com/cozumler/lokal-e-belge-saklama/#)
+    *   [](javascript:;)
+    *   [Hakkımızda](https://mdpgroup.com/kurumsal/)
+    *   [Başarı Hikayeleri](https://mdpgroup.com/basari-hikayeleri/)
+    *   [MDP Akademi](https://mdpgroup.com/mdp-akademi/)
+    *   [Politikalarımız](https://mdpgroup.com/politikalarimiz/)
+    *   [Kariyer](https://mdpgroup.com/?page_id=9)
+    *   [Kariyer Fırsatları](https://mdpgroup.com/kariyer-firsatlari/)
+
+*   [Çözümler](https://mdpgroup.com/cozumler/lokal-e-belge-saklama/#)
+    *   [](javascript:;)
+    *   [Mevduat ve Döviz İşlem Portali](https://mdpgroup.com/cozumler/sap-mevduat-ve-doviz-islemleri/)
+    *   [Doğrudan Borçlandırma Sistemi](https://mdpgroup.com/cozumler/sap-dogrudan-borclandirma/)
+    *   [e-Hesap Özeti](https://mdpgroup.com/cozumler/sap-ekstre-hesap-ozeti/)
+    *   [Sanal Pos Entegrasyonu & Muhasebeleştirme](https://mdpgroup.com/cozumler/sap-sanal-pos-entegrasyonu-muhasebelestirme/)
+    *   [e-Ödeme](https://mdpgroup.com/cozumler/sap-e-odeme/)
+    *   [e-Arşiv Fatura](https://mdpgroup.com/cozumler/sap-e-arsiv-fatura/)
+    *   [e-Defter](https://mdpgroup.com/cozumler/e-defter/)
+    *   [e-Defter Saklama](https://mdpgroup.com/cozumler/e-defter-saklama/)
+    *   [e-Fatura](https://mdpgroup.com/cozumler/e-fatura/)
+    *   [e-İrsaliye](https://mdpgroup.com/cozumler/e-irsaliye/)
+    *   [Gelen e-Fatura](https://mdpgroup.com/cozumler/sap-gelen-fatura/)
+    *   [e-Mutabakat](https://mdpgroup.com/cozumler/e-mutabakat/)
+    *   [e-Beyanname](https://mdpgroup.com/cozumler/mdp-sap-e-beyanname/)
+    *   [Ekstre Karşılaştırma](https://mdpgroup.com/cozumler/ekstre-karsilastirma/)
+    *   [Gelen e-Arşiv Fatura](https://mdpgroup.com/cozumler/gelen-e-arsiv/)
+    *   [E-Arşiv Fatura Görüntüleme](https://mdpgroup.com/cozumler/e-arsiv-fatura-goruntuleme/)
+    *   [Lokal e-Belge Saklama](https://mdpgroup.com/cozumler/lokal-e-belge-saklama/)
+    *   [Gelen e-İrsaliye Çözümü](https://mdpgroup.com/cozumler/gelen-e-irsaliye/)
+    *   [e-Muhasebe Fişi](https://mdpgroup.com/cozumler/e-muhasebe-fisi/)
+    *   [e-Müstahsil](https://mdpgroup.com/cozumler/e-mustahsil-makbuzu/)
+    *   [Dijital Gider Pusulası](https://mdpgroup.com/cozumler/e-gider-pusulasi-cozumu/)
+    *   [İzin Yönetimi](https://mdpgroup.com/cozumler/sap-izin-yonetimi/)
+    *   [Seyahat Yönetimi](https://mdpgroup.com/cozumler/sap-seyahat-yonetimi/)
+    *   [Organizasyon Şeması](https://mdpgroup.com/cozumler/sap-organizasyon-semasi/)
+    *   [Ücret Yönetimi](https://mdpgroup.com/cozumler/sap-ucret-yonetimi/)
+    *   [Masraf Yönetimi](https://mdpgroup.com/cozumler/sap-masraf-yonetimi/)
+    *   [Provizyon Talep Formu](https://mdpgroup.com/cozumler/sap-provizyon-talep-formu/)
+    *   [SAP SuccessFactors Entegrasyonu](https://mdpgroup.com/cozumler/sap-successfactors-entegrasyonu/)
+    *   [Sürekli İyileştirme](https://mdpgroup.com/cozumler/surekli-iyilestirme-cozumu/)
+    *   [MIP – Entegrasyon Yazılımı](https://mdpgroup.com/cozumler/mip-entegrasyon-yazilimi/)
+    *   [Öneri Sistemi](https://mdpgroup.com/cozumler/oneri-sistemi/)
+    *   [Dijital 5S](https://mdpgroup.com/cozumler/dijital-5s-cozumu/)
+    *   [Kaizen Yazılımı](https://mdpgroup.com/cozumler/kaizen-yazilimi/)
+    *   [İSG Uygulaması](https://mdpgroup.com/cozumler/sap-isg-uygulamasi/)
+    *   [Custom MDM](https://mdpgroup.com/cozumler/sap-custom-mdm/)
+    *   [U-ETDS](https://mdpgroup.com/cozumler/sap-u-etds-cozumu/)
+    *   [Bilgi Yönetimi](https://mdpgroup.com/cozumler/bilgi-yonetim-sistemi/)
+    *   [JetSRM Tedarikçi Portali](https://mdpgroup.com/cozumler/jetsrm-tedarikci-portali/)
+    *   [MDP SAP Yapay Zeka Asistanı](https://mdpgroup.com/?page_id=18079)
+    *   [JetBAYİ Bayi Portalı](https://mdpgroup.com/cozumler/jetcrm-b2b-musteri-portali/)
+    *   [MDP Firefighter](https://mdpgroup.com/cozumler/mdp-firefighter/)
+    *   [SAP & Kargo Entegrasyonu](https://mdpgroup.com/sap-kargo-entegrasyonu/)
+    *   [Mobil Tahsilat](https://mdpgroup.com/cozumler/sap-mobil-tahsilat/)
+    *   [Pre-packaged Mappings EDIFACT](https://mdpgroup.com/cozumler/pre-packaged-mappings-edifact/)
+    *   [Pre-packaged Mappings ANSI X12](https://mdpgroup.com/cozumler/pre-packaged-mappings-ansi-x12/)
+    *   [Pre-packaged Mappings VDA](https://mdpgroup.com/cozumler/pre-packaged-mappings-vda/)
+
+*   [Danışmanlık](https://mdpgroup.com/cozumler/lokal-e-belge-saklama/#)
+    *   [](javascript:;)
+    *   [SAP EWM](https://mdpgroup.com/danismanlik/sap-ewm/)
+    *   [SAP PI/PO](https://mdpgroup.com/danismanlik/sap-pi-po/)
+    *   [SAP Integration Suite](https://mdpgroup.com/danismanlik/sap-integration-suite/)
+    *   [SAP ABAP](https://mdpgroup.com/danismanlik/sap-abap/)
+    *   [SAP Fiori](https://mdpgroup.com/danismanlik/sap-fiori/)
+    *   [SAP AIF](https://mdpgroup.com/danismanlik/sap-aif/)
+    *   [SAP EDI](https://mdpgroup.com/danismanlik/sap-edi/)
+    *   [SAP MII](https://mdpgroup.com/danismanlik/sap-mii/)
+    *   [Yapay Zeka](https://mdpgroup.com/yapay-zeka/)
+    *   [SAP Ariba](https://mdpgroup.com/?page_id=10701)
+    *   [SAP Signavio](https://mdpgroup.com/danismanlik/sap-signavio/)
+    *   [SAP MFS](https://mdpgroup.com/danismanlik/sap-mfs/)
+    *   [WMS](https://mdpgroup.com/danismanlik/depo-yonetim-sistemi-wms/)
+    *   [.NET Yazılım Geliştirme](https://mdpgroup.com/dotnet-yazilim-gelistirme/)
+
+*   [Kurumsal Yapay Zeka Danışmanlığı](https://mdpgroup.com/yapay-zeka/)
+*   [Blog](https://mdpgroup.com/blog/)
+*   [Etkinlikler](https://mdpgroup.com/etkinlikler/)
+*   [Bizden Haberler](https://mdpgroup.com/bizden-haberler/)
+*   [Katalog](https://mdpgroup.com/katalog/)
+*   [Referanslar](https://mdpgroup.com/referanslar/)
+*   [İletişim](https://mdpgroup.com/iletisim/)
+
+# Lokal e-Belge Saklama Çözümü
+
+## LES ile Tanışın: 
+
+e-Belgelerinizi Tek Platformda Güvenle Saklayın, Kolayca Erişin!
+
+Lokal e-Belge Saklama Çözümü (LES) ile e-Fatura, e-Defter ve diğer e-belgelerinizi kendi sunucularınızda güvenle saklayın, kolayca yönetin ve ihtiyaç anında kolayca görüntüleyin.
+
+## e-Belge Saklama Çözümüne Kimler İhtiyaç Duyar?
+
+## 1. Entegratör Değişikliği Yapan Firmalar
+
+Lokal e-Belge Saklama Çözümü, entegratör değişikliği durumunda yaşanan e-Belge aktarım problemini ortadan kaldırmaktadır. Eski entegratördeki belgelerinizi fiziksel bir diskten kolayca LES'e aktarabilirsiniz. Fiziksel diske kıyasla LES ile belgeleriniz güvenli ve erişilebilir olarak saklayabilirsiniz.
+
+## 2. e-Belge Dönüşümünde 10 Yılı Dolduran Firmalar
+
+Özel entegratörler, e-Belgeleri 10 yıl süre ile arşivlemektedir ve bu sürenin sonunda e-belgeleri kendi sistemlerinden silmektedir. e-Belgeye geçiş tarihi 10 seneyi aşan firmaların e-Belgelerini saklamaya devam etmek için bir aksiyon alması gerekmektedir.
+
+## 3. Birden Fazla Entegratör ile Çalışan Firmalar
+
+Eğer bir firma e-Belge süreçlerinde birden fazla entegratörle çalışıyorsa e-Belgelerini tek bir yerde arşivleme ihtiyacı duyar. Bu durumda firmalar, birlikte çalıştığı entegratörlerdeki e-Belgelerini LES'e aktararak tüm e-Belgelerini merkezi olarak arşivleyebilirler.
+
+### e-Belgelerinizi Lokal e-Belge Saklama çözümü ile süresiz olarak arşivleyebilir ve gerektiğinde 
+
+bu belgelere kolayca ulaşabilirsiniz.
+
+[Uzmanla Görüş](https://mdpgroup.com/iletisim/)
+
+## e-Belge Saklama Çözümünün Özellikleri
+
+## Tüm e-Belgeler Tek Platformda
+
+e-Fatura, e-Defter ve diğer e-Belgelerinizi tek bir çatı altında toplayabilir ve yönetebilirsiniz.
+
+## PDF ve XML Formatında Görüntüleme
+
+PDF ve XML formatındaki belgelerinizi kolayca indirip görüntüleyebilirsiniz.
+
+## Rol Bazlı Yetkilendirme
+
+Çoklu şirket yapılarında kullanıcı rolleri tanımlanabilir:
+
+*   **Finans ekipleri** yalnızca kendi şirketinin belgelerine erişir.
+*   **Üst düzey yöneticiler** tüm şirketlerin belgelerine erişip raporlar oluşturabilir.
+
+## Analitik Raporlama
+
+Finansal süreçlerinizi daha net görebilmeniz için raporlar oluşturabilirsiniz.
+
+## Toplu İndirme ve Dışa Aktarım
+
+İhtiyacınız olan belgeleri tek tek değil, toplu şekilde dışa aktarabilirsiniz.
+
+## Filtreleme
+
+Akıllı filtreleme özelliğiyle ihtiyacınız olan belgeye saniyeler içinde ulaşabilirsiniz.
+
+## e-Belge Saklama Süreçlerinizde Güvenilir Çözüm Ortağınız: MDP Group
+
+## Özel Geliştirme
+
+Saklamak istediğiniz e-Belge türüne göre çözümümüzü özelleştirebilir, ihtiyaçlarınıza tam uyum sağlayacak şekilde yapılandırabiliriz.
+
+## Hızlı Destek
+
+LES kullanıcıları, karşılaştıkları teknik sorunlarda ya da yeni ihtiyaçlarında uzman destek ekibimizle doğrudan iletişime geçerek hızlı ve profesyonel çözümler alabilir.
+
+## Kanıtlanmış Tecrübe
+
+Perakendeden sanayiye, enerjiden üretime kadar farklı sektörlerde edindiğimiz saha tecrübesi sayesinde, her işletmenin kendine özgü ihtiyaçlarını anlayarak uyarlanabilir ve sektöre özel çözümler geliştiriyoruz.
+
+## e-Belge Arşivlemenin Avantajları
+
+*   e-Belgelerin kaybolma riskini ortadan kaldırır.
+*   e-Belgeler süresiz olarak arşivlenir.
+*   İhtiyaç anında e-Belgelere kolayca ulaşılır.
+*   e-Belgeler, firmanın kendine ait sunucusunda saklanır.
+*   Entegratör bağımsız çalışır.
+*   Çoklu şirket kodu ve yetkilendirme seçeneklerine sahiptir.
+
+## e-Belge Arşivleme Hakkında Sıkça Sorulan Sorular
+
+### Lokal e-Belge Saklama Çözümü Nedir?
+
+Lokal e-Belge Saklama Çözümü (LES), işletmelerin e-Fatura, e-Defter ve diğer e-Belgelerini kendi sunucularında saklayabildiği, raporlayabildiği ve ihtiyaç anında kolayca görüntüleyebildiği bir dijital arşivleme çözümüdür.
+
+### Lokal e-Belge Saklama Çözümü Nasıl Çalışır?
+
+Lokal e-Belge Saklama Çözümü, firmaların kendi sunucularında entegratör bağımsız şekilde çalışan bir web programıdır. Firmalar, birlikte çalıştığı özel entegratörden aldıkları e-Belge kayıtlarını kendi LES sistemlerine yükleyebilmektedir.
+
+Firmalar, ihtiyaç anında LES programı içerisinde filtre ve arama fonksiyonlarını kullanarak geçmiş e-Belgelerine erişebilmekte ve PDF indirebilmektedir.
+
+### e-Belge Saklama Çözümü (LES) ile Masraf Fişlerini Saklayabilir miyiz?
+
+Evet, elektronik ortamda düzenlenen masraf fişlerini LES ile saklayabilirsiniz. İşletmeler, LES ile hangi e-belgelerini saklamak isterse, ona göre üründe geliştirmeler yapabiliriz. Önemli olan belgenin elektronik ortamda düzenlenmesidir.
+
+### e-Fatura Kaç Yıl Saklanır?
+
+Vergi Usul Kanunu’na göre 5 yıl, Türk Ticaret Kanunu’na göre ise 10 yıl boyunca vergi mükellefleri elektronik ortamda düzenlediği e-belgelerini saklaması zorunludur.
+
+### e-Defter Saklama Süresi Ne Kadar?
+
+e-Defter kullanıcıları, 10 yıl boyunca belgeleri saklamakla yükümlüdür.
+
+## Lokal e-Belge Saklama Çözümü
+
+**Bizimle İletişime Geçebilirsiniz!**
+
+2013'den bu yana 5 kıtada 450’den fazla iş ortağımız ile birlikte 1100’den fazla projeyi başarıyla hayata geçirdik. Çözüm ve danışmanlık hizmetlerimiz hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+*   [](https://www.facebook.com/digitalmdp/)
+*   [](http://www.instagram.com/digitalmdp)
+*   [](https://twitter.com/digitalmdp)
+*   [](https://www.linkedin.com/company/digitalmdp)
+*   [](https://open.spotify.com/show/3rgNqEflTRpStgCqZINSgY?si=92f04e141c264816)
+
+![Image 5: MDP Group](https://mdpgroup.com/wp-content/themes/mdpgroup/assets/img/logo.svg)
+
+*   [Referanslar](https://mdpgroup.com/referanslar/)
+*   [Hakkımızda](https://mdpgroup.com/kurumsal/)
+*   [Geri Bildirim](https://mdpgroup.com/sikayet-geri-bildirim-ve-tesekkur/)
+*   [SAP Destek](https://mdpgroup.com/sap-destek-hizmetleri/)
+*   [Yazılım Geliştirme](https://mdpgroup.com/yazilim-gelistirme-hizmetleri/)
+*   [Blog](https://mdpgroup.com/blog/)
+*   [KVKK](https://mdpgroup.com/kvkk/)
+*   [İletişim](https://mdpgroup.com/iletisim/)
+*   [Kariyer](https://mdpgroup.com/?page_id=9)
+
+**E-Posta:**[info@mdpgroup.com](mailto:info@mdpgrup.com)
+
+**İstanbul Ofis**
+
+ Bayar Cd. Ş.M.F.Öngül Sk. No:3 Kadıköy
+
+ Türkiye
+
+**Zürih Ofis**
+
+ MDP Group AG Rosstrasse 53 8832 Wollerau
+
+ İsviçre
+
+ © 2026 MDP GROUP
+
+![Image 6: Peppol](https://mdpgroup.com/wp-content/uploads/2025/04/PEPPOL_WHITE.png.webp)![Image 7: SAP](https://mdpgroup.com/wp-content/uploads/2025/04/SAP_white.png.webp)![Image 8: Great Place to Work](https://mdpgroup.com/wp-content/uploads/2025/04/Great_to_place_work_white-1-1.png.webp)![Image 9: ISO](https://mdpgroup.com/wp-content/uploads/2025/04/ISO_WHITE.png.webp)![Image 10: ISO 9001](https://mdpgroup.com/wp-content/uploads/2025/04/ISO_9001_WHITE.png.webp)![Image 11: EcoVadis](https://mdpgroup.com/wp-content/uploads/2025/04/ECOVADIS_WHITE.png.webp)
+
+Mailiniz başarıyla gönderilmiştir en kısa sürede sizinle iletişime geçilecektir.
+
+Mesajınız ulaştırılamadı! Lütfen daha sonra tekrar deneyin.
+
+
+
+Title: SAP e-Müstahsil Makbuzu | MDP Group
+
+URL Source: https://mdpgroup.com/cozumler/e-mustahsil-makbuzu/
+
+Markdown Content:
+[![Image 1: MDP Group](https://mdpgroup.com/wp-content/uploads/2020/03/l.png.webp)](https://mdpgroup.com/ "MDP Group")
+
+## SAP ile Uyumlu e-Müstahsil Makbuzu Çözümünüz Hazır!
+
+Çiftçilerle yapılan alımlar artık çok daha hızlı, yasalara tam uyumlu ve dijital. SAP sisteminizle entegre çalışan e-Müstahsil çözümümüzle tüm süreci kolaylaştırın.
+
+## Neden MDP SAP e-Müstahsil Makbuzu Çözümü
+
+## SAP ile Tam Entegre 
+
+e-Müstahsil Makbuzu
+
+SAP kullanıcıları için geliştirilen e müstahsil makbuzu çözümü, başka hiçbir ek sisteme ihtiyaç duymadan doğrudan SAP üzerinden e-MM oluşturma, gönderme ve yönetme imkânı sunar. Tüm süreçler SAP'nin kendi yapısı içinde entegre şekilde çalışır.
+
+## GİB Formatına Uyumlu
+
+Çözümümüz, Gelir İdaresi Başkanlığı’nın (GİB) belirlediği e-Müstahsil makbuzu formatına tam uyumludur. Bu sayede elektronik makbuzlarınız sorunsuz şekilde oluşturulur ve yasal geçerlilik kazanır.
+
+## Sistem Bağımsız
+
+Farklı SAP ERP versiyonlarında uyumlu şekilde çalışır. İster SAP S/4HANA ister ECC ister farklı bir sistem kullanın, e-müstahsil çözümü sisteminize tam uyum sağlar.
+
+## İş Süreçlerine Özgü Geliştirme
+
+Sadece standart süreçleri değil, firmanıza özel operasyonel ihtiyaçları da karşılayacak şekilde esnek yapıdadır. e-Müstahsil makbuzu işlemleri iş akışlarınıza entegre edilerek özelleştirilebilir.
+
+## Entegratör Bağımsız
+
+SAP üzerindeki çözüm paketimizin esnek yapısı sayesinde, özel entegratör değişikliği gibi ihtiyaçlar basit uyarlamalarla hızlı ve sorunsuz şekilde gerçekleştirilebilir.
+
+## Mevzuata Uyumlu
+
+Sürekli güncellenen mevzuatlara tam uyum sağlayacak şekilde tasarlanmış olan çözümümüz sayesinde, e-Müstahsil süreçleriniz her zaman yasal gerekliliklere uygun kalır.
+
+### İş süreçlerinizi sadeleştirin, SAP uyumlu e-Müstahsil çözümümüzle dijitalleşin.
+
+## Referanslarımız
+
+## e-Müstahsil Makbuzu Süreçlerinizde Güvenilir İş Ortağınız: MDP Group
+
+## Hızlı Destek
+
+Uzman SAP e-Dönüşüm ekibimizle teknik destek taleplerinize en kısa sürede çözüm sunuyor, operasyonlarınızın kesintisiz devam etmesini sağlıyoruz.
+
+## Kanıtlanmış Tecrübe
+
+Farklı sektörlerdeki SAP projelerinden edindiğimiz bilgi birikimiyle, e-Müstahsil süreçlerinizi güvenle dijitalleştiriyoruz.
+
+## Hızlı Kurulum
+
+SAP uyumlu yapısı sayesinde çözümümüz, mevcut sisteminize minimum müdahale ile kısa sürede entegre edilir ve kullanıma hazır hale gelir.
+
+## SAP e-Müstahsil Makbuzu Size Ne Fayda Sağlar?
+
+*   GİB’in belirttiği standartlara uygun, elektronik ortamda müstahsil makbuzu oluşturursunuz.
+
+*   e-Müstahsil makbuzlarınızı tamamen SAP üzerinden yönetirsiniz.
+
+*   Belgelerinizi göndermeden önizleme yapabilir, kontrol edebilir varsa hataları düzeltebilirsiniz.
+
+*   Tek tek veya toplu olarak e-müstahsil makbuzlarını gönderebilirsiniz.
+
+*   E-müstahsil makbuzlarını gönderdikten sonra takibini yapabilirsiniz, hatalı gönderimlerde hata detaylarını inceleyebilirsiniz.
+
+*   Eski elektronik müstahsil makbuzlarına hızlı bir şekilde ulaşabilirsiniz.
+
+*   E-müstahsil makbuzlarını PDF ve XML formatında görüntüleyebilir ve indirebilirsiniz.
+
+*   Fatura belgesi oluşturamayan çiftçiden mal satın aldığınız zaman müstahsil makbuzu oluşturarak yasal güvence sağlarsınız.
+
+*   Kâğıt kullanımını azaltan çevre dostu bir çözümdür.
+
+*   Belgelerin hazırlanma sürecinde iş yükü ve zaman tasarrufu sağlar.
+
+*   Fiziksel arşivleme maliyetlerini azaltır.
+
+*   Tüm yasal gereksinimleri karşılar.
+
+*   Üst düzey güvenlik sağlar.
+
+### SAP e-Müstahsil Makbuzu Çözümü hakkında daha fazla bilgi almak için bizimle iletişime geçin.
+
+## e-Müstahsil Çözümü Hakkında Sık Sorulan Sorular
+
+### Müstahsil Makbuzu & e-Müstahsil Makbuzu Nedir?
+
+Müstahsil makbuzu, vergi mükellefi işletmeler ile resmi olarak vergi mükellefi olmayan çiftçiler (üreticiler) arasında gerçekleşen ticari işlemlerde fatura yerine kullanılması zorunlu olan belgedir. e-Müstahsil Makbuzu, ticari işlemde malı alan firma tarafından Gelir İdaresi Başkanlığı tarafından belirlenen yükümlülüklere uygun olarak elektronik ortamda hazırlanan belgedir.
+
+Müstahsil makbuzu yükümlülüğü altındaki kuruluşlar 1 Ocak 2018 itibariyle e-Müstahsil makbuzu uygulamasına geçiş hakkına sahip olmuştur. 1 Temmuz 2018 itibariyle ise e-Müstahsil uygulamasına geçiş zorunlu hale gelmiştir.
+
+### Kimler e-Müstahsil Makbuzu Uygulamasına Geçiş Yapabilir?
+
+Gerçek usulde vergilendirmeye tabi olmayan çiftçilerden ürün satın alan, Vergi Usul Kanunu’nun 235. Maddesinde yer alan birinci ve ikinci sınıf tüccarlar, kazançları basit usulde tespit edilen üreticiler ve defter tutmak zorunda olan tüccarlar e-müstahsil makbuzu sistemine geçiş yapabilir.
+
+### SAP e-Müstahsil Çözümü Nedir?
+
+MDP tarafından geliştirilmiş e-Müstahsil çözümü, Gelir İdaresi Başkanlığı tarafından belirtilen bütün standartları ve yükümlülükleri karşılayan ve SAP sistemleri ile entegre çalışabilen bir e-Dönüşüm çözümüdür. E-Müstahsil uygulamasına geçiş sürecinde tüm ihtiyacınız olan destek MDP e-Dönüşüm hizmeti tarafından sunulur ve sorunsuz bir geçiş süreci gerçekleştirmeniz sağlanır.
+
+### e-Müstahsil Makbuzu Kimlere Zorunludur?
+
+*   e-Fatura sistemine dahil olan ve vergiye tabi olmayan üreticilerden ürün satın alan ve aldığı ürünler karşılığında müstahsil makbuzu düzenleyen kişilerin e-müstahsil uygulamasına geçmesi ve makbuzlarını elektronik ortamda düzenlemesi zorunlu hale getirilmiştir.
+*   Hal Kayıt Sistemi’ne bildirim yapma sorumluluğu olan sebze ve meyve ticareti yapan kişiler e-müstahsile geçmesi zorunludur.
+*   Son olarak, Gelir İdaresi Başkanlığı’nın (GİB) yazılı bildirim gönderdiği kişilerin de e-müstahsil makbuzu sistemine geçiş yapması zorunludur.
+
+### e-Müstahsil Makbuzunda Hangi Bilgiler Yer Almalı?
+
+*   Belgenin düzenlenme zamanı tarih, saat ve dakika olarak yazılmalıdır. Ayrıca, belge numarasına yer verilmelidir.
+*   Satın alınan ürünün cinsi, birim sayısı, tutarı, vergisi ve kesinti tutarı mutlaka yazılmalıdır.
+*   Alıcının adı-soyadı, bağlı olduğu vergi dairesi, vergi kimlik numarası (VKN) ve adresi yer almalıdır.
+*   Satıcının adı-soyadı, T.C. kimlik numarası ve ikametgah adresi yazmalıdır.
+
+Yukarıdaki bilgiler, e-müstahsil makbuzunun geçerliliğini koruyabilmesi oldukça önemlidir. Bu yüzden tüm alanlar eksiksiz ve doğru bir şekilde doldurulmalıdır.
+
+### e-Müstahsil Makbuzu Nasıl Kesilir?
+
+Elektronik ortamda düzenlenen ve e-imza ile imzalanan e-müstahsilin, en az bir adet nüshası çıktı olarak alınmalı ve nüshanın her iki taraf tarafından ıslak imza ile imzalanması gerekir. Makbuzu alan taraf yani satıcı, nüshayı kağıt olarak muhafaza etmelidir. Tüccar nüshası ise e-imzalı bir şekilde dijital ortamda makbuzu düzenleyen alıcı tarafından muhafaza edilmelidir.
+
+### e-Müstahsil Makbuzu Ne Zaman Kesilir?
+
+Çiftçilerden ürün alındığı ve alınan ürünün ödemesi yapıldığı an müstahsil makbuzunun kesilmesi gerekir.
+
+### e-Müstahsil Makbuzu Fatura Yerine Geçer mi?
+
+e-Müstahsil fatura ile aynı hukuki niteliklere sahip ticari bir belge niteliğine sahiptir. Dolayısıyla, e-müstahsil makbuzu fatura yerine geçer.
+
+### e-Müstahsil Makbuzu İptal Edilebilir mi? Nasıl İptal Edilir?
+
+Evet, iptal edebilirsiniz. MDP Group e-müstahsil makbuzu çözümünde SAP üzerinden iptal butonuyla istediğiniz makbuzu kolayca iptal edebilirsiniz.
+
+### e-Müstahsil Makbuzu İptal Süresi Ne Kadar?
+
+e-Müstahsil makbuzunun iptal etme süresi 8 iş günüdür. Bu sebeple, iptal işleminin alıcı tarafa iletilme tarihinden itibaren 8 iş günü içerisinde gerçekleştirilmesi gerekir.
+
+### e-Müstahsil Makbuzu Başvurusu Nasıl Yapılır?
+
+E-Müstahsil makbuzu sistemine katılmak için,belirli başvuru prosedürlerinin izlenmesi gerekmektedir.Bu prosedürler,e-Müstahsil makbuz başvurusunda takip edilmesi gereken adımları içerir ve e-müstahsil avantajlarından yararlanmak için gereklidir.Başvuru yöntemleri ise aşağıdaki gibidir;
+
+*   Kendi bilgi işlem sistemlerinizin, GİB sistemlerine uyumlu bir şekilde doğrudan entegrasyonunun gerçekleştirilmesi yöntemiyle
+*   Gelirler İdaresi Başkanlığı tarafından sağlanan GİB Portalı yöntemiyle
+*   Başkanlık iznine sahip özel entegratörlerin bilgi işlem sistemi yöntemiyle e-müstahsil makbuzu sistemine başvurmanız ve kullanmanız mümkündür.
+
+### e-Müstahsil Makbuzu Başvurusu Nasıl Yapılır?
+
+E-Müstahsil makbuzu sistemine katılmak için,belirli başvuru prosedürlerinin izlenmesi gerekmektedir.Bu prosedürler,e-Müstahsil makbuz başvurusunda takip edilmesi gereken adımları içerir ve e-müstahsil avantajlarından yararlanmak için gereklidir.Başvuru yöntemleri ise aşağıdaki gibidir;
+
+*   Kendi bilgi işlem sistemlerinizin, GİB sistemlerine uyumlu bir şekilde doğrudan entegrasyonunun gerçekleştirilmesi yöntemiyle
+*   Gelirler İdaresi Başkanlığı tarafından sağlanan GİB Portalı yöntemiyle
+*   Başkanlık iznine sahip özel entegratörlerin bilgi işlem sistemi yöntemiyle e-müstahsil makbuzu sistemine başvurmanız ve kullanmanız mümkündür.
+
+## e-Müstahsil Çözümü
+
+**Bizimle İletişime Geçebilirsiniz!**
+
+2013'den bu yana 5 kıtada 450’den fazla iş ortağımız ile birlikte 1100’den fazla projeyi başarıyla hayata geçirdik. Çözüm ve danışmanlık hizmetlerimiz hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+Mailiniz başarıyla gönderilmiştir en kısa sürede sizinle iletişime geçilecektir.
+
+Mesajınız ulaştırılamadı! Lütfen daha sonra tekrar deneyin.
+
+
+
+Title: SAP e-Müstahsil Makbuzu | MDP Group
+
+URL Source: https://mdpgroup.com/cozumler/e-mustahsil-makbuzu/
+
+Markdown Content:
+[![Image 1: MDP Group](https://mdpgroup.com/wp-content/uploads/2020/03/l.png.webp)](https://mdpgroup.com/ "MDP Group")
+
+## SAP ile Uyumlu e-Müstahsil Makbuzu Çözümünüz Hazır!
+
+Çiftçilerle yapılan alımlar artık çok daha hızlı, yasalara tam uyumlu ve dijital. SAP sisteminizle entegre çalışan e-Müstahsil çözümümüzle tüm süreci kolaylaştırın.
+
+## Neden MDP SAP e-Müstahsil Makbuzu Çözümü
+
+## SAP ile Tam Entegre 
+
+e-Müstahsil Makbuzu
+
+SAP kullanıcıları için geliştirilen e müstahsil makbuzu çözümü, başka hiçbir ek sisteme ihtiyaç duymadan doğrudan SAP üzerinden e-MM oluşturma, gönderme ve yönetme imkânı sunar. Tüm süreçler SAP'nin kendi yapısı içinde entegre şekilde çalışır.
+
+## GİB Formatına Uyumlu
+
+Çözümümüz, Gelir İdaresi Başkanlığı’nın (GİB) belirlediği e-Müstahsil makbuzu formatına tam uyumludur. Bu sayede elektronik makbuzlarınız sorunsuz şekilde oluşturulur ve yasal geçerlilik kazanır.
+
+## Sistem Bağımsız
+
+Farklı SAP ERP versiyonlarında uyumlu şekilde çalışır. İster SAP S/4HANA ister ECC ister farklı bir sistem kullanın, e-müstahsil çözümü sisteminize tam uyum sağlar.
+
+## İş Süreçlerine Özgü Geliştirme
+
+Sadece standart süreçleri değil, firmanıza özel operasyonel ihtiyaçları da karşılayacak şekilde esnek yapıdadır. e-Müstahsil makbuzu işlemleri iş akışlarınıza entegre edilerek özelleştirilebilir.
+
+## Entegratör Bağımsız
+
+SAP üzerindeki çözüm paketimizin esnek yapısı sayesinde, özel entegratör değişikliği gibi ihtiyaçlar basit uyarlamalarla hızlı ve sorunsuz şekilde gerçekleştirilebilir.
+
+## Mevzuata Uyumlu
+
+Sürekli güncellenen mevzuatlara tam uyum sağlayacak şekilde tasarlanmış olan çözümümüz sayesinde, e-Müstahsil süreçleriniz her zaman yasal gerekliliklere uygun kalır.
+
+### İş süreçlerinizi sadeleştirin, SAP uyumlu e-Müstahsil çözümümüzle dijitalleşin.
+
+## Referanslarımız
+
+## e-Müstahsil Makbuzu Süreçlerinizde Güvenilir İş Ortağınız: MDP Group
+
+## Hızlı Destek
+
+Uzman SAP e-Dönüşüm ekibimizle teknik destek taleplerinize en kısa sürede çözüm sunuyor, operasyonlarınızın kesintisiz devam etmesini sağlıyoruz.
+
+## Kanıtlanmış Tecrübe
+
+Farklı sektörlerdeki SAP projelerinden edindiğimiz bilgi birikimiyle, e-Müstahsil süreçlerinizi güvenle dijitalleştiriyoruz.
+
+## Hızlı Kurulum
+
+SAP uyumlu yapısı sayesinde çözümümüz, mevcut sisteminize minimum müdahale ile kısa sürede entegre edilir ve kullanıma hazır hale gelir.
+
+## SAP e-Müstahsil Makbuzu Size Ne Fayda Sağlar?
+
+*   GİB’in belirttiği standartlara uygun, elektronik ortamda müstahsil makbuzu oluşturursunuz.
+
+*   e-Müstahsil makbuzlarınızı tamamen SAP üzerinden yönetirsiniz.
+
+*   Belgelerinizi göndermeden önizleme yapabilir, kontrol edebilir varsa hataları düzeltebilirsiniz.
+
+*   Tek tek veya toplu olarak e-müstahsil makbuzlarını gönderebilirsiniz.
+
+*   E-müstahsil makbuzlarını gönderdikten sonra takibini yapabilirsiniz, hatalı gönderimlerde hata detaylarını inceleyebilirsiniz.
+
+*   Eski elektronik müstahsil makbuzlarına hızlı bir şekilde ulaşabilirsiniz.
+
+*   E-müstahsil makbuzlarını PDF ve XML formatında görüntüleyebilir ve indirebilirsiniz.
+
+*   Fatura belgesi oluşturamayan çiftçiden mal satın aldığınız zaman müstahsil makbuzu oluşturarak yasal güvence sağlarsınız.
+
+*   Kâğıt kullanımını azaltan çevre dostu bir çözümdür.
+
+*   Belgelerin hazırlanma sürecinde iş yükü ve zaman tasarrufu sağlar.
+
+*   Fiziksel arşivleme maliyetlerini azaltır.
+
+*   Tüm yasal gereksinimleri karşılar.
+
+*   Üst düzey güvenlik sağlar.
+
+### SAP e-Müstahsil Makbuzu Çözümü hakkında daha fazla bilgi almak için bizimle iletişime geçin.
+
+## e-Müstahsil Çözümü Hakkında Sık Sorulan Sorular
+
+### Müstahsil Makbuzu & e-Müstahsil Makbuzu Nedir?
+
+Müstahsil makbuzu, vergi mükellefi işletmeler ile resmi olarak vergi mükellefi olmayan çiftçiler (üreticiler) arasında gerçekleşen ticari işlemlerde fatura yerine kullanılması zorunlu olan belgedir. e-Müstahsil Makbuzu, ticari işlemde malı alan firma tarafından Gelir İdaresi Başkanlığı tarafından belirlenen yükümlülüklere uygun olarak elektronik ortamda hazırlanan belgedir.
+
+Müstahsil makbuzu yükümlülüğü altındaki kuruluşlar 1 Ocak 2018 itibariyle e-Müstahsil makbuzu uygulamasına geçiş hakkına sahip olmuştur. 1 Temmuz 2018 itibariyle ise e-Müstahsil uygulamasına geçiş zorunlu hale gelmiştir.
+
+### Kimler e-Müstahsil Makbuzu Uygulamasına Geçiş Yapabilir?
+
+Gerçek usulde vergilendirmeye tabi olmayan çiftçilerden ürün satın alan, Vergi Usul Kanunu’nun 235. Maddesinde yer alan birinci ve ikinci sınıf tüccarlar, kazançları basit usulde tespit edilen üreticiler ve defter tutmak zorunda olan tüccarlar e-müstahsil makbuzu sistemine geçiş yapabilir.
+
+### SAP e-Müstahsil Çözümü Nedir?
+
+MDP tarafından geliştirilmiş e-Müstahsil çözümü, Gelir İdaresi Başkanlığı tarafından belirtilen bütün standartları ve yükümlülükleri karşılayan ve SAP sistemleri ile entegre çalışabilen bir e-Dönüşüm çözümüdür. E-Müstahsil uygulamasına geçiş sürecinde tüm ihtiyacınız olan destek MDP e-Dönüşüm hizmeti tarafından sunulur ve sorunsuz bir geçiş süreci gerçekleştirmeniz sağlanır.
+
+### e-Müstahsil Makbuzu Kimlere Zorunludur?
+
+*   e-Fatura sistemine dahil olan ve vergiye tabi olmayan üreticilerden ürün satın alan ve aldığı ürünler karşılığında müstahsil makbuzu düzenleyen kişilerin e-müstahsil uygulamasına geçmesi ve makbuzlarını elektronik ortamda düzenlemesi zorunlu hale getirilmiştir.
+*   Hal Kayıt Sistemi’ne bildirim yapma sorumluluğu olan sebze ve meyve ticareti yapan kişiler e-müstahsile geçmesi zorunludur.
+*   Son olarak, Gelir İdaresi Başkanlığı’nın (GİB) yazılı bildirim gönderdiği kişilerin de e-müstahsil makbuzu sistemine geçiş yapması zorunludur.
+
+### e-Müstahsil Makbuzunda Hangi Bilgiler Yer Almalı?
+
+*   Belgenin düzenlenme zamanı tarih, saat ve dakika olarak yazılmalıdır. Ayrıca, belge numarasına yer verilmelidir.
+*   Satın alınan ürünün cinsi, birim sayısı, tutarı, vergisi ve kesinti tutarı mutlaka yazılmalıdır.
+*   Alıcının adı-soyadı, bağlı olduğu vergi dairesi, vergi kimlik numarası (VKN) ve adresi yer almalıdır.
+*   Satıcının adı-soyadı, T.C. kimlik numarası ve ikametgah adresi yazmalıdır.
+
+Yukarıdaki bilgiler, e-müstahsil makbuzunun geçerliliğini koruyabilmesi oldukça önemlidir. Bu yüzden tüm alanlar eksiksiz ve doğru bir şekilde doldurulmalıdır.
+
+### e-Müstahsil Makbuzu Nasıl Kesilir?
+
+Elektronik ortamda düzenlenen ve e-imza ile imzalanan e-müstahsilin, en az bir adet nüshası çıktı olarak alınmalı ve nüshanın her iki taraf tarafından ıslak imza ile imzalanması gerekir. Makbuzu alan taraf yani satıcı, nüshayı kağıt olarak muhafaza etmelidir. Tüccar nüshası ise e-imzalı bir şekilde dijital ortamda makbuzu düzenleyen alıcı tarafından muhafaza edilmelidir.
+
+### e-Müstahsil Makbuzu Ne Zaman Kesilir?
+
+Çiftçilerden ürün alındığı ve alınan ürünün ödemesi yapıldığı an müstahsil makbuzunun kesilmesi gerekir.
+
+### e-Müstahsil Makbuzu Fatura Yerine Geçer mi?
+
+e-Müstahsil fatura ile aynı hukuki niteliklere sahip ticari bir belge niteliğine sahiptir. Dolayısıyla, e-müstahsil makbuzu fatura yerine geçer.
+
+### e-Müstahsil Makbuzu İptal Edilebilir mi? Nasıl İptal Edilir?
+
+Evet, iptal edebilirsiniz. MDP Group e-müstahsil makbuzu çözümünde SAP üzerinden iptal butonuyla istediğiniz makbuzu kolayca iptal edebilirsiniz.
+
+### e-Müstahsil Makbuzu İptal Süresi Ne Kadar?
+
+e-Müstahsil makbuzunun iptal etme süresi 8 iş günüdür. Bu sebeple, iptal işleminin alıcı tarafa iletilme tarihinden itibaren 8 iş günü içerisinde gerçekleştirilmesi gerekir.
+
+### e-Müstahsil Makbuzu Başvurusu Nasıl Yapılır?
+
+E-Müstahsil makbuzu sistemine katılmak için,belirli başvuru prosedürlerinin izlenmesi gerekmektedir.Bu prosedürler,e-Müstahsil makbuz başvurusunda takip edilmesi gereken adımları içerir ve e-müstahsil avantajlarından yararlanmak için gereklidir.Başvuru yöntemleri ise aşağıdaki gibidir;
+
+*   Kendi bilgi işlem sistemlerinizin, GİB sistemlerine uyumlu bir şekilde doğrudan entegrasyonunun gerçekleştirilmesi yöntemiyle
+*   Gelirler İdaresi Başkanlığı tarafından sağlanan GİB Portalı yöntemiyle
+*   Başkanlık iznine sahip özel entegratörlerin bilgi işlem sistemi yöntemiyle e-müstahsil makbuzu sistemine başvurmanız ve kullanmanız mümkündür.
+
+### e-Müstahsil Makbuzu Başvurusu Nasıl Yapılır?
+
+E-Müstahsil makbuzu sistemine katılmak için,belirli başvuru prosedürlerinin izlenmesi gerekmektedir.Bu prosedürler,e-Müstahsil makbuz başvurusunda takip edilmesi gereken adımları içerir ve e-müstahsil avantajlarından yararlanmak için gereklidir.Başvuru yöntemleri ise aşağıdaki gibidir;
+
+*   Kendi bilgi işlem sistemlerinizin, GİB sistemlerine uyumlu bir şekilde doğrudan entegrasyonunun gerçekleştirilmesi yöntemiyle
+*   Gelirler İdaresi Başkanlığı tarafından sağlanan GİB Portalı yöntemiyle
+*   Başkanlık iznine sahip özel entegratörlerin bilgi işlem sistemi yöntemiyle e-müstahsil makbuzu sistemine başvurmanız ve kullanmanız mümkündür.
+
+## e-Müstahsil Çözümü
+
+**Bizimle İletişime Geçebilirsiniz!**
+
+2013'den bu yana 5 kıtada 450’den fazla iş ortağımız ile birlikte 1100’den fazla projeyi başarıyla hayata geçirdik. Çözüm ve danışmanlık hizmetlerimiz hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+Mailiniz başarıyla gönderilmiştir en kısa sürede sizinle iletişime geçilecektir.
+
+Mesajınız ulaştırılamadı! Lütfen daha sonra tekrar deneyin.
+
+
+
+Title: Peppol e-Fatura Çözümü | MDP Group | Peppol Access Point
+
+URL Source: https://mdpgroup.com/cozumler/peppol-e-fatura/
+
+Markdown Content:
+[![Image 1: MDP Group](https://mdpgroup.com/wp-content/uploads/2020/03/l.png.webp)](https://mdpgroup.com/ "MDP Group")
+
+## MDP Group, Sertifikalı Peppol Erişim Noktası dır
+
+Peppol ağı üzerinden faturalarınızı kolay, hızlı ve güvenli bir şekilde göndermenize ve almanıza yardımcı oluyoruz.
+
+🇩🇪
+
+Peppol Uyumlu
+
+Almanya SAP e-Fatura Çözümü
+
+Almanya'daki e-fatura süreçlerinizi yasal gerekliliklere tam uyumlu hale getiriyoruz. SAP sisteminizle entegre çalışan Peppol çözümümüz sayesinde; Peppol ağ üzerinden e-faturalarınızı kolayca oluşturabilir, gönderebilir ve alabilirsiniz.
+
+🇧🇪
+
+Peppol Uyumlu
+
+Belçika SAP e-Fatura Çözümü
+
+Belçika’daki e-fatura süreçlerinizi yasal gerekliliklere tam uyumlu hale getiriyoruz. SAP sisteminizle entegre çalışan Peppol çözümümüz sayesinde; Peppol ağ üzerinden e-faturalarınızı kolayca oluşturabilir, gönderebilir ve alabilirsiniz.
+
+### SAP sisteminizden ayrılmadan Peppol ağına bağlanın!
+
+## Peppol Nedir?
+
+Peppol (Pan-European Public Procurement Online),Avrupa genelinde ve küresel olarak kamu ve özel sektörün elektronik fatura, sipariş ve diğer ticari belgeleri güvenli ve standart bir biçimde değiş tokuş etmelerini sağlayan bir standarttır. Küresel iş süreçlerini entegre ederek manuel süreçleri otomatikleştirir. İnsan kaynaklı hataların önüne geçer.
+
+### MDP Group ile e-Faturalarınızı _Peppol formatına uygun_ alın ve gönderin. 
+
+Avrupa ile ticari ilişkilerinizde _kesintisiz_ uyum sağlayın.
+
+## SAP ile Peppol 
+
+e-Fatura Nasıl Gönderilir?
+
+![Image 2: SAP ile Peppol e-Fatura Gönderimi](https://mdpgroup.com/wp-content/uploads/2025/12/SAP-ile-Peppol-e-Fatura-Gonderimi-718x174.png)
+
+Peppol Access Point hizmetimizi, güçlü entegrasyon platformumuz MIP üzerinden sunuyoruz. MIP ile SAP sisteminizi 
+
+entegre ediyor, fatura formatlarını otomatik olarak dönüştürüyor ve alıcılara sorunsuz bir şekilde iletiyoruz.
+
+## SAP ile Peppol 
+
+e-Fatura Nasıl Alınır?
+
+![Image 3: SAP ile Peppol e-Fatura Alımı](https://mdpgroup.com/wp-content/uploads/2025/12/SAP-ile-Peppol-e-Fatura-Alimi-718x174.png)
+
+Peppol üzerinden gelen faturaları, MIP’nin REST API’larından kolayca alabilirsiniz. 
+
+SAP paketleriyle bu faturaları doğrudan SAP’ye aktarabilirsiniz.
+
+### Size Yardımcı Olmak için Hazırız.
+
+## 5 Adımda Peppol'e Kayıt Olun
+
+## 1
+
+### Peppol Access Point (AP) Sağlayıcısı Seçin
+
+Peppol Access Point sertifikamızla Peppol ağına doğrudan bağlanmanıza yardımcı olmak için buradayız.
+
+## 2
+
+### Peppol ID (Peppol Kimliği) Talep Edin
+
+Ş irketinize özgü bir Peppol ID oluşturulur. Kimlik formatı, 0088: VKN veya 9952:VKN şeklinde verilir.
+
+## 3
+
+### MDP Peppol Access Point Üzerinden Kayıt İşlemleri
+
+Şirketinizi Peppol Participant Register’a kaydediyoruz. Bu kayıtla birlikte şirketiniz Peppol ağı üzerinden e-belge alıp gönderebilir hale gelir.
+
+## 4
+
+### Kabul Edilen Formatların Belirlenmesi
+
+Tüm belge türleri UBL 2.1 stan d artlarına dayansa da 
+
+ülke bazlı farklı standartlar vardır:
+
+•Avrupa’da yaygın olarak “Peppol BIS Billing 3.0” kullanılmaktadır.
+
+•Almanya’da “XRechnung“, Avusturalya ve Yeni Zelanda’da “AU-NZ Peppol BIS Billing 3.0” kullanılmaktadır.
+
+## 5
+
+### Canlıya Geçiş
+
+Tüm ayarlar tamamlandıktan sonra, şirketiniz canlı ortamda çalışmaya başlar.Peppol üzerinden e-fatura göndermeye ve almaya başlayabilirsiniz.
+
+## Neden MDP Group?
+
+### Kanıtlanmış Uzmanlık
+
+Türkiye’deki e-Fatura uzmanlığımızı, Avrupa projelerinden edindiğimiz deneyimle birleştiriyoruz.
+
+### Sektörel ve Teknik Bilgi
+
+Farklı sektörlerde edindiğimiz proje bilgisiyle, Peppol uyumlu süreçlerinizi sorunsuz yönetiyoruz.
+
+### 7/24 Destek
+
+Sadece proje aşamasında değil, proje sonrasında 7/24, süresiz destek sunarak daima yanınızda oluyoruz.
+
+### Peppol standartlarına uyum sağlamak, uluslararası ticari süreçlerinizi 
+
+aksatmadan yönetmek için bizimle iletime geçin.
+
+## Peppol Hakkında Sık Sorulan Sorular
+
+### Peppol Türkiye İçin Neden Önemli?
+
+Türkiye’nin ihracatının %40’ı Avrupa Birliği ülkelerine yapılmakta; otomotiv, tekstil, kimya ve plastik gibi öncü sektörlerde bu oran %50’nin üzerine çıkmaktadır.
+
+Türkiye’nin AB ile ticareti kesintisiz devam ettirebilmesi için AB standartlarına uyum sağlaması, dijitalleşmesi ve Peppol ağı üzerinden uyumlu fatura gönderip alabilmesi gerekmektedir.
+
+Avrupa ile dijital ticaretin yeni standardı haline gelen Peppol, Türk falirmalarının bu pazarlarda uyumlu, hızlı ve güvenli bir şekilde işlem yapmasını sağlıyor. Peppol ağına entegre olan firmalar, e-fatura süreçlerini dijitalleştirerek ticari ilişkilerinde kesinti riskini ortadan kaldırıyor.
+
+### Peppol Hangi Ülkelerde Kullanılıyor?
+
+Peppol ağına dahil olan ülkeler, aşağıda listelenmektedir:
+
+*   **Avrupa Ülkeleri**
+
+Almanya, Avusturya, Belçika, Danimarka, Estonya, Finlandiya, Fransa, Hırvatistan, Hollanda, İrlanda, İspanya, İsveç, Kıbrıs, Letonya, Litvanya, Lüksemburg, Malta, Polonya, Slovenya
+
+*   **Asya – Pasifik Ülkeleri**
+
+Avustralya, Japonya, Malezya, Singapur, Yeni Zelanda
+
+*   **AB Dışı Ülkeler**
+
+Birleşik Krallık (NHS ile), İzlanda, Norveç
+
+### e-Fatura için Peppol Kullanmanın Avantajları Nelerdir?
+
+*   **Kamu sektöründe tercih edilen bir tedarikçi olursunuz.**
+
+Peppol, Avrupa Birliği içinde resmi e-fatura standardı olarak kabul edilmiştir. Bu nedenle AB üyesi ülkelerdeki tüm kamu otoriteleri yalnızca Peppol standardına uygun e-fatura alabilmektedir. Avrupa'daki bir kamu kurumuna tedarik sağlıyorsanız, Peppol uyumlu e-fatura göndermeniz zorunludur.
+
+Bu doğrultuda e-fatura için Peppol kullanmanız iş süreçlerinizi kesintisiz şekilde sürdürmenizi ve dijital uyum sayesinde rakiplerinizin önüne geçmenizi sağlar.
+
+*   **AB standardına uyumlu olursunuz.**
+
+Peppol, elektronik belgelerin güvenli ve hızlı bir şekilde iletilmesini sağlamak amacıyla geliştirilmiştir. E-faturalarınızı Peppol ağı üzerinden gönderdiğinizde, Avrupa Birliği’nin uyumluluk gerekliliklerini yerine getirmiş olursunuz.
+
+*   **Uluslararası geçerliliği olan bir format kullanırsınız.**
+
+Peppol, yalnızca AB’ye özgü bir standart olarak başlamış olsa da Avustralya, Kanada, ABD ve diğer ülkelerde de benimsenerek küresel bir e-fatura ağına dönüşmüştür. Peppol kullandığınızda, potansiyel olarak tüm dünyayı pazarınız haline getirebilirsiniz. Bu da size küresel uyumluluk, yeni pazarlara açılma ve güçlü bir rekabet avantajı sağlar.
+
+### Peppol Nasıl Çalışır?
+
+Peppol, 4C (4 Corner) modelini kullanılır. Bu modelde, e-belge için dört taraf var.
+
+**1. Gönderici (Corner 1 – Sender)**
+
+Belgeyi (örneğin, elektronik fatura) oluşturan taraftır.
+
+**2. Gönderici Erişim Noktası (Corner 2 – Sender's Access Point)**
+
+Göndericinin belgelerini Peppol ağına ileten Peppol Access Point (AP) sağlayıcısıdır.
+
+**3. Alıcı Erişim Noktası (Corner 3 – Receiver's Access Point)**
+
+Alıcının Peppol ağı üzerindeki Access Point (AP) sağlayıcısıdır.
+
+**4. Alıcı (Corner 4 – Receiver)**
+
+Belgeyi alan taraf (örneğin, bir müşteri veya devlet kurumu).
+
+### Peppol Zorunlu mu?
+
+Peppol, işletmeler arası hükümet (B2G), hükümetler arası (G2B) ve işletmeler arası (B2B) sektörlerde dijital belge alışverişi için bir standart haline gelmiştir. Zorunluluk durumu ülkelere ve sektörlere göre değişiklik göstermektedir:
+
+### SAP ERP Kullanıcıları için Peppol e-Fatura Çözümü Nedir?
+
+SAP kullanan ve Peppol e-Fatura süreçlerini doğrudan SAP’de yönetmek isteyen şirketler için geliştirdiğimiz çözüm, tüm e-Fatura işlemlerini etkin ve güvenli şekilde yürütmenizi sağlar.
+
+## Peppol e-Fatura
+
+**Bizimle İletişime Geçebilirsiniz!**
+
+2013'den bu yana 5 kıtada 450’den fazla iş ortağımız ile birlikte 1100’den fazla projeyi başarıyla hayata geçirdik. Çözüm ve danışmanlık hizmetlerimiz hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+Mailiniz başarıyla gönderilmiştir en kısa sürede sizinle iletişime geçilecektir.
+
+Mesajınız ulaştırılamadı! Lütfen daha sonra tekrar deneyin.
+
